@@ -1,0 +1,45 @@
+{
+  "id": "NA0805",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Ohangwena",
+    "en": "Ohangwena",
+    "slug": "ohangwena-na0805"
+  },
+  "code": {
+    "id": "NA0805",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA08",
+    "level": 1,
+    "name": {
+      "local": "Ohangwena",
+      "en": "Ohangwena",
+      "slug": "ohangwena-na08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA08",
+      "level": 1,
+      "name": {
+        "local": "Ohangwena",
+        "en": "Ohangwena",
+        "slug": "ohangwena-na08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.507",
+    "lon": "15.885"
+  },
+  "metadata": {},
+  "source": {}
+}

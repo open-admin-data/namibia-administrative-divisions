@@ -1,0 +1,29 @@
+{
+  "id": "NA07",
+  "level": 1,
+  "level_name": {
+    "local": "Region",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Kunene",
+    "en": "Kunene",
+    "slug": "kunene-na07"
+  },
+  "code": {
+    "id": "NA07",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "constituency": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.077",
+    "lon": "13.459"
+  },
+  "metadata": {},
+  "source": {}
+}

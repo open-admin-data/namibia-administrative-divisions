@@ -1,0 +1,45 @@
+{
+  "id": "NA0804",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Epembe",
+    "en": "Epembe",
+    "slug": "epembe-na0804"
+  },
+  "code": {
+    "id": "NA0804",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA08",
+    "level": 1,
+    "name": {
+      "local": "Ohangwena",
+      "en": "Ohangwena",
+      "slug": "ohangwena-na08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA08",
+      "level": 1,
+      "name": {
+        "local": "Ohangwena",
+        "en": "Ohangwena",
+        "slug": "ohangwena-na08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.686",
+    "lon": "16.701"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "NA0902",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Gobabis",
+    "en": "Gobabis",
+    "slug": "gobabis-na0902"
+  },
+  "code": {
+    "id": "NA0902",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA09",
+    "level": 1,
+    "name": {
+      "local": "Omaheke",
+      "en": "Omaheke",
+      "slug": "omaheke-na09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA09",
+      "level": 1,
+      "name": {
+        "local": "Omaheke",
+        "en": "Omaheke",
+        "slug": "omaheke-na09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.768",
+    "lon": "18.624"
+  },
+  "metadata": {},
+  "source": {}
+}

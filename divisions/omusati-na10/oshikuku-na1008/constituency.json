@@ -1,0 +1,45 @@
+{
+  "id": "NA1008",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Oshikuku",
+    "en": "Oshikuku",
+    "slug": "oshikuku-na1008"
+  },
+  "code": {
+    "id": "NA1008",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA10",
+    "level": 1,
+    "name": {
+      "local": "Omusati",
+      "en": "Omusati",
+      "slug": "omusati-na10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA10",
+      "level": 1,
+      "name": {
+        "local": "Omusati",
+        "en": "Omusati",
+        "slug": "omusati-na10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.7",
+    "lon": "15.401"
+  },
+  "metadata": {},
+  "source": {}
+}

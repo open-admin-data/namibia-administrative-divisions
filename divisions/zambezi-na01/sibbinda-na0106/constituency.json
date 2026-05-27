@@ -1,0 +1,45 @@
+{
+  "id": "NA0106",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Sibbinda",
+    "en": "Sibbinda",
+    "slug": "sibbinda-na0106"
+  },
+  "code": {
+    "id": "NA0106",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA01",
+    "level": 1,
+    "name": {
+      "local": "Zambezi",
+      "en": "Zambezi",
+      "slug": "zambezi-na01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA01",
+      "level": 1,
+      "name": {
+        "local": "Zambezi",
+        "en": "Zambezi",
+        "slug": "zambezi-na01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.855",
+    "lon": "24.096"
+  },
+  "metadata": {},
+  "source": {}
+}

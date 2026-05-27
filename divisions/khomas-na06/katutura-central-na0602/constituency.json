@@ -1,0 +1,45 @@
+{
+  "id": "NA0602",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Katutura Central",
+    "en": "Katutura Central",
+    "slug": "katutura-central-na0602"
+  },
+  "code": {
+    "id": "NA0602",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA06",
+    "level": 1,
+    "name": {
+      "local": "Khomas",
+      "en": "Khomas",
+      "slug": "khomas-na06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA06",
+      "level": 1,
+      "name": {
+        "local": "Khomas",
+        "en": "Khomas",
+        "slug": "khomas-na06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.523",
+    "lon": "17.052"
+  },
+  "metadata": {},
+  "source": {}
+}

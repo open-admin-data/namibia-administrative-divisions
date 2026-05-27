@@ -1,0 +1,45 @@
+{
+  "id": "NA0302",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Mariental Rural",
+    "en": "Mariental Rural",
+    "slug": "mariental-rural-na0302"
+  },
+  "code": {
+    "id": "NA0302",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA03",
+    "level": 1,
+    "name": {
+      "local": "Hardap",
+      "en": "Hardap",
+      "slug": "hardap-na03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA03",
+      "level": 1,
+      "name": {
+        "local": "Hardap",
+        "en": "Hardap",
+        "slug": "hardap-na03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-24.573",
+    "lon": "18.99"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "NA08",
+  "level": 1,
+  "level_name": {
+    "local": "Region",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Ohangwena",
+    "en": "Ohangwena",
+    "slug": "ohangwena-na08"
+  },
+  "code": {
+    "id": "NA08",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "constituency": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.661",
+    "lon": "16.823"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "NA0505",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Mukwe",
+    "en": "Mukwe",
+    "slug": "mukwe-na0505"
+  },
+  "code": {
+    "id": "NA0505",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA05",
+    "level": 1,
+    "name": {
+      "local": "Kavango East",
+      "en": "Kavango East",
+      "slug": "kavango-east-na05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA05",
+      "level": 1,
+      "name": {
+        "local": "Kavango East",
+        "en": "Kavango East",
+        "slug": "kavango-east-na05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.072",
+    "lon": "21.75"
+  },
+  "metadata": {},
+  "source": {}
+}

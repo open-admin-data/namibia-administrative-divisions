@@ -1,0 +1,45 @@
+{
+  "id": "NA0703",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Khorixas",
+    "en": "Khorixas",
+    "slug": "khorixas-na0703"
+  },
+  "code": {
+    "id": "NA0703",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA07",
+    "level": 1,
+    "name": {
+      "local": "Kunene",
+      "en": "Kunene",
+      "slug": "kunene-na07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA07",
+      "level": 1,
+      "name": {
+        "local": "Kunene",
+        "en": "Kunene",
+        "slug": "kunene-na07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.595",
+    "lon": "14.312"
+  },
+  "metadata": {},
+  "source": {}
+}

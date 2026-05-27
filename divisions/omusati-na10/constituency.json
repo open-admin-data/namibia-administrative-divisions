@@ -1,0 +1,542 @@
+[
+  {
+    "id": "NA1001",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Anamulenge",
+      "en": "Anamulenge",
+      "slug": "anamulenge-na1001"
+    },
+    "code": {
+      "id": "NA1001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA10",
+      "level": 1,
+      "name": {
+        "local": "Omusati",
+        "en": "Omusati",
+        "slug": "omusati-na10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA10",
+        "level": 1,
+        "name": {
+          "local": "Omusati",
+          "en": "Omusati",
+          "slug": "omusati-na10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.515",
+      "lon": "15.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1002",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Elim",
+      "en": "Elim",
+      "slug": "elim-na1002"
+    },
+    "code": {
+      "id": "NA1002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA10",
+      "level": 1,
+      "name": {
+        "local": "Omusati",
+        "en": "Omusati",
+        "slug": "omusati-na10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA10",
+        "level": 1,
+        "name": {
+          "local": "Omusati",
+          "en": "Omusati",
+          "slug": "omusati-na10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.825",
+      "lon": "15.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1003",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Etayi",
+      "en": "Etayi",
+      "slug": "etayi-na1003"
+    },
+    "code": {
+      "id": "NA1003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA10",
+      "level": 1,
+      "name": {
+        "local": "Omusati",
+        "en": "Omusati",
+        "slug": "omusati-na10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA10",
+        "level": 1,
+        "name": {
+          "local": "Omusati",
+          "en": "Omusati",
+          "slug": "omusati-na10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.564",
+      "lon": "15.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1004",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Ogongo",
+      "en": "Ogongo",
+      "slug": "ogongo-na1004"
+    },
+    "code": {
+      "id": "NA1004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA10",
+      "level": 1,
+      "name": {
+        "local": "Omusati",
+        "en": "Omusati",
+        "slug": "omusati-na10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA10",
+        "level": 1,
+        "name": {
+          "local": "Omusati",
+          "en": "Omusati",
+          "slug": "omusati-na10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.709",
+      "lon": "15.188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1005",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Okahao",
+      "en": "Okahao",
+      "slug": "okahao-na1005"
+    },
+    "code": {
+      "id": "NA1005",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA10",
+      "level": 1,
+      "name": {
+        "local": "Omusati",
+        "en": "Omusati",
+        "slug": "omusati-na10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA10",
+        "level": 1,
+        "name": {
+          "local": "Omusati",
+          "en": "Omusati",
+          "slug": "omusati-na10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.616",
+      "lon": "14.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1006",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Okalongo",
+      "en": "Okalongo",
+      "slug": "okalongo-na1006"
+    },
+    "code": {
+      "id": "NA1006",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA10",
+      "level": 1,
+      "name": {
+        "local": "Omusati",
+        "en": "Omusati",
+        "slug": "omusati-na10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA10",
+        "level": 1,
+        "name": {
+          "local": "Omusati",
+          "en": "Omusati",
+          "slug": "omusati-na10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.515",
+      "lon": "15.309"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1007",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Onesi",
+      "en": "Onesi",
+      "slug": "onesi-na1007"
+    },
+    "code": {
+      "id": "NA1007",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA10",
+      "level": 1,
+      "name": {
+        "local": "Omusati",
+        "en": "Omusati",
+        "slug": "omusati-na10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA10",
+        "level": 1,
+        "name": {
+          "local": "Omusati",
+          "en": "Omusati",
+          "slug": "omusati-na10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.57",
+      "lon": "14.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1008",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Oshikuku",
+      "en": "Oshikuku",
+      "slug": "oshikuku-na1008"
+    },
+    "code": {
+      "id": "NA1008",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA10",
+      "level": 1,
+      "name": {
+        "local": "Omusati",
+        "en": "Omusati",
+        "slug": "omusati-na10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA10",
+        "level": 1,
+        "name": {
+          "local": "Omusati",
+          "en": "Omusati",
+          "slug": "omusati-na10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.7",
+      "lon": "15.401"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1012",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Otamanzi",
+      "en": "Otamanzi",
+      "slug": "otamanzi-na1012"
+    },
+    "code": {
+      "id": "NA1012",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA10",
+      "level": 1,
+      "name": {
+        "local": "Omusati",
+        "en": "Omusati",
+        "slug": "omusati-na10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA10",
+        "level": 1,
+        "name": {
+          "local": "Omusati",
+          "en": "Omusati",
+          "slug": "omusati-na10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.525",
+      "lon": "15.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1009",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Outapi",
+      "en": "Outapi",
+      "slug": "outapi-na1009"
+    },
+    "code": {
+      "id": "NA1009",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA10",
+      "level": 1,
+      "name": {
+        "local": "Omusati",
+        "en": "Omusati",
+        "slug": "omusati-na10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA10",
+        "level": 1,
+        "name": {
+          "local": "Omusati",
+          "en": "Omusati",
+          "slug": "omusati-na10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.531",
+      "lon": "14.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1010",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Ruacana",
+      "en": "Ruacana",
+      "slug": "ruacana-na1010"
+    },
+    "code": {
+      "id": "NA1010",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA10",
+      "level": 1,
+      "name": {
+        "local": "Omusati",
+        "en": "Omusati",
+        "slug": "omusati-na10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA10",
+        "level": 1,
+        "name": {
+          "local": "Omusati",
+          "en": "Omusati",
+          "slug": "omusati-na10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.197",
+      "lon": "14.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1011",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Tsandi",
+      "en": "Tsandi",
+      "slug": "tsandi-na1011"
+    },
+    "code": {
+      "id": "NA1011",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA10",
+      "level": 1,
+      "name": {
+        "local": "Omusati",
+        "en": "Omusati",
+        "slug": "omusati-na10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA10",
+        "level": 1,
+        "name": {
+          "local": "Omusati",
+          "en": "Omusati",
+          "slug": "omusati-na10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.934",
+      "lon": "14.777"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

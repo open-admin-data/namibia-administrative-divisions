@@ -1,0 +1,29 @@
+{
+  "id": "NA13",
+  "level": 1,
+  "level_name": {
+    "local": "Region",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Otjozondjupa",
+    "en": "Otjozondjupa",
+    "slug": "otjozondjupa-na13"
+  },
+  "code": {
+    "id": "NA13",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "constituency": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.566",
+    "lon": "17.177"
+  },
+  "metadata": {},
+  "source": {}
+}

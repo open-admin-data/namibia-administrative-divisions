@@ -1,0 +1,69 @@
+# Omusati — Namibia Administrative Divisions
+
+> 12 constituencys
+> Code: NA10
+> Coordinates: -18.403, 14.921
+> Last updated: 2026-05-27. License: CC-BY-4.0.
+
+## Constituencys
+
+### Anamulenge
+
+Code: NA1001, Coordinates: -17.515, 15.1
+
+
+### Elim
+
+Code: NA1002, Coordinates: -17.825, 15.391
+
+
+### Etayi
+
+Code: NA1003, Coordinates: -17.564, 15.537
+
+
+### Ogongo
+
+Code: NA1004, Coordinates: -17.709, 15.188
+
+
+### Okahao
+
+Code: NA1005, Coordinates: -18.616, 14.917
+
+
+### Okalongo
+
+Code: NA1006, Coordinates: -17.515, 15.309
+
+
+### Onesi
+
+Code: NA1007, Coordinates: -17.57, 14.628
+
+
+### Oshikuku
+
+Code: NA1008, Coordinates: -17.7, 15.401
+
+
+### Otamanzi
+
+Code: NA1012, Coordinates: -18.525, 15.392
+
+
+### Outapi
+
+Code: NA1009, Coordinates: -17.531, 14.839
+
+
+### Ruacana
+
+Code: NA1010, Coordinates: -18.197, 14.427
+
+
+### Tsandi
+
+Code: NA1011, Coordinates: -17.934, 14.777
+
+

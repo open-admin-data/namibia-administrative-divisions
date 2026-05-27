@@ -1,0 +1,29 @@
+{
+  "id": "NA10",
+  "level": 1,
+  "level_name": {
+    "local": "Region",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Omusati",
+    "en": "Omusati",
+    "slug": "omusati-na10"
+  },
+  "code": {
+    "id": "NA10",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "constituency": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.403",
+    "lon": "14.921"
+  },
+  "metadata": {},
+  "source": {}
+}

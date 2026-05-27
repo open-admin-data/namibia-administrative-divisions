@@ -1,0 +1,452 @@
+[
+  {
+    "id": "NA1201",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Eengodi",
+      "en": "Eengodi",
+      "slug": "eengodi-na1201"
+    },
+    "code": {
+      "id": "NA1201",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA12",
+      "level": 1,
+      "name": {
+        "local": "Oshikoto",
+        "en": "Oshikoto",
+        "slug": "oshikoto-na12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA12",
+        "level": 1,
+        "name": {
+          "local": "Oshikoto",
+          "en": "Oshikoto",
+          "slug": "oshikoto-na12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.217",
+      "lon": "17.295"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1202",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Guinas",
+      "en": "Guinas",
+      "slug": "guinas-na1202"
+    },
+    "code": {
+      "id": "NA1202",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA12",
+      "level": 1,
+      "name": {
+        "local": "Oshikoto",
+        "en": "Oshikoto",
+        "slug": "oshikoto-na12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA12",
+        "level": 1,
+        "name": {
+          "local": "Oshikoto",
+          "en": "Oshikoto",
+          "slug": "oshikoto-na12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.955",
+      "lon": "17.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1203",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Okankolo",
+      "en": "Okankolo",
+      "slug": "okankolo-na1203"
+    },
+    "code": {
+      "id": "NA1203",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA12",
+      "level": 1,
+      "name": {
+        "local": "Oshikoto",
+        "en": "Oshikoto",
+        "slug": "oshikoto-na12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA12",
+        "level": 1,
+        "name": {
+          "local": "Oshikoto",
+          "en": "Oshikoto",
+          "slug": "oshikoto-na12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.946",
+      "lon": "16.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1204",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Olukonda",
+      "en": "Olukonda",
+      "slug": "olukonda-na1204"
+    },
+    "code": {
+      "id": "NA1204",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA12",
+      "level": 1,
+      "name": {
+        "local": "Oshikoto",
+        "en": "Oshikoto",
+        "slug": "oshikoto-na12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA12",
+        "level": 1,
+        "name": {
+          "local": "Oshikoto",
+          "en": "Oshikoto",
+          "slug": "oshikoto-na12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.045",
+      "lon": "16.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1205",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Omuntele",
+      "en": "Omuntele",
+      "slug": "omuntele-na1205"
+    },
+    "code": {
+      "id": "NA1205",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA12",
+      "level": 1,
+      "name": {
+        "local": "Oshikoto",
+        "en": "Oshikoto",
+        "slug": "oshikoto-na12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA12",
+        "level": 1,
+        "name": {
+          "local": "Oshikoto",
+          "en": "Oshikoto",
+          "slug": "oshikoto-na12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.285",
+      "lon": "16.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1206",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Omuthiyagwiipundi",
+      "en": "Omuthiyagwiipundi",
+      "slug": "omuthiyagwiipundi-na1206"
+    },
+    "code": {
+      "id": "NA1206",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA12",
+      "level": 1,
+      "name": {
+        "local": "Oshikoto",
+        "en": "Oshikoto",
+        "slug": "oshikoto-na12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA12",
+        "level": 1,
+        "name": {
+          "local": "Oshikoto",
+          "en": "Oshikoto",
+          "slug": "oshikoto-na12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.814",
+      "lon": "16.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1207",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Onayena",
+      "en": "Onayena",
+      "slug": "onayena-na1207"
+    },
+    "code": {
+      "id": "NA1207",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA12",
+      "level": 1,
+      "name": {
+        "local": "Oshikoto",
+        "en": "Oshikoto",
+        "slug": "oshikoto-na12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA12",
+        "level": 1,
+        "name": {
+          "local": "Oshikoto",
+          "en": "Oshikoto",
+          "slug": "oshikoto-na12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.97",
+      "lon": "16.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1208",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Oniipa",
+      "en": "Oniipa",
+      "slug": "oniipa-na1208"
+    },
+    "code": {
+      "id": "NA1208",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA12",
+      "level": 1,
+      "name": {
+        "local": "Oshikoto",
+        "en": "Oshikoto",
+        "slug": "oshikoto-na12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA12",
+        "level": 1,
+        "name": {
+          "local": "Oshikoto",
+          "en": "Oshikoto",
+          "slug": "oshikoto-na12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.849",
+      "lon": "16.072"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1209",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Onyaanya",
+      "en": "Onyaanya",
+      "slug": "onyaanya-na1209"
+    },
+    "code": {
+      "id": "NA1209",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA12",
+      "level": 1,
+      "name": {
+        "local": "Oshikoto",
+        "en": "Oshikoto",
+        "slug": "oshikoto-na12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA12",
+        "level": 1,
+        "name": {
+          "local": "Oshikoto",
+          "en": "Oshikoto",
+          "slug": "oshikoto-na12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.08",
+      "lon": "16.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1210",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Tsumeb",
+      "en": "Tsumeb",
+      "slug": "tsumeb-na1210"
+    },
+    "code": {
+      "id": "NA1210",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA12",
+      "level": 1,
+      "name": {
+        "local": "Oshikoto",
+        "en": "Oshikoto",
+        "slug": "oshikoto-na12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA12",
+        "level": 1,
+        "name": {
+          "local": "Oshikoto",
+          "en": "Oshikoto",
+          "slug": "oshikoto-na12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.249",
+      "lon": "17.722"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

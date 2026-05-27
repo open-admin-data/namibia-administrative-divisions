@@ -1,0 +1,39 @@
+# Kunene — Namibia Administrative Divisions
+
+> 6 constituencys
+> Code: NA07
+> Coordinates: -19.077, 13.459
+> Last updated: 2026-05-27. License: CC-BY-4.0.
+
+## Constituencys
+
+### Epupa
+
+Code: NA0701, Coordinates: -17.482, 12.967
+
+
+### Kamanjab
+
+Code: NA0702, Coordinates: -19.876, 15.339
+
+
+### Khorixas
+
+Code: NA0703, Coordinates: -20.595, 14.312
+
+
+### Opuwo
+
+Code: NA0704, Coordinates: -18.5, 13.171
+
+
+### Outjo
+
+Code: NA0705, Coordinates: -19.881, 16.337
+
+
+### Sesfontein
+
+Code: NA0706, Coordinates: -19.5, 13.622
+
+

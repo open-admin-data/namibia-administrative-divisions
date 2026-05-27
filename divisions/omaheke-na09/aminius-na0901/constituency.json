@@ -1,0 +1,45 @@
+{
+  "id": "NA0901",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Aminius",
+    "en": "Aminius",
+    "slug": "aminius-na0901"
+  },
+  "code": {
+    "id": "NA0901",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA09",
+    "level": 1,
+    "name": {
+      "local": "Omaheke",
+      "en": "Omaheke",
+      "slug": "omaheke-na09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA09",
+      "level": 1,
+      "name": {
+        "local": "Omaheke",
+        "en": "Omaheke",
+        "slug": "omaheke-na09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.422",
+    "lon": "19.234"
+  },
+  "metadata": {},
+  "source": {}
+}

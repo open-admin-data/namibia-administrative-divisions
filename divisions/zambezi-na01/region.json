@@ -1,0 +1,29 @@
+{
+  "id": "NA01",
+  "level": 1,
+  "level_name": {
+    "local": "Region",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Zambezi",
+    "en": "Zambezi",
+    "slug": "zambezi-na01"
+  },
+  "code": {
+    "id": "NA01",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "constituency": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.985",
+    "lon": "23.419"
+  },
+  "metadata": {},
+  "source": {}
+}

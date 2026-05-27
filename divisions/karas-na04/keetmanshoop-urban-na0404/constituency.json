@@ -1,0 +1,45 @@
+{
+  "id": "NA0404",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Keetmanshoop Urban",
+    "en": "Keetmanshoop Urban",
+    "slug": "keetmanshoop-urban-na0404"
+  },
+  "code": {
+    "id": "NA0404",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA04",
+    "level": 1,
+    "name": {
+      "local": "Karas",
+      "en": "Karas",
+      "slug": "karas-na04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA04",
+      "level": 1,
+      "name": {
+        "local": "Karas",
+        "en": "Karas",
+        "slug": "karas-na04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.508",
+    "lon": "18.092"
+  },
+  "metadata": {},
+  "source": {}
+}

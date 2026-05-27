@@ -1,0 +1,45 @@
+{
+  "id": "NA0201",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Arandis",
+    "en": "Arandis",
+    "slug": "arandis-na0201"
+  },
+  "code": {
+    "id": "NA0201",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA02",
+    "level": 1,
+    "name": {
+      "local": "Erongo",
+      "en": "Erongo",
+      "slug": "erongo-na02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA02",
+      "level": 1,
+      "name": {
+        "local": "Erongo",
+        "en": "Erongo",
+        "slug": "erongo-na02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.171",
+    "lon": "14.616"
+  },
+  "metadata": {},
+  "source": {}
+}

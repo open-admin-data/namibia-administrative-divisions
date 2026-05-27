@@ -1,0 +1,45 @@
+{
+  "id": "NA1002",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Elim",
+    "en": "Elim",
+    "slug": "elim-na1002"
+  },
+  "code": {
+    "id": "NA1002",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA10",
+    "level": 1,
+    "name": {
+      "local": "Omusati",
+      "en": "Omusati",
+      "slug": "omusati-na10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA10",
+      "level": 1,
+      "name": {
+        "local": "Omusati",
+        "en": "Omusati",
+        "slug": "omusati-na10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.825",
+    "lon": "15.391"
+  },
+  "metadata": {},
+  "source": {}
+}

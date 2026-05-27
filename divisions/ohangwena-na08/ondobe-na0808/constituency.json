@@ -1,0 +1,45 @@
+{
+  "id": "NA0808",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Ondobe",
+    "en": "Ondobe",
+    "slug": "ondobe-na0808"
+  },
+  "code": {
+    "id": "NA0808",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA08",
+    "level": 1,
+    "name": {
+      "local": "Ohangwena",
+      "en": "Ohangwena",
+      "slug": "ohangwena-na08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA08",
+      "level": 1,
+      "name": {
+        "local": "Ohangwena",
+        "en": "Ohangwena",
+        "slug": "ohangwena-na08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.492",
+    "lon": "16.185"
+  },
+  "metadata": {},
+  "source": {}
+}

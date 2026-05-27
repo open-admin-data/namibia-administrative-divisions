@@ -1,0 +1,45 @@
+{
+  "id": "NA0803",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Engela",
+    "en": "Engela",
+    "slug": "engela-na0803"
+  },
+  "code": {
+    "id": "NA0803",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA08",
+    "level": 1,
+    "name": {
+      "local": "Ohangwena",
+      "en": "Ohangwena",
+      "slug": "ohangwena-na08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA08",
+      "level": 1,
+      "name": {
+        "local": "Ohangwena",
+        "en": "Ohangwena",
+        "slug": "ohangwena-na08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.534",
+    "lon": "15.715"
+  },
+  "metadata": {},
+  "source": {}
+}

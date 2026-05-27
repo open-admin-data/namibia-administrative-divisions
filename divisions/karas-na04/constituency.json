@@ -1,0 +1,272 @@
+[
+  {
+    "id": "NA0401",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Berseba",
+      "en": "Berseba",
+      "slug": "berseba-na0401"
+    },
+    "code": {
+      "id": "NA0401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA04",
+      "level": 1,
+      "name": {
+        "local": "Karas",
+        "en": "Karas",
+        "slug": "karas-na04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA04",
+        "level": 1,
+        "name": {
+          "local": "Karas",
+          "en": "Karas",
+          "slug": "karas-na04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.715",
+      "lon": "17.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0402",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Karasburg",
+      "en": "Karasburg",
+      "slug": "karasburg-na0402"
+    },
+    "code": {
+      "id": "NA0402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA04",
+      "level": 1,
+      "name": {
+        "local": "Karas",
+        "en": "Karas",
+        "slug": "karas-na04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA04",
+        "level": 1,
+        "name": {
+          "local": "Karas",
+          "en": "Karas",
+          "slug": "karas-na04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-28.053",
+      "lon": "18.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0403",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Keetmanshoop Rural",
+      "en": "Keetmanshoop Rural",
+      "slug": "keetmanshoop-rural-na0403"
+    },
+    "code": {
+      "id": "NA0403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA04",
+      "level": 1,
+      "name": {
+        "local": "Karas",
+        "en": "Karas",
+        "slug": "karas-na04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA04",
+        "level": 1,
+        "name": {
+          "local": "Karas",
+          "en": "Karas",
+          "slug": "karas-na04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.567",
+      "lon": "19.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0404",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Keetmanshoop Urban",
+      "en": "Keetmanshoop Urban",
+      "slug": "keetmanshoop-urban-na0404"
+    },
+    "code": {
+      "id": "NA0404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA04",
+      "level": 1,
+      "name": {
+        "local": "Karas",
+        "en": "Karas",
+        "slug": "karas-na04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA04",
+        "level": 1,
+        "name": {
+          "local": "Karas",
+          "en": "Karas",
+          "slug": "karas-na04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.508",
+      "lon": "18.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0405",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Naminus (Luderitz)",
+      "en": "Naminus (Luderitz)",
+      "slug": "naminus-luderitz-na0405"
+    },
+    "code": {
+      "id": "NA0405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA04",
+      "level": 1,
+      "name": {
+        "local": "Karas",
+        "en": "Karas",
+        "slug": "karas-na04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA04",
+        "level": 1,
+        "name": {
+          "local": "Karas",
+          "en": "Karas",
+          "slug": "karas-na04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.736",
+      "lon": "15.879"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0406",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Oranjemund",
+      "en": "Oranjemund",
+      "slug": "oranjemund-na0406"
+    },
+    "code": {
+      "id": "NA0406",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA04",
+      "level": 1,
+      "name": {
+        "local": "Karas",
+        "en": "Karas",
+        "slug": "karas-na04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA04",
+        "level": 1,
+        "name": {
+          "local": "Karas",
+          "en": "Karas",
+          "slug": "karas-na04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-28.09",
+      "lon": "16.738"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "NA1208",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Oniipa",
+    "en": "Oniipa",
+    "slug": "oniipa-na1208"
+  },
+  "code": {
+    "id": "NA1208",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA12",
+    "level": 1,
+    "name": {
+      "local": "Oshikoto",
+      "en": "Oshikoto",
+      "slug": "oshikoto-na12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA12",
+      "level": 1,
+      "name": {
+        "local": "Oshikoto",
+        "en": "Oshikoto",
+        "slug": "oshikoto-na12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.849",
+    "lon": "16.072"
+  },
+  "metadata": {},
+  "source": {}
+}

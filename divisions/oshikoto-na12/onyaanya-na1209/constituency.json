@@ -1,0 +1,45 @@
+{
+  "id": "NA1209",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Onyaanya",
+    "en": "Onyaanya",
+    "slug": "onyaanya-na1209"
+  },
+  "code": {
+    "id": "NA1209",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA12",
+    "level": 1,
+    "name": {
+      "local": "Oshikoto",
+      "en": "Oshikoto",
+      "slug": "oshikoto-na12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA12",
+      "level": 1,
+      "name": {
+        "local": "Oshikoto",
+        "en": "Oshikoto",
+        "slug": "oshikoto-na12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.08",
+    "lon": "16.338"
+  },
+  "metadata": {},
+  "source": {}
+}

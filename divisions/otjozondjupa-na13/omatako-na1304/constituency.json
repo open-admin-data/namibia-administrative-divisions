@@ -1,0 +1,45 @@
+{
+  "id": "NA1304",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Omatako",
+    "en": "Omatako",
+    "slug": "omatako-na1304"
+  },
+  "code": {
+    "id": "NA1304",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA13",
+    "level": 1,
+    "name": {
+      "local": "Otjozondjupa",
+      "en": "Otjozondjupa",
+      "slug": "otjozondjupa-na13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA13",
+      "level": 1,
+      "name": {
+        "local": "Otjozondjupa",
+        "en": "Otjozondjupa",
+        "slug": "otjozondjupa-na13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.266",
+    "lon": "17.507"
+  },
+  "metadata": {},
+  "source": {}
+}

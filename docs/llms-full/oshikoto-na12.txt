@@ -1,0 +1,59 @@
+# Oshikoto — Namibia Administrative Divisions
+
+> 10 constituencys
+> Code: NA12
+> Coordinates: -18.612, 17.008
+> Last updated: 2026-05-27. License: CC-BY-4.0.
+
+## Constituencys
+
+### Eengodi
+
+Code: NA1201, Coordinates: -18.217, 17.295
+
+
+### Guinas
+
+Code: NA1202, Coordinates: -18.955, 17.631
+
+
+### Okankolo
+
+Code: NA1203, Coordinates: -17.946, 16.732
+
+
+### Olukonda
+
+Code: NA1204, Coordinates: -18.045, 16.078
+
+
+### Omuntele
+
+Code: NA1205, Coordinates: -18.285, 16.179
+
+
+### Omuthiyagwiipundi
+
+Code: NA1206, Coordinates: -18.814, 16.45
+
+
+### Onayena
+
+Code: NA1207, Coordinates: -17.97, 16.22
+
+
+### Oniipa
+
+Code: NA1208, Coordinates: -17.849, 16.072
+
+
+### Onyaanya
+
+Code: NA1209, Coordinates: -18.08, 16.338
+
+
+### Tsumeb
+
+Code: NA1210, Coordinates: -19.249, 17.722
+
+

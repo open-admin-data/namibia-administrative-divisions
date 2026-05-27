@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite as below"
+type: dataset
+authors:
+  - name: "jakkrapongt"
+title: "Namibia Administrative Divisions Dataset"
+version: "2026.05"
+date-released: "2026-05-27"
+url: "https://github.com/open-admin-data/namibia-administrative-divisions"
+repository-code: "https://github.com/open-admin-data/namibia-administrative-divisions"
+license: CC-BY-4.0
+keywords:
+  - namibia
+  - administrative-divisions
+  - geography
+  - open-data
+  - dataset
+  - multilingual
+abstract: >
+  Open dataset of Namibia's administrative hierarchy:
+  14 regions, 107 constituencys.
+  Bilingual with coordinates and postal codes where available.

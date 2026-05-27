@@ -1,0 +1,4817 @@
+[
+  {
+    "id": "NA0901",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Aminius",
+      "en": "Aminius",
+      "slug": "aminius-na0901"
+    },
+    "code": {
+      "id": "NA0901",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA09",
+      "level": 1,
+      "name": {
+        "local": "Omaheke",
+        "en": "Omaheke",
+        "slug": "omaheke-na09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA09",
+        "level": 1,
+        "name": {
+          "local": "Omaheke",
+          "en": "Omaheke",
+          "slug": "omaheke-na09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.422",
+      "lon": "19.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1001",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Anamulenge",
+      "en": "Anamulenge",
+      "slug": "anamulenge-na1001"
+    },
+    "code": {
+      "id": "NA1001",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA10",
+      "level": 1,
+      "name": {
+        "local": "Omusati",
+        "en": "Omusati",
+        "slug": "omusati-na10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA10",
+        "level": 1,
+        "name": {
+          "local": "Omusati",
+          "en": "Omusati",
+          "slug": "omusati-na10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.515",
+      "lon": "15.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0201",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Arandis",
+      "en": "Arandis",
+      "slug": "arandis-na0201"
+    },
+    "code": {
+      "id": "NA0201",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA02",
+      "level": 1,
+      "name": {
+        "local": "Erongo",
+        "en": "Erongo",
+        "slug": "erongo-na02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA02",
+        "level": 1,
+        "name": {
+          "local": "Erongo",
+          "en": "Erongo",
+          "slug": "erongo-na02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.171",
+      "lon": "14.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0401",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Berseba",
+      "en": "Berseba",
+      "slug": "berseba-na0401"
+    },
+    "code": {
+      "id": "NA0401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA04",
+      "level": 1,
+      "name": {
+        "local": "Karas",
+        "en": "Karas",
+        "slug": "karas-na04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA04",
+        "level": 1,
+        "name": {
+          "local": "Karas",
+          "en": "Karas",
+          "slug": "karas-na04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.715",
+      "lon": "17.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0202",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Daures",
+      "en": "Daures",
+      "slug": "daures-na0202"
+    },
+    "code": {
+      "id": "NA0202",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA02",
+      "level": 1,
+      "name": {
+        "local": "Erongo",
+        "en": "Erongo",
+        "slug": "erongo-na02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA02",
+        "level": 1,
+        "name": {
+          "local": "Erongo",
+          "en": "Erongo",
+          "slug": "erongo-na02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.363",
+      "lon": "14.824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1201",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Eengodi",
+      "en": "Eengodi",
+      "slug": "eengodi-na1201"
+    },
+    "code": {
+      "id": "NA1201",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA12",
+      "level": 1,
+      "name": {
+        "local": "Oshikoto",
+        "en": "Oshikoto",
+        "slug": "oshikoto-na12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA12",
+        "level": 1,
+        "name": {
+          "local": "Oshikoto",
+          "en": "Oshikoto",
+          "slug": "oshikoto-na12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.217",
+      "lon": "17.295"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0801",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Eenhana",
+      "en": "Eenhana",
+      "slug": "eenhana-na0801"
+    },
+    "code": {
+      "id": "NA0801",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA08",
+      "level": 1,
+      "name": {
+        "local": "Ohangwena",
+        "en": "Ohangwena",
+        "slug": "ohangwena-na08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA08",
+        "level": 1,
+        "name": {
+          "local": "Ohangwena",
+          "en": "Ohangwena",
+          "slug": "ohangwena-na08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.682",
+      "lon": "16.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1002",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Elim",
+      "en": "Elim",
+      "slug": "elim-na1002"
+    },
+    "code": {
+      "id": "NA1002",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA10",
+      "level": 1,
+      "name": {
+        "local": "Omusati",
+        "en": "Omusati",
+        "slug": "omusati-na10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA10",
+        "level": 1,
+        "name": {
+          "local": "Omusati",
+          "en": "Omusati",
+          "slug": "omusati-na10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.825",
+      "lon": "15.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0802",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Endola",
+      "en": "Endola",
+      "slug": "endola-na0802"
+    },
+    "code": {
+      "id": "NA0802",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA08",
+      "level": 1,
+      "name": {
+        "local": "Ohangwena",
+        "en": "Ohangwena",
+        "slug": "ohangwena-na08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA08",
+        "level": 1,
+        "name": {
+          "local": "Ohangwena",
+          "en": "Ohangwena",
+          "slug": "ohangwena-na08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.623",
+      "lon": "15.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0803",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Engela",
+      "en": "Engela",
+      "slug": "engela-na0803"
+    },
+    "code": {
+      "id": "NA0803",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA08",
+      "level": 1,
+      "name": {
+        "local": "Ohangwena",
+        "en": "Ohangwena",
+        "slug": "ohangwena-na08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA08",
+        "level": 1,
+        "name": {
+          "local": "Ohangwena",
+          "en": "Ohangwena",
+          "slug": "ohangwena-na08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.534",
+      "lon": "15.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0804",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Epembe",
+      "en": "Epembe",
+      "slug": "epembe-na0804"
+    },
+    "code": {
+      "id": "NA0804",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA08",
+      "level": 1,
+      "name": {
+        "local": "Ohangwena",
+        "en": "Ohangwena",
+        "slug": "ohangwena-na08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA08",
+        "level": 1,
+        "name": {
+          "local": "Ohangwena",
+          "en": "Ohangwena",
+          "slug": "ohangwena-na08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.686",
+      "lon": "16.701"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0907",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Epukiro",
+      "en": "Epukiro",
+      "slug": "epukiro-na0907"
+    },
+    "code": {
+      "id": "NA0907",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA09",
+      "level": 1,
+      "name": {
+        "local": "Omaheke",
+        "en": "Omaheke",
+        "slug": "omaheke-na09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA09",
+        "level": 1,
+        "name": {
+          "local": "Omaheke",
+          "en": "Omaheke",
+          "slug": "omaheke-na09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.959",
+      "lon": "19.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0701",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Epupa",
+      "en": "Epupa",
+      "slug": "epupa-na0701"
+    },
+    "code": {
+      "id": "NA0701",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA07",
+      "level": 1,
+      "name": {
+        "local": "Kunene",
+        "en": "Kunene",
+        "slug": "kunene-na07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA07",
+        "level": 1,
+        "name": {
+          "local": "Kunene",
+          "en": "Kunene",
+          "slug": "kunene-na07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.482",
+      "lon": "12.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1003",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Etayi",
+      "en": "Etayi",
+      "slug": "etayi-na1003"
+    },
+    "code": {
+      "id": "NA1003",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA10",
+      "level": 1,
+      "name": {
+        "local": "Omusati",
+        "en": "Omusati",
+        "slug": "omusati-na10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA10",
+        "level": 1,
+        "name": {
+          "local": "Omusati",
+          "en": "Omusati",
+          "slug": "omusati-na10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.564",
+      "lon": "15.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0301",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Gibeon",
+      "en": "Gibeon",
+      "slug": "gibeon-na0301"
+    },
+    "code": {
+      "id": "NA0301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA03",
+      "level": 1,
+      "name": {
+        "local": "Hardap",
+        "en": "Hardap",
+        "slug": "hardap-na03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA03",
+        "level": 1,
+        "name": {
+          "local": "Hardap",
+          "en": "Hardap",
+          "slug": "hardap-na03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.707",
+      "lon": "15.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0902",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Gobabis",
+      "en": "Gobabis",
+      "slug": "gobabis-na0902"
+    },
+    "code": {
+      "id": "NA0902",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA09",
+      "level": 1,
+      "name": {
+        "local": "Omaheke",
+        "en": "Omaheke",
+        "slug": "omaheke-na09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA09",
+        "level": 1,
+        "name": {
+          "local": "Omaheke",
+          "en": "Omaheke",
+          "slug": "omaheke-na09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.768",
+      "lon": "18.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1301",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Grootfontein",
+      "en": "Grootfontein",
+      "slug": "grootfontein-na1301"
+    },
+    "code": {
+      "id": "NA1301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA13",
+      "level": 1,
+      "name": {
+        "local": "Otjozondjupa",
+        "en": "Otjozondjupa",
+        "slug": "otjozondjupa-na13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA13",
+        "level": 1,
+        "name": {
+          "local": "Otjozondjupa",
+          "en": "Otjozondjupa",
+          "slug": "otjozondjupa-na13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.385",
+      "lon": "18.454"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1202",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Guinas",
+      "en": "Guinas",
+      "slug": "guinas-na1202"
+    },
+    "code": {
+      "id": "NA1202",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA12",
+      "level": 1,
+      "name": {
+        "local": "Oshikoto",
+        "en": "Oshikoto",
+        "slug": "oshikoto-na12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA12",
+        "level": 1,
+        "name": {
+          "local": "Oshikoto",
+          "en": "Oshikoto",
+          "slug": "oshikoto-na12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.955",
+      "lon": "17.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0605",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "John Pandeni (Soweto)",
+      "en": "John Pandeni (Soweto)",
+      "slug": "john-pandeni-soweto-na0605"
+    },
+    "code": {
+      "id": "NA0605",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA06",
+      "level": 1,
+      "name": {
+        "local": "Khomas",
+        "en": "Khomas",
+        "slug": "khomas-na06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA06",
+        "level": 1,
+        "name": {
+          "local": "Khomas",
+          "en": "Khomas",
+          "slug": "khomas-na06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.521",
+      "lon": "17.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0101",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Kabbe",
+      "en": "Kabbe",
+      "slug": "kabbe-na0101"
+    },
+    "code": {
+      "id": "NA0101",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA01",
+      "level": 1,
+      "name": {
+        "local": "Zambezi",
+        "en": "Zambezi",
+        "slug": "zambezi-na01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA01",
+        "level": 1,
+        "name": {
+          "local": "Zambezi",
+          "en": "Zambezi",
+          "slug": "zambezi-na01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.676",
+      "lon": "24.825"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1401",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Kahenge",
+      "en": "Kahenge",
+      "slug": "kahenge-na1401"
+    },
+    "code": {
+      "id": "NA1401",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA14",
+      "level": 1,
+      "name": {
+        "local": "Kavango West",
+        "en": "Kavango West",
+        "slug": "kavango-west-na14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA14",
+        "level": 1,
+        "name": {
+          "local": "Kavango West",
+          "en": "Kavango West",
+          "slug": "kavango-west-na14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.382",
+      "lon": "18.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0903",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Kalahari",
+      "en": "Kalahari",
+      "slug": "kalahari-na0903"
+    },
+    "code": {
+      "id": "NA0903",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA09",
+      "level": 1,
+      "name": {
+        "local": "Omaheke",
+        "en": "Omaheke",
+        "slug": "omaheke-na09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA09",
+        "level": 1,
+        "name": {
+          "local": "Omaheke",
+          "en": "Omaheke",
+          "slug": "omaheke-na09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.517",
+      "lon": "19.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0702",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Kamanjab",
+      "en": "Kamanjab",
+      "slug": "kamanjab-na0702"
+    },
+    "code": {
+      "id": "NA0702",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA07",
+      "level": 1,
+      "name": {
+        "local": "Kunene",
+        "en": "Kunene",
+        "slug": "kunene-na07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA07",
+        "level": 1,
+        "name": {
+          "local": "Kunene",
+          "en": "Kunene",
+          "slug": "kunene-na07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.876",
+      "lon": "15.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1402",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Kapako",
+      "en": "Kapako",
+      "slug": "kapako-na1402"
+    },
+    "code": {
+      "id": "NA1402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA14",
+      "level": 1,
+      "name": {
+        "local": "Kavango West",
+        "en": "Kavango West",
+        "slug": "kavango-west-na14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA14",
+        "level": 1,
+        "name": {
+          "local": "Kavango West",
+          "en": "Kavango West",
+          "slug": "kavango-west-na14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.372",
+      "lon": "19.419"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0402",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Karasburg",
+      "en": "Karasburg",
+      "slug": "karasburg-na0402"
+    },
+    "code": {
+      "id": "NA0402",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA04",
+      "level": 1,
+      "name": {
+        "local": "Karas",
+        "en": "Karas",
+        "slug": "karas-na04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA04",
+        "level": 1,
+        "name": {
+          "local": "Karas",
+          "en": "Karas",
+          "slug": "karas-na04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-28.053",
+      "lon": "18.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0203",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Karibib",
+      "en": "Karibib",
+      "slug": "karibib-na0203"
+    },
+    "code": {
+      "id": "NA0203",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA02",
+      "level": 1,
+      "name": {
+        "local": "Erongo",
+        "en": "Erongo",
+        "slug": "erongo-na02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA02",
+        "level": 1,
+        "name": {
+          "local": "Erongo",
+          "en": "Erongo",
+          "slug": "erongo-na02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.418",
+      "lon": "15.773"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0102",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Katima Mulilo Rural",
+      "en": "Katima Mulilo Rural",
+      "slug": "katima-mulilo-rural-na0102"
+    },
+    "code": {
+      "id": "NA0102",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA01",
+      "level": 1,
+      "name": {
+        "local": "Zambezi",
+        "en": "Zambezi",
+        "slug": "zambezi-na01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA01",
+        "level": 1,
+        "name": {
+          "local": "Zambezi",
+          "en": "Zambezi",
+          "slug": "zambezi-na01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.768",
+      "lon": "24.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0103",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Katima Mulilo Urban",
+      "en": "Katima Mulilo Urban",
+      "slug": "katima-mulilo-urban-na0103"
+    },
+    "code": {
+      "id": "NA0103",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA01",
+      "level": 1,
+      "name": {
+        "local": "Zambezi",
+        "en": "Zambezi",
+        "slug": "zambezi-na01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA01",
+        "level": 1,
+        "name": {
+          "local": "Zambezi",
+          "en": "Zambezi",
+          "slug": "zambezi-na01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.512",
+      "lon": "24.273"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0602",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Katutura Central",
+      "en": "Katutura Central",
+      "slug": "katutura-central-na0602"
+    },
+    "code": {
+      "id": "NA0602",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA06",
+      "level": 1,
+      "name": {
+        "local": "Khomas",
+        "en": "Khomas",
+        "slug": "khomas-na06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA06",
+        "level": 1,
+        "name": {
+          "local": "Khomas",
+          "en": "Khomas",
+          "slug": "khomas-na06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.523",
+      "lon": "17.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0603",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Katutura East",
+      "en": "Katutura East",
+      "slug": "katutura-east-na0603"
+    },
+    "code": {
+      "id": "NA0603",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA06",
+      "level": 1,
+      "name": {
+        "local": "Khomas",
+        "en": "Khomas",
+        "slug": "khomas-na06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA06",
+        "level": 1,
+        "name": {
+          "local": "Khomas",
+          "en": "Khomas",
+          "slug": "khomas-na06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.522",
+      "lon": "17.063"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0403",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Keetmanshoop Rural",
+      "en": "Keetmanshoop Rural",
+      "slug": "keetmanshoop-rural-na0403"
+    },
+    "code": {
+      "id": "NA0403",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA04",
+      "level": 1,
+      "name": {
+        "local": "Karas",
+        "en": "Karas",
+        "slug": "karas-na04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA04",
+        "level": 1,
+        "name": {
+          "local": "Karas",
+          "en": "Karas",
+          "slug": "karas-na04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.567",
+      "lon": "19.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0404",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Keetmanshoop Urban",
+      "en": "Keetmanshoop Urban",
+      "slug": "keetmanshoop-urban-na0404"
+    },
+    "code": {
+      "id": "NA0404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA04",
+      "level": 1,
+      "name": {
+        "local": "Karas",
+        "en": "Karas",
+        "slug": "karas-na04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA04",
+        "level": 1,
+        "name": {
+          "local": "Karas",
+          "en": "Karas",
+          "slug": "karas-na04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.508",
+      "lon": "18.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0604",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Khomasdal North",
+      "en": "Khomasdal North",
+      "slug": "khomasdal-north-na0604"
+    },
+    "code": {
+      "id": "NA0604",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA06",
+      "level": 1,
+      "name": {
+        "local": "Khomas",
+        "en": "Khomas",
+        "slug": "khomas-na06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA06",
+        "level": 1,
+        "name": {
+          "local": "Khomas",
+          "en": "Khomas",
+          "slug": "khomas-na06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.543",
+      "lon": "17.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0703",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Khorixas",
+      "en": "Khorixas",
+      "slug": "khorixas-na0703"
+    },
+    "code": {
+      "id": "NA0703",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA07",
+      "level": 1,
+      "name": {
+        "local": "Kunene",
+        "en": "Kunene",
+        "slug": "kunene-na07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA07",
+        "level": 1,
+        "name": {
+          "local": "Kunene",
+          "en": "Kunene",
+          "slug": "kunene-na07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.595",
+      "lon": "14.312"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0104",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Kongola",
+      "en": "Kongola",
+      "slug": "kongola-na0104"
+    },
+    "code": {
+      "id": "NA0104",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA01",
+      "level": 1,
+      "name": {
+        "local": "Zambezi",
+        "en": "Zambezi",
+        "slug": "zambezi-na01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA01",
+        "level": 1,
+        "name": {
+          "local": "Zambezi",
+          "en": "Zambezi",
+          "slug": "zambezi-na01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.803",
+      "lon": "22.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0105",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Linyanti",
+      "en": "Linyanti",
+      "slug": "linyanti-na0105"
+    },
+    "code": {
+      "id": "NA0105",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA01",
+      "level": 1,
+      "name": {
+        "local": "Zambezi",
+        "en": "Zambezi",
+        "slug": "zambezi-na01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA01",
+        "level": 1,
+        "name": {
+          "local": "Zambezi",
+          "en": "Zambezi",
+          "slug": "zambezi-na01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.132",
+      "lon": "23.711"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0302",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Mariental Rural",
+      "en": "Mariental Rural",
+      "slug": "mariental-rural-na0302"
+    },
+    "code": {
+      "id": "NA0302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA03",
+      "level": 1,
+      "name": {
+        "local": "Hardap",
+        "en": "Hardap",
+        "slug": "hardap-na03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA03",
+        "level": 1,
+        "name": {
+          "local": "Hardap",
+          "en": "Hardap",
+          "slug": "hardap-na03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.573",
+      "lon": "18.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0303",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Mariental Urban",
+      "en": "Mariental Urban",
+      "slug": "mariental-urban-na0303"
+    },
+    "code": {
+      "id": "NA0303",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA03",
+      "level": 1,
+      "name": {
+        "local": "Hardap",
+        "en": "Hardap",
+        "slug": "hardap-na03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA03",
+        "level": 1,
+        "name": {
+          "local": "Hardap",
+          "en": "Hardap",
+          "slug": "hardap-na03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.499",
+      "lon": "17.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0503",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Mashare",
+      "en": "Mashare",
+      "slug": "mashare-na0503"
+    },
+    "code": {
+      "id": "NA0503",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA05",
+      "level": 1,
+      "name": {
+        "local": "Kavango East",
+        "en": "Kavango East",
+        "slug": "kavango-east-na05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA05",
+        "level": 1,
+        "name": {
+          "local": "Kavango East",
+          "en": "Kavango East",
+          "slug": "kavango-east-na05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.515",
+      "lon": "20.075"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0610",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Moses Garoeb",
+      "en": "Moses Garoeb",
+      "slug": "moses-garoeb-na0610"
+    },
+    "code": {
+      "id": "NA0610",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA06",
+      "level": 1,
+      "name": {
+        "local": "Khomas",
+        "en": "Khomas",
+        "slug": "khomas-na06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA06",
+        "level": 1,
+        "name": {
+          "local": "Khomas",
+          "en": "Khomas",
+          "slug": "khomas-na06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.472",
+      "lon": "17.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1404",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Mpungu",
+      "en": "Mpungu",
+      "slug": "mpungu-na1404"
+    },
+    "code": {
+      "id": "NA1404",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA14",
+      "level": 1,
+      "name": {
+        "local": "Kavango West",
+        "en": "Kavango West",
+        "slug": "kavango-west-na14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA14",
+        "level": 1,
+        "name": {
+          "local": "Kavango West",
+          "en": "Kavango West",
+          "slug": "kavango-west-na14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.238",
+      "lon": "18.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0505",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Mukwe",
+      "en": "Mukwe",
+      "slug": "mukwe-na0505"
+    },
+    "code": {
+      "id": "NA0505",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA05",
+      "level": 1,
+      "name": {
+        "local": "Kavango East",
+        "en": "Kavango East",
+        "slug": "kavango-east-na05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA05",
+        "level": 1,
+        "name": {
+          "local": "Kavango East",
+          "en": "Kavango East",
+          "slug": "kavango-east-na05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.072",
+      "lon": "21.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0405",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Naminus (Luderitz)",
+      "en": "Naminus (Luderitz)",
+      "slug": "naminus-luderitz-na0405"
+    },
+    "code": {
+      "id": "NA0405",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA04",
+      "level": 1,
+      "name": {
+        "local": "Karas",
+        "en": "Karas",
+        "slug": "karas-na04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA04",
+        "level": 1,
+        "name": {
+          "local": "Karas",
+          "en": "Karas",
+          "slug": "karas-na04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.736",
+      "lon": "15.879"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0506",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Ndiyona",
+      "en": "Ndiyona",
+      "slug": "ndiyona-na0506"
+    },
+    "code": {
+      "id": "NA0506",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA05",
+      "level": 1,
+      "name": {
+        "local": "Kavango East",
+        "en": "Kavango East",
+        "slug": "kavango-east-na05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA05",
+        "level": 1,
+        "name": {
+          "local": "Kavango East",
+          "en": "Kavango East",
+          "slug": "kavango-east-na05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.775",
+      "lon": "20.708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1004",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Ogongo",
+      "en": "Ogongo",
+      "slug": "ogongo-na1004"
+    },
+    "code": {
+      "id": "NA1004",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA10",
+      "level": 1,
+      "name": {
+        "local": "Omusati",
+        "en": "Omusati",
+        "slug": "omusati-na10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA10",
+        "level": 1,
+        "name": {
+          "local": "Omusati",
+          "en": "Omusati",
+          "slug": "omusati-na10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.709",
+      "lon": "15.188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0805",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Ohangwena",
+      "en": "Ohangwena",
+      "slug": "ohangwena-na0805"
+    },
+    "code": {
+      "id": "NA0805",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA08",
+      "level": 1,
+      "name": {
+        "local": "Ohangwena",
+        "en": "Ohangwena",
+        "slug": "ohangwena-na08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA08",
+        "level": 1,
+        "name": {
+          "local": "Ohangwena",
+          "en": "Ohangwena",
+          "slug": "ohangwena-na08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.507",
+      "lon": "15.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1302",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Okahandja",
+      "en": "Okahandja",
+      "slug": "okahandja-na1302"
+    },
+    "code": {
+      "id": "NA1302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA13",
+      "level": 1,
+      "name": {
+        "local": "Otjozondjupa",
+        "en": "Otjozondjupa",
+        "slug": "otjozondjupa-na13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA13",
+        "level": 1,
+        "name": {
+          "local": "Otjozondjupa",
+          "en": "Otjozondjupa",
+          "slug": "otjozondjupa-na13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.77",
+      "lon": "16.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1005",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Okahao",
+      "en": "Okahao",
+      "slug": "okahao-na1005"
+    },
+    "code": {
+      "id": "NA1005",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA10",
+      "level": 1,
+      "name": {
+        "local": "Omusati",
+        "en": "Omusati",
+        "slug": "omusati-na10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA10",
+        "level": 1,
+        "name": {
+          "local": "Omusati",
+          "en": "Omusati",
+          "slug": "omusati-na10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.616",
+      "lon": "14.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1303",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Okakarara",
+      "en": "Okakarara",
+      "slug": "okakarara-na1303"
+    },
+    "code": {
+      "id": "NA1303",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA13",
+      "level": 1,
+      "name": {
+        "local": "Otjozondjupa",
+        "en": "Otjozondjupa",
+        "slug": "otjozondjupa-na13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA13",
+        "level": 1,
+        "name": {
+          "local": "Otjozondjupa",
+          "en": "Otjozondjupa",
+          "slug": "otjozondjupa-na13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.28",
+      "lon": "18.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1101",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Okaku",
+      "en": "Okaku",
+      "slug": "okaku-na1101"
+    },
+    "code": {
+      "id": "NA1101",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA11",
+      "level": 1,
+      "name": {
+        "local": "Oshana",
+        "en": "Oshana",
+        "slug": "oshana-na11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA11",
+        "level": 1,
+        "name": {
+          "local": "Oshana",
+          "en": "Oshana",
+          "slug": "oshana-na11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.78",
+      "lon": "15.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1006",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Okalongo",
+      "en": "Okalongo",
+      "slug": "okalongo-na1006"
+    },
+    "code": {
+      "id": "NA1006",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA10",
+      "level": 1,
+      "name": {
+        "local": "Omusati",
+        "en": "Omusati",
+        "slug": "omusati-na10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA10",
+        "level": 1,
+        "name": {
+          "local": "Omusati",
+          "en": "Omusati",
+          "slug": "omusati-na10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.515",
+      "lon": "15.309"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1203",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Okankolo",
+      "en": "Okankolo",
+      "slug": "okankolo-na1203"
+    },
+    "code": {
+      "id": "NA1203",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA12",
+      "level": 1,
+      "name": {
+        "local": "Oshikoto",
+        "en": "Oshikoto",
+        "slug": "oshikoto-na12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA12",
+        "level": 1,
+        "name": {
+          "local": "Oshikoto",
+          "en": "Oshikoto",
+          "slug": "oshikoto-na12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.946",
+      "lon": "16.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0906",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Okarukambe (Steinhausen)",
+      "en": "Okarukambe (Steinhausen)",
+      "slug": "okarukambe-steinhausen-na0906"
+    },
+    "code": {
+      "id": "NA0906",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA09",
+      "level": 1,
+      "name": {
+        "local": "Omaheke",
+        "en": "Omaheke",
+        "slug": "omaheke-na09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA09",
+        "level": 1,
+        "name": {
+          "local": "Omaheke",
+          "en": "Omaheke",
+          "slug": "omaheke-na09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.74",
+      "lon": "19.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1102",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Okatana",
+      "en": "Okatana",
+      "slug": "okatana-na1102"
+    },
+    "code": {
+      "id": "NA1102",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA11",
+      "level": 1,
+      "name": {
+        "local": "Oshana",
+        "en": "Oshana",
+        "slug": "oshana-na11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA11",
+        "level": 1,
+        "name": {
+          "local": "Oshana",
+          "en": "Oshana",
+          "slug": "oshana-na11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.841",
+      "lon": "15.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1103",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Okatyali",
+      "en": "Okatyali",
+      "slug": "okatyali-na1103"
+    },
+    "code": {
+      "id": "NA1103",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA11",
+      "level": 1,
+      "name": {
+        "local": "Oshana",
+        "en": "Oshana",
+        "slug": "oshana-na11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA11",
+        "level": 1,
+        "name": {
+          "local": "Oshana",
+          "en": "Oshana",
+          "slug": "oshana-na11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.202",
+      "lon": "15.964"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0806",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Okongo",
+      "en": "Okongo",
+      "slug": "okongo-na0806"
+    },
+    "code": {
+      "id": "NA0806",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA08",
+      "level": 1,
+      "name": {
+        "local": "Ohangwena",
+        "en": "Ohangwena",
+        "slug": "ohangwena-na08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA08",
+        "level": 1,
+        "name": {
+          "local": "Ohangwena",
+          "en": "Ohangwena",
+          "slug": "ohangwena-na08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.578",
+      "lon": "17.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1204",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Olukonda",
+      "en": "Olukonda",
+      "slug": "olukonda-na1204"
+    },
+    "code": {
+      "id": "NA1204",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA12",
+      "level": 1,
+      "name": {
+        "local": "Oshikoto",
+        "en": "Oshikoto",
+        "slug": "oshikoto-na12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA12",
+        "level": 1,
+        "name": {
+          "local": "Oshikoto",
+          "en": "Oshikoto",
+          "slug": "oshikoto-na12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.045",
+      "lon": "16.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0204",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Omaruru",
+      "en": "Omaruru",
+      "slug": "omaruru-na0204"
+    },
+    "code": {
+      "id": "NA0204",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA02",
+      "level": 1,
+      "name": {
+        "local": "Erongo",
+        "en": "Erongo",
+        "slug": "erongo-na02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA02",
+        "level": 1,
+        "name": {
+          "local": "Erongo",
+          "en": "Erongo",
+          "slug": "erongo-na02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.219",
+      "lon": "15.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1304",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Omatako",
+      "en": "Omatako",
+      "slug": "omatako-na1304"
+    },
+    "code": {
+      "id": "NA1304",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA13",
+      "level": 1,
+      "name": {
+        "local": "Otjozondjupa",
+        "en": "Otjozondjupa",
+        "slug": "otjozondjupa-na13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA13",
+        "level": 1,
+        "name": {
+          "local": "Otjozondjupa",
+          "en": "Otjozondjupa",
+          "slug": "otjozondjupa-na13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.266",
+      "lon": "17.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1104",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Ompundja",
+      "en": "Ompundja",
+      "slug": "ompundja-na1104"
+    },
+    "code": {
+      "id": "NA1104",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA11",
+      "level": 1,
+      "name": {
+        "local": "Oshana",
+        "en": "Oshana",
+        "slug": "oshana-na11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA11",
+        "level": 1,
+        "name": {
+          "local": "Oshana",
+          "en": "Oshana",
+          "slug": "oshana-na11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.049",
+      "lon": "15.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0811",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Omulonga",
+      "en": "Omulonga",
+      "slug": "omulonga-na0811"
+    },
+    "code": {
+      "id": "NA0811",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA08",
+      "level": 1,
+      "name": {
+        "local": "Ohangwena",
+        "en": "Ohangwena",
+        "slug": "ohangwena-na08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA08",
+        "level": 1,
+        "name": {
+          "local": "Ohangwena",
+          "en": "Ohangwena",
+          "slug": "ohangwena-na08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.659",
+      "lon": "16.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0807",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Omundaungilo",
+      "en": "Omundaungilo",
+      "slug": "omundaungilo-na0807"
+    },
+    "code": {
+      "id": "NA0807",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA08",
+      "level": 1,
+      "name": {
+        "local": "Ohangwena",
+        "en": "Ohangwena",
+        "slug": "ohangwena-na08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA08",
+        "level": 1,
+        "name": {
+          "local": "Ohangwena",
+          "en": "Ohangwena",
+          "slug": "ohangwena-na08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.483",
+      "lon": "16.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1205",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Omuntele",
+      "en": "Omuntele",
+      "slug": "omuntele-na1205"
+    },
+    "code": {
+      "id": "NA1205",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA12",
+      "level": 1,
+      "name": {
+        "local": "Oshikoto",
+        "en": "Oshikoto",
+        "slug": "oshikoto-na12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA12",
+        "level": 1,
+        "name": {
+          "local": "Oshikoto",
+          "en": "Oshikoto",
+          "slug": "oshikoto-na12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.285",
+      "lon": "16.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1206",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Omuthiyagwiipundi",
+      "en": "Omuthiyagwiipundi",
+      "slug": "omuthiyagwiipundi-na1206"
+    },
+    "code": {
+      "id": "NA1206",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA12",
+      "level": 1,
+      "name": {
+        "local": "Oshikoto",
+        "en": "Oshikoto",
+        "slug": "oshikoto-na12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA12",
+        "level": 1,
+        "name": {
+          "local": "Oshikoto",
+          "en": "Oshikoto",
+          "slug": "oshikoto-na12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.814",
+      "lon": "16.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1207",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Onayena",
+      "en": "Onayena",
+      "slug": "onayena-na1207"
+    },
+    "code": {
+      "id": "NA1207",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA12",
+      "level": 1,
+      "name": {
+        "local": "Oshikoto",
+        "en": "Oshikoto",
+        "slug": "oshikoto-na12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA12",
+        "level": 1,
+        "name": {
+          "local": "Oshikoto",
+          "en": "Oshikoto",
+          "slug": "oshikoto-na12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.97",
+      "lon": "16.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1105",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Ondangwa",
+      "en": "Ondangwa",
+      "slug": "ondangwa-na1105"
+    },
+    "code": {
+      "id": "NA1105",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA11",
+      "level": 1,
+      "name": {
+        "local": "Oshana",
+        "en": "Oshana",
+        "slug": "oshana-na11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA11",
+        "level": 1,
+        "name": {
+          "local": "Oshana",
+          "en": "Oshana",
+          "slug": "oshana-na11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.879",
+      "lon": "15.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0808",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Ondobe",
+      "en": "Ondobe",
+      "slug": "ondobe-na0808"
+    },
+    "code": {
+      "id": "NA0808",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA08",
+      "level": 1,
+      "name": {
+        "local": "Ohangwena",
+        "en": "Ohangwena",
+        "slug": "ohangwena-na08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA08",
+        "level": 1,
+        "name": {
+          "local": "Ohangwena",
+          "en": "Ohangwena",
+          "slug": "ohangwena-na08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.492",
+      "lon": "16.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1007",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Onesi",
+      "en": "Onesi",
+      "slug": "onesi-na1007"
+    },
+    "code": {
+      "id": "NA1007",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA10",
+      "level": 1,
+      "name": {
+        "local": "Omusati",
+        "en": "Omusati",
+        "slug": "omusati-na10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA10",
+        "level": 1,
+        "name": {
+          "local": "Omusati",
+          "en": "Omusati",
+          "slug": "omusati-na10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.57",
+      "lon": "14.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0809",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Ongenga",
+      "en": "Ongenga",
+      "slug": "ongenga-na0809"
+    },
+    "code": {
+      "id": "NA0809",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA08",
+      "level": 1,
+      "name": {
+        "local": "Ohangwena",
+        "en": "Ohangwena",
+        "slug": "ohangwena-na08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA08",
+        "level": 1,
+        "name": {
+          "local": "Ohangwena",
+          "en": "Ohangwena",
+          "slug": "ohangwena-na08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.474",
+      "lon": "15.651"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1106",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Ongwediva",
+      "en": "Ongwediva",
+      "slug": "ongwediva-na1106"
+    },
+    "code": {
+      "id": "NA1106",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA11",
+      "level": 1,
+      "name": {
+        "local": "Oshana",
+        "en": "Oshana",
+        "slug": "oshana-na11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA11",
+        "level": 1,
+        "name": {
+          "local": "Oshana",
+          "en": "Oshana",
+          "slug": "oshana-na11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.762",
+      "lon": "15.805"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1208",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Oniipa",
+      "en": "Oniipa",
+      "slug": "oniipa-na1208"
+    },
+    "code": {
+      "id": "NA1208",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA12",
+      "level": 1,
+      "name": {
+        "local": "Oshikoto",
+        "en": "Oshikoto",
+        "slug": "oshikoto-na12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA12",
+        "level": 1,
+        "name": {
+          "local": "Oshikoto",
+          "en": "Oshikoto",
+          "slug": "oshikoto-na12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.849",
+      "lon": "16.072"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1209",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Onyaanya",
+      "en": "Onyaanya",
+      "slug": "onyaanya-na1209"
+    },
+    "code": {
+      "id": "NA1209",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA12",
+      "level": 1,
+      "name": {
+        "local": "Oshikoto",
+        "en": "Oshikoto",
+        "slug": "oshikoto-na12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA12",
+        "level": 1,
+        "name": {
+          "local": "Oshikoto",
+          "en": "Oshikoto",
+          "slug": "oshikoto-na12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.08",
+      "lon": "16.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0704",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Opuwo",
+      "en": "Opuwo",
+      "slug": "opuwo-na0704"
+    },
+    "code": {
+      "id": "NA0704",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA07",
+      "level": 1,
+      "name": {
+        "local": "Kunene",
+        "en": "Kunene",
+        "slug": "kunene-na07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA07",
+        "level": 1,
+        "name": {
+          "local": "Kunene",
+          "en": "Kunene",
+          "slug": "kunene-na07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.5",
+      "lon": "13.171"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0406",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Oranjemund",
+      "en": "Oranjemund",
+      "slug": "oranjemund-na0406"
+    },
+    "code": {
+      "id": "NA0406",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA04",
+      "level": 1,
+      "name": {
+        "local": "Karas",
+        "en": "Karas",
+        "slug": "karas-na04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA04",
+        "level": 1,
+        "name": {
+          "local": "Karas",
+          "en": "Karas",
+          "slug": "karas-na04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-28.09",
+      "lon": "16.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1107",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Oshakati East",
+      "en": "Oshakati East",
+      "slug": "oshakati-east-na1107"
+    },
+    "code": {
+      "id": "NA1107",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA11",
+      "level": 1,
+      "name": {
+        "local": "Oshana",
+        "en": "Oshana",
+        "slug": "oshana-na11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA11",
+        "level": 1,
+        "name": {
+          "local": "Oshana",
+          "en": "Oshana",
+          "slug": "oshana-na11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.841",
+      "lon": "15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1108",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Oshakati West",
+      "en": "Oshakati West",
+      "slug": "oshakati-west-na1108"
+    },
+    "code": {
+      "id": "NA1108",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA11",
+      "level": 1,
+      "name": {
+        "local": "Oshana",
+        "en": "Oshana",
+        "slug": "oshana-na11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA11",
+        "level": 1,
+        "name": {
+          "local": "Oshana",
+          "en": "Oshana",
+          "slug": "oshana-na11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.841",
+      "lon": "15.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0810",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Oshikango",
+      "en": "Oshikango",
+      "slug": "oshikango-na0810"
+    },
+    "code": {
+      "id": "NA0810",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA08",
+      "level": 1,
+      "name": {
+        "local": "Ohangwena",
+        "en": "Ohangwena",
+        "slug": "ohangwena-na08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA08",
+        "level": 1,
+        "name": {
+          "local": "Ohangwena",
+          "en": "Ohangwena",
+          "slug": "ohangwena-na08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.484",
+      "lon": "15.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1008",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Oshikuku",
+      "en": "Oshikuku",
+      "slug": "oshikuku-na1008"
+    },
+    "code": {
+      "id": "NA1008",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA10",
+      "level": 1,
+      "name": {
+        "local": "Omusati",
+        "en": "Omusati",
+        "slug": "omusati-na10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA10",
+        "level": 1,
+        "name": {
+          "local": "Omusati",
+          "en": "Omusati",
+          "slug": "omusati-na10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.7",
+      "lon": "15.401"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1012",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Otamanzi",
+      "en": "Otamanzi",
+      "slug": "otamanzi-na1012"
+    },
+    "code": {
+      "id": "NA1012",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA10",
+      "level": 1,
+      "name": {
+        "local": "Omusati",
+        "en": "Omusati",
+        "slug": "omusati-na10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA10",
+        "level": 1,
+        "name": {
+          "local": "Omusati",
+          "en": "Omusati",
+          "slug": "omusati-na10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.525",
+      "lon": "15.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1305",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Otavi",
+      "en": "Otavi",
+      "slug": "otavi-na1305"
+    },
+    "code": {
+      "id": "NA1305",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA13",
+      "level": 1,
+      "name": {
+        "local": "Otjozondjupa",
+        "en": "Otjozondjupa",
+        "slug": "otjozondjupa-na13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA13",
+        "level": 1,
+        "name": {
+          "local": "Otjozondjupa",
+          "en": "Otjozondjupa",
+          "slug": "otjozondjupa-na13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.848",
+      "lon": "17.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0904",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Otjinene",
+      "en": "Otjinene",
+      "slug": "otjinene-na0904"
+    },
+    "code": {
+      "id": "NA0904",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA09",
+      "level": 1,
+      "name": {
+        "local": "Omaheke",
+        "en": "Omaheke",
+        "slug": "omaheke-na09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA09",
+        "level": 1,
+        "name": {
+          "local": "Omaheke",
+          "en": "Omaheke",
+          "slug": "omaheke-na09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.849",
+      "lon": "18.928"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1306",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Otjiwarongo",
+      "en": "Otjiwarongo",
+      "slug": "otjiwarongo-na1306"
+    },
+    "code": {
+      "id": "NA1306",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA13",
+      "level": 1,
+      "name": {
+        "local": "Otjozondjupa",
+        "en": "Otjozondjupa",
+        "slug": "otjozondjupa-na13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA13",
+        "level": 1,
+        "name": {
+          "local": "Otjozondjupa",
+          "en": "Otjozondjupa",
+          "slug": "otjozondjupa-na13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.495",
+      "lon": "16.245"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0905",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Otjombinde",
+      "en": "Otjombinde",
+      "slug": "otjombinde-na0905"
+    },
+    "code": {
+      "id": "NA0905",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA09",
+      "level": 1,
+      "name": {
+        "local": "Omaheke",
+        "en": "Omaheke",
+        "slug": "omaheke-na09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA09",
+        "level": 1,
+        "name": {
+          "local": "Omaheke",
+          "en": "Omaheke",
+          "slug": "omaheke-na09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.81",
+      "lon": "20.504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1009",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Outapi",
+      "en": "Outapi",
+      "slug": "outapi-na1009"
+    },
+    "code": {
+      "id": "NA1009",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA10",
+      "level": 1,
+      "name": {
+        "local": "Omusati",
+        "en": "Omusati",
+        "slug": "omusati-na10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA10",
+        "level": 1,
+        "name": {
+          "local": "Omusati",
+          "en": "Omusati",
+          "slug": "omusati-na10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.531",
+      "lon": "14.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0705",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Outjo",
+      "en": "Outjo",
+      "slug": "outjo-na0705"
+    },
+    "code": {
+      "id": "NA0705",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA07",
+      "level": 1,
+      "name": {
+        "local": "Kunene",
+        "en": "Kunene",
+        "slug": "kunene-na07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA07",
+        "level": 1,
+        "name": {
+          "local": "Kunene",
+          "en": "Kunene",
+          "slug": "kunene-na07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.881",
+      "lon": "16.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0304",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Rehoboth Rural",
+      "en": "Rehoboth Rural",
+      "slug": "rehoboth-rural-na0304"
+    },
+    "code": {
+      "id": "NA0304",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA03",
+      "level": 1,
+      "name": {
+        "local": "Hardap",
+        "en": "Hardap",
+        "slug": "hardap-na03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA03",
+        "level": 1,
+        "name": {
+          "local": "Hardap",
+          "en": "Hardap",
+          "slug": "hardap-na03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.787",
+      "lon": "16.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0305",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Rehoboth Urban East",
+      "en": "Rehoboth Urban East",
+      "slug": "rehoboth-urban-east-na0305"
+    },
+    "code": {
+      "id": "NA0305",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA03",
+      "level": 1,
+      "name": {
+        "local": "Hardap",
+        "en": "Hardap",
+        "slug": "hardap-na03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA03",
+        "level": 1,
+        "name": {
+          "local": "Hardap",
+          "en": "Hardap",
+          "slug": "hardap-na03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.307",
+      "lon": "17.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0306",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Rehoboth Urban West",
+      "en": "Rehoboth Urban West",
+      "slug": "rehoboth-urban-west-na0306"
+    },
+    "code": {
+      "id": "NA0306",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA03",
+      "level": 1,
+      "name": {
+        "local": "Hardap",
+        "en": "Hardap",
+        "slug": "hardap-na03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA03",
+        "level": 1,
+        "name": {
+          "local": "Hardap",
+          "en": "Hardap",
+          "slug": "hardap-na03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.307",
+      "lon": "17.036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1010",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Ruacana",
+      "en": "Ruacana",
+      "slug": "ruacana-na1010"
+    },
+    "code": {
+      "id": "NA1010",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA10",
+      "level": 1,
+      "name": {
+        "local": "Omusati",
+        "en": "Omusati",
+        "slug": "omusati-na10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA10",
+        "level": 1,
+        "name": {
+          "local": "Omusati",
+          "en": "Omusati",
+          "slug": "omusati-na10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.197",
+      "lon": "14.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0509",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Rundu Rural East",
+      "en": "Rundu Rural East",
+      "slug": "rundu-rural-east-na0509"
+    },
+    "code": {
+      "id": "NA0509",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA05",
+      "level": 1,
+      "name": {
+        "local": "Kavango East",
+        "en": "Kavango East",
+        "slug": "kavango-east-na05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA05",
+        "level": 1,
+        "name": {
+          "local": "Kavango East",
+          "en": "Kavango East",
+          "slug": "kavango-east-na05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.041",
+      "lon": "19.929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0507",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Rundu Rural West",
+      "en": "Rundu Rural West",
+      "slug": "rundu-rural-west-na0507"
+    },
+    "code": {
+      "id": "NA0507",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA05",
+      "level": 1,
+      "name": {
+        "local": "Kavango East",
+        "en": "Kavango East",
+        "slug": "kavango-east-na05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA05",
+        "level": 1,
+        "name": {
+          "local": "Kavango East",
+          "en": "Kavango East",
+          "slug": "kavango-east-na05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.283",
+      "lon": "19.778"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0508",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Rundu Urban",
+      "en": "Rundu Urban",
+      "slug": "rundu-urban-na0508"
+    },
+    "code": {
+      "id": "NA0508",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA05",
+      "level": 1,
+      "name": {
+        "local": "Kavango East",
+        "en": "Kavango East",
+        "slug": "kavango-east-na05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA05",
+        "level": 1,
+        "name": {
+          "local": "Kavango East",
+          "en": "Kavango East",
+          "slug": "kavango-east-na05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.9",
+      "lon": "19.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0606",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Samora Machel (Wanaheda)",
+      "en": "Samora Machel (Wanaheda)",
+      "slug": "samora-machel-wanaheda-na0606"
+    },
+    "code": {
+      "id": "NA0606",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA06",
+      "level": 1,
+      "name": {
+        "local": "Khomas",
+        "en": "Khomas",
+        "slug": "khomas-na06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA06",
+        "level": 1,
+        "name": {
+          "local": "Khomas",
+          "en": "Khomas",
+          "slug": "khomas-na06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.511",
+      "lon": "17.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0706",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Sesfontein",
+      "en": "Sesfontein",
+      "slug": "sesfontein-na0706"
+    },
+    "code": {
+      "id": "NA0706",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA07",
+      "level": 1,
+      "name": {
+        "local": "Kunene",
+        "en": "Kunene",
+        "slug": "kunene-na07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA07",
+        "level": 1,
+        "name": {
+          "local": "Kunene",
+          "en": "Kunene",
+          "slug": "kunene-na07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.5",
+      "lon": "13.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0106",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Sibbinda",
+      "en": "Sibbinda",
+      "slug": "sibbinda-na0106"
+    },
+    "code": {
+      "id": "NA0106",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA01",
+      "level": 1,
+      "name": {
+        "local": "Zambezi",
+        "en": "Zambezi",
+        "slug": "zambezi-na01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA01",
+        "level": 1,
+        "name": {
+          "local": "Zambezi",
+          "en": "Zambezi",
+          "slug": "zambezi-na01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.855",
+      "lon": "24.096"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0205",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Swakopmund",
+      "en": "Swakopmund",
+      "slug": "swakopmund-na0205"
+    },
+    "code": {
+      "id": "NA0205",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA02",
+      "level": 1,
+      "name": {
+        "local": "Erongo",
+        "en": "Erongo",
+        "slug": "erongo-na02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA02",
+        "level": 1,
+        "name": {
+          "local": "Erongo",
+          "en": "Erongo",
+          "slug": "erongo-na02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.63",
+      "lon": "14.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0601",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Tobias Hainyeko",
+      "en": "Tobias Hainyeko",
+      "slug": "tobias-hainyeko-na0601"
+    },
+    "code": {
+      "id": "NA0601",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA06",
+      "level": 1,
+      "name": {
+        "local": "Khomas",
+        "en": "Khomas",
+        "slug": "khomas-na06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA06",
+        "level": 1,
+        "name": {
+          "local": "Khomas",
+          "en": "Khomas",
+          "slug": "khomas-na06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.491",
+      "lon": "17.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1011",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Tsandi",
+      "en": "Tsandi",
+      "slug": "tsandi-na1011"
+    },
+    "code": {
+      "id": "NA1011",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA10",
+      "level": 1,
+      "name": {
+        "local": "Omusati",
+        "en": "Omusati",
+        "slug": "omusati-na10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA10",
+        "level": 1,
+        "name": {
+          "local": "Omusati",
+          "en": "Omusati",
+          "slug": "omusati-na10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.934",
+      "lon": "14.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1210",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Tsumeb",
+      "en": "Tsumeb",
+      "slug": "tsumeb-na1210"
+    },
+    "code": {
+      "id": "NA1210",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA12",
+      "level": 1,
+      "name": {
+        "local": "Oshikoto",
+        "en": "Oshikoto",
+        "slug": "oshikoto-na12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA12",
+        "level": 1,
+        "name": {
+          "local": "Oshikoto",
+          "en": "Oshikoto",
+          "slug": "oshikoto-na12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.249",
+      "lon": "17.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1307",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Tsumkwe",
+      "en": "Tsumkwe",
+      "slug": "tsumkwe-na1307"
+    },
+    "code": {
+      "id": "NA1307",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA13",
+      "level": 1,
+      "name": {
+        "local": "Otjozondjupa",
+        "en": "Otjozondjupa",
+        "slug": "otjozondjupa-na13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA13",
+        "level": 1,
+        "name": {
+          "local": "Otjozondjupa",
+          "en": "Otjozondjupa",
+          "slug": "otjozondjupa-na13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.622",
+      "lon": "19.887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1109",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Uukwiyu",
+      "en": "Uukwiyu",
+      "slug": "uukwiyu-na1109"
+    },
+    "code": {
+      "id": "NA1109",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA11",
+      "level": 1,
+      "name": {
+        "local": "Oshana",
+        "en": "Oshana",
+        "slug": "oshana-na11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA11",
+        "level": 1,
+        "name": {
+          "local": "Oshana",
+          "en": "Oshana",
+          "slug": "oshana-na11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.001",
+      "lon": "15.892"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1110",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Uuvudhiya",
+      "en": "Uuvudhiya",
+      "slug": "uuvudhiya-na1110"
+    },
+    "code": {
+      "id": "NA1110",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA11",
+      "level": 1,
+      "name": {
+        "local": "Oshana",
+        "en": "Oshana",
+        "slug": "oshana-na11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA11",
+        "level": 1,
+        "name": {
+          "local": "Oshana",
+          "en": "Oshana",
+          "slug": "oshana-na11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.63",
+      "lon": "15.79"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0206",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Walvis Bay Rural",
+      "en": "Walvis Bay Rural",
+      "slug": "walvis-bay-rural-na0206"
+    },
+    "code": {
+      "id": "NA0206",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA02",
+      "level": 1,
+      "name": {
+        "local": "Erongo",
+        "en": "Erongo",
+        "slug": "erongo-na02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA02",
+        "level": 1,
+        "name": {
+          "local": "Erongo",
+          "en": "Erongo",
+          "slug": "erongo-na02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.227",
+      "lon": "14.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0207",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Walvis Bay Urban",
+      "en": "Walvis Bay Urban",
+      "slug": "walvis-bay-urban-na0207"
+    },
+    "code": {
+      "id": "NA0207",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA02",
+      "level": 1,
+      "name": {
+        "local": "Erongo",
+        "en": "Erongo",
+        "slug": "erongo-na02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA02",
+        "level": 1,
+        "name": {
+          "local": "Erongo",
+          "en": "Erongo",
+          "slug": "erongo-na02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.951",
+      "lon": "14.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0607",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Windhoek East",
+      "en": "Windhoek East",
+      "slug": "windhoek-east-na0607"
+    },
+    "code": {
+      "id": "NA0607",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA06",
+      "level": 1,
+      "name": {
+        "local": "Khomas",
+        "en": "Khomas",
+        "slug": "khomas-na06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA06",
+        "level": 1,
+        "name": {
+          "local": "Khomas",
+          "en": "Khomas",
+          "slug": "khomas-na06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.627",
+      "lon": "17.161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0608",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Windhoek Rural",
+      "en": "Windhoek Rural",
+      "slug": "windhoek-rural-na0608"
+    },
+    "code": {
+      "id": "NA0608",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA06",
+      "level": 1,
+      "name": {
+        "local": "Khomas",
+        "en": "Khomas",
+        "slug": "khomas-na06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA06",
+        "level": 1,
+        "name": {
+          "local": "Khomas",
+          "en": "Khomas",
+          "slug": "khomas-na06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.91",
+      "lon": "17.093"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0609",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Windhoek West",
+      "en": "Windhoek West",
+      "slug": "windhoek-west-na0609"
+    },
+    "code": {
+      "id": "NA0609",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA06",
+      "level": 1,
+      "name": {
+        "local": "Khomas",
+        "en": "Khomas",
+        "slug": "khomas-na06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA06",
+        "level": 1,
+        "name": {
+          "local": "Khomas",
+          "en": "Khomas",
+          "slug": "khomas-na06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.611",
+      "lon": "16.985"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

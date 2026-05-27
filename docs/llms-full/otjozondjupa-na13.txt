@@ -1,0 +1,44 @@
+# Otjozondjupa — Namibia Administrative Divisions
+
+> 7 constituencys
+> Code: NA13
+> Coordinates: -20.566, 17.177
+> Last updated: 2026-05-27. License: CC-BY-4.0.
+
+## Constituencys
+
+### Grootfontein
+
+Code: NA1301, Coordinates: -19.385, 18.454
+
+
+### Okahandja
+
+Code: NA1302, Coordinates: -21.77, 16.637
+
+
+### Okakarara
+
+Code: NA1303, Coordinates: -20.28, 18.471
+
+
+### Omatako
+
+Code: NA1304, Coordinates: -21.266, 17.507
+
+
+### Otavi
+
+Code: NA1305, Coordinates: -19.848, 17.376
+
+
+### Otjiwarongo
+
+Code: NA1306, Coordinates: -20.495, 16.245
+
+
+### Tsumkwe
+
+Code: NA1307, Coordinates: -19.622, 19.887
+
+

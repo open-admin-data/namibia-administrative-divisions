@@ -1,0 +1,39 @@
+# Zambezi — Namibia Administrative Divisions
+
+> 6 constituencys
+> Code: NA01
+> Coordinates: -17.985, 23.419
+> Last updated: 2026-05-27. License: CC-BY-4.0.
+
+## Constituencys
+
+### Kabbe
+
+Code: NA0101, Coordinates: -17.676, 24.825
+
+
+### Katima Mulilo Rural
+
+Code: NA0102, Coordinates: -17.768, 24.46
+
+
+### Katima Mulilo Urban
+
+Code: NA0103, Coordinates: -17.512, 24.273
+
+
+### Kongola
+
+Code: NA0104, Coordinates: -17.803, 22.967
+
+
+### Linyanti
+
+Code: NA0105, Coordinates: -18.132, 23.711
+
+
+### Sibbinda
+
+Code: NA0106, Coordinates: -17.855, 24.096
+
+

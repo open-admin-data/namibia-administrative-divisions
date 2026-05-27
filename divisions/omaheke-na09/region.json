@@ -1,0 +1,29 @@
+{
+  "id": "NA09",
+  "level": 1,
+  "level_name": {
+    "local": "Region",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Omaheke",
+    "en": "Omaheke",
+    "slug": "omaheke-na09"
+  },
+  "code": {
+    "id": "NA09",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "constituency": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.056",
+    "lon": "19.023"
+  },
+  "metadata": {},
+  "source": {}
+}

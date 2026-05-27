@@ -1,0 +1,45 @@
+{
+  "id": "NA1005",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Okahao",
+    "en": "Okahao",
+    "slug": "okahao-na1005"
+  },
+  "code": {
+    "id": "NA1005",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA10",
+    "level": 1,
+    "name": {
+      "local": "Omusati",
+      "en": "Omusati",
+      "slug": "omusati-na10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA10",
+      "level": 1,
+      "name": {
+        "local": "Omusati",
+        "en": "Omusati",
+        "slug": "omusati-na10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.616",
+    "lon": "14.917"
+  },
+  "metadata": {},
+  "source": {}
+}

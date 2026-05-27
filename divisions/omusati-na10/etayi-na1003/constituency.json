@@ -1,0 +1,45 @@
+{
+  "id": "NA1003",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Etayi",
+    "en": "Etayi",
+    "slug": "etayi-na1003"
+  },
+  "code": {
+    "id": "NA1003",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA10",
+    "level": 1,
+    "name": {
+      "local": "Omusati",
+      "en": "Omusati",
+      "slug": "omusati-na10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA10",
+      "level": 1,
+      "name": {
+        "local": "Omusati",
+        "en": "Omusati",
+        "slug": "omusati-na10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.564",
+    "lon": "15.537"
+  },
+  "metadata": {},
+  "source": {}
+}

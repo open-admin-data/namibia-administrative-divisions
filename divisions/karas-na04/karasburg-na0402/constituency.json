@@ -1,0 +1,45 @@
+{
+  "id": "NA0402",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Karasburg",
+    "en": "Karasburg",
+    "slug": "karasburg-na0402"
+  },
+  "code": {
+    "id": "NA0402",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA04",
+    "level": 1,
+    "name": {
+      "local": "Karas",
+      "en": "Karas",
+      "slug": "karas-na04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA04",
+      "level": 1,
+      "name": {
+        "local": "Karas",
+        "en": "Karas",
+        "slug": "karas-na04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-28.053",
+    "lon": "18.698"
+  },
+  "metadata": {},
+  "source": {}
+}

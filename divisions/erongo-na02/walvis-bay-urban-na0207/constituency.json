@@ -1,0 +1,45 @@
+{
+  "id": "NA0207",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Walvis Bay Urban",
+    "en": "Walvis Bay Urban",
+    "slug": "walvis-bay-urban-na0207"
+  },
+  "code": {
+    "id": "NA0207",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA02",
+    "level": 1,
+    "name": {
+      "local": "Erongo",
+      "en": "Erongo",
+      "slug": "erongo-na02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA02",
+      "level": 1,
+      "name": {
+        "local": "Erongo",
+        "en": "Erongo",
+        "slug": "erongo-na02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.951",
+    "lon": "14.517"
+  },
+  "metadata": {},
+  "source": {}
+}

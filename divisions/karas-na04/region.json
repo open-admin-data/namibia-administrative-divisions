@@ -1,0 +1,29 @@
+{
+  "id": "NA04",
+  "level": 1,
+  "level_name": {
+    "local": "Region",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Karas",
+    "en": "Karas",
+    "slug": "karas-na04"
+  },
+  "code": {
+    "id": "NA04",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "constituency": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.985",
+    "lon": "17.618"
+  },
+  "metadata": {},
+  "source": {}
+}

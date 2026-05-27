@@ -1,0 +1,45 @@
+{
+  "id": "NA0406",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Oranjemund",
+    "en": "Oranjemund",
+    "slug": "oranjemund-na0406"
+  },
+  "code": {
+    "id": "NA0406",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA04",
+    "level": 1,
+    "name": {
+      "local": "Karas",
+      "en": "Karas",
+      "slug": "karas-na04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA04",
+      "level": 1,
+      "name": {
+        "local": "Karas",
+        "en": "Karas",
+        "slug": "karas-na04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-28.09",
+    "lon": "16.738"
+  },
+  "metadata": {},
+  "source": {}
+}

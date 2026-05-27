@@ -1,0 +1,45 @@
+{
+  "id": "NA1306",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Otjiwarongo",
+    "en": "Otjiwarongo",
+    "slug": "otjiwarongo-na1306"
+  },
+  "code": {
+    "id": "NA1306",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA13",
+    "level": 1,
+    "name": {
+      "local": "Otjozondjupa",
+      "en": "Otjozondjupa",
+      "slug": "otjozondjupa-na13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA13",
+      "level": 1,
+      "name": {
+        "local": "Otjozondjupa",
+        "en": "Otjozondjupa",
+        "slug": "otjozondjupa-na13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.495",
+    "lon": "16.245"
+  },
+  "metadata": {},
+  "source": {}
+}

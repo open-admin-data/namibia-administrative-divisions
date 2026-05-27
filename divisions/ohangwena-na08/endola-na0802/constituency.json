@@ -1,0 +1,45 @@
+{
+  "id": "NA0802",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Endola",
+    "en": "Endola",
+    "slug": "endola-na0802"
+  },
+  "code": {
+    "id": "NA0802",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA08",
+    "level": 1,
+    "name": {
+      "local": "Ohangwena",
+      "en": "Ohangwena",
+      "slug": "ohangwena-na08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA08",
+      "level": 1,
+      "name": {
+        "local": "Ohangwena",
+        "en": "Ohangwena",
+        "slug": "ohangwena-na08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.623",
+    "lon": "15.816"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,39 @@
+# Hardap — Namibia Administrative Divisions
+
+> 6 constituencys
+> Code: NA03
+> Coordinates: -24.52, 17.303
+> Last updated: 2026-05-27. License: CC-BY-4.0.
+
+## Constituencys
+
+### Gibeon
+
+Code: NA0301, Coordinates: -24.707, 15.998
+
+
+### Mariental Rural
+
+Code: NA0302, Coordinates: -24.573, 18.99
+
+
+### Mariental Urban
+
+Code: NA0303, Coordinates: -24.499, 17.599
+
+
+### Rehoboth Rural
+
+Code: NA0304, Coordinates: -23.787, 16.899
+
+
+### Rehoboth Urban East
+
+Code: NA0305, Coordinates: -23.307, 17.139
+
+
+### Rehoboth Urban West
+
+Code: NA0306, Coordinates: -23.307, 17.036
+
+

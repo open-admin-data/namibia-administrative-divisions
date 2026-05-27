@@ -1,0 +1,45 @@
+{
+  "id": "NA1007",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Onesi",
+    "en": "Onesi",
+    "slug": "onesi-na1007"
+  },
+  "code": {
+    "id": "NA1007",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA10",
+    "level": 1,
+    "name": {
+      "local": "Omusati",
+      "en": "Omusati",
+      "slug": "omusati-na10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA10",
+      "level": 1,
+      "name": {
+        "local": "Omusati",
+        "en": "Omusati",
+        "slug": "omusati-na10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.57",
+    "lon": "14.628"
+  },
+  "metadata": {},
+  "source": {}
+}

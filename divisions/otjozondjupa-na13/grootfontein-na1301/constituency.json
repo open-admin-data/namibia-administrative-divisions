@@ -1,0 +1,45 @@
+{
+  "id": "NA1301",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Grootfontein",
+    "en": "Grootfontein",
+    "slug": "grootfontein-na1301"
+  },
+  "code": {
+    "id": "NA1301",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA13",
+    "level": 1,
+    "name": {
+      "local": "Otjozondjupa",
+      "en": "Otjozondjupa",
+      "slug": "otjozondjupa-na13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA13",
+      "level": 1,
+      "name": {
+        "local": "Otjozondjupa",
+        "en": "Otjozondjupa",
+        "slug": "otjozondjupa-na13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.385",
+    "lon": "18.454"
+  },
+  "metadata": {},
+  "source": {}
+}

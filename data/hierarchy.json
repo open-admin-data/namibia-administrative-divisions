@@ -1,0 +1,1482 @@
+[
+  {
+    "id": "NA02",
+    "name": {
+      "local": "Erongo",
+      "en": "Erongo",
+      "slug": "erongo-na02"
+    },
+    "code": {
+      "id": "NA02",
+      "iso": null
+    },
+    "constituency": [
+      {
+        "id": "NA0201",
+        "name": {
+          "local": "Arandis",
+          "en": "Arandis",
+          "slug": "arandis-na0201"
+        },
+        "code": {
+          "id": "NA0201",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0202",
+        "name": {
+          "local": "Daures",
+          "en": "Daures",
+          "slug": "daures-na0202"
+        },
+        "code": {
+          "id": "NA0202",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0203",
+        "name": {
+          "local": "Karibib",
+          "en": "Karibib",
+          "slug": "karibib-na0203"
+        },
+        "code": {
+          "id": "NA0203",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0204",
+        "name": {
+          "local": "Omaruru",
+          "en": "Omaruru",
+          "slug": "omaruru-na0204"
+        },
+        "code": {
+          "id": "NA0204",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0205",
+        "name": {
+          "local": "Swakopmund",
+          "en": "Swakopmund",
+          "slug": "swakopmund-na0205"
+        },
+        "code": {
+          "id": "NA0205",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0206",
+        "name": {
+          "local": "Walvis Bay Rural",
+          "en": "Walvis Bay Rural",
+          "slug": "walvis-bay-rural-na0206"
+        },
+        "code": {
+          "id": "NA0206",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0207",
+        "name": {
+          "local": "Walvis Bay Urban",
+          "en": "Walvis Bay Urban",
+          "slug": "walvis-bay-urban-na0207"
+        },
+        "code": {
+          "id": "NA0207",
+          "iso": null
+        }
+      }
+    ]
+  },
+  {
+    "id": "NA03",
+    "name": {
+      "local": "Hardap",
+      "en": "Hardap",
+      "slug": "hardap-na03"
+    },
+    "code": {
+      "id": "NA03",
+      "iso": null
+    },
+    "constituency": [
+      {
+        "id": "NA0301",
+        "name": {
+          "local": "Gibeon",
+          "en": "Gibeon",
+          "slug": "gibeon-na0301"
+        },
+        "code": {
+          "id": "NA0301",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0302",
+        "name": {
+          "local": "Mariental Rural",
+          "en": "Mariental Rural",
+          "slug": "mariental-rural-na0302"
+        },
+        "code": {
+          "id": "NA0302",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0303",
+        "name": {
+          "local": "Mariental Urban",
+          "en": "Mariental Urban",
+          "slug": "mariental-urban-na0303"
+        },
+        "code": {
+          "id": "NA0303",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0304",
+        "name": {
+          "local": "Rehoboth Rural",
+          "en": "Rehoboth Rural",
+          "slug": "rehoboth-rural-na0304"
+        },
+        "code": {
+          "id": "NA0304",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0305",
+        "name": {
+          "local": "Rehoboth Urban East",
+          "en": "Rehoboth Urban East",
+          "slug": "rehoboth-urban-east-na0305"
+        },
+        "code": {
+          "id": "NA0305",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0306",
+        "name": {
+          "local": "Rehoboth Urban West",
+          "en": "Rehoboth Urban West",
+          "slug": "rehoboth-urban-west-na0306"
+        },
+        "code": {
+          "id": "NA0306",
+          "iso": null
+        }
+      }
+    ]
+  },
+  {
+    "id": "NA04",
+    "name": {
+      "local": "Karas",
+      "en": "Karas",
+      "slug": "karas-na04"
+    },
+    "code": {
+      "id": "NA04",
+      "iso": null
+    },
+    "constituency": [
+      {
+        "id": "NA0401",
+        "name": {
+          "local": "Berseba",
+          "en": "Berseba",
+          "slug": "berseba-na0401"
+        },
+        "code": {
+          "id": "NA0401",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0402",
+        "name": {
+          "local": "Karasburg",
+          "en": "Karasburg",
+          "slug": "karasburg-na0402"
+        },
+        "code": {
+          "id": "NA0402",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0403",
+        "name": {
+          "local": "Keetmanshoop Rural",
+          "en": "Keetmanshoop Rural",
+          "slug": "keetmanshoop-rural-na0403"
+        },
+        "code": {
+          "id": "NA0403",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0404",
+        "name": {
+          "local": "Keetmanshoop Urban",
+          "en": "Keetmanshoop Urban",
+          "slug": "keetmanshoop-urban-na0404"
+        },
+        "code": {
+          "id": "NA0404",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0405",
+        "name": {
+          "local": "Naminus (Luderitz)",
+          "en": "Naminus (Luderitz)",
+          "slug": "naminus-luderitz-na0405"
+        },
+        "code": {
+          "id": "NA0405",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0406",
+        "name": {
+          "local": "Oranjemund",
+          "en": "Oranjemund",
+          "slug": "oranjemund-na0406"
+        },
+        "code": {
+          "id": "NA0406",
+          "iso": null
+        }
+      }
+    ]
+  },
+  {
+    "id": "NA05",
+    "name": {
+      "local": "Kavango East",
+      "en": "Kavango East",
+      "slug": "kavango-east-na05"
+    },
+    "code": {
+      "id": "NA05",
+      "iso": null
+    },
+    "constituency": [
+      {
+        "id": "NA0503",
+        "name": {
+          "local": "Mashare",
+          "en": "Mashare",
+          "slug": "mashare-na0503"
+        },
+        "code": {
+          "id": "NA0503",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0505",
+        "name": {
+          "local": "Mukwe",
+          "en": "Mukwe",
+          "slug": "mukwe-na0505"
+        },
+        "code": {
+          "id": "NA0505",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0506",
+        "name": {
+          "local": "Ndiyona",
+          "en": "Ndiyona",
+          "slug": "ndiyona-na0506"
+        },
+        "code": {
+          "id": "NA0506",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0509",
+        "name": {
+          "local": "Rundu Rural East",
+          "en": "Rundu Rural East",
+          "slug": "rundu-rural-east-na0509"
+        },
+        "code": {
+          "id": "NA0509",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0507",
+        "name": {
+          "local": "Rundu Rural West",
+          "en": "Rundu Rural West",
+          "slug": "rundu-rural-west-na0507"
+        },
+        "code": {
+          "id": "NA0507",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0508",
+        "name": {
+          "local": "Rundu Urban",
+          "en": "Rundu Urban",
+          "slug": "rundu-urban-na0508"
+        },
+        "code": {
+          "id": "NA0508",
+          "iso": null
+        }
+      }
+    ]
+  },
+  {
+    "id": "NA14",
+    "name": {
+      "local": "Kavango West",
+      "en": "Kavango West",
+      "slug": "kavango-west-na14"
+    },
+    "code": {
+      "id": "NA14",
+      "iso": null
+    },
+    "constituency": [
+      {
+        "id": "NA1401",
+        "name": {
+          "local": "Kahenge",
+          "en": "Kahenge",
+          "slug": "kahenge-na1401"
+        },
+        "code": {
+          "id": "NA1401",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA1402",
+        "name": {
+          "local": "Kapako",
+          "en": "Kapako",
+          "slug": "kapako-na1402"
+        },
+        "code": {
+          "id": "NA1402",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA1404",
+        "name": {
+          "local": "Mpungu",
+          "en": "Mpungu",
+          "slug": "mpungu-na1404"
+        },
+        "code": {
+          "id": "NA1404",
+          "iso": null
+        }
+      }
+    ]
+  },
+  {
+    "id": "NA06",
+    "name": {
+      "local": "Khomas",
+      "en": "Khomas",
+      "slug": "khomas-na06"
+    },
+    "code": {
+      "id": "NA06",
+      "iso": null
+    },
+    "constituency": [
+      {
+        "id": "NA0605",
+        "name": {
+          "local": "John Pandeni (Soweto)",
+          "en": "John Pandeni (Soweto)",
+          "slug": "john-pandeni-soweto-na0605"
+        },
+        "code": {
+          "id": "NA0605",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0602",
+        "name": {
+          "local": "Katutura Central",
+          "en": "Katutura Central",
+          "slug": "katutura-central-na0602"
+        },
+        "code": {
+          "id": "NA0602",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0603",
+        "name": {
+          "local": "Katutura East",
+          "en": "Katutura East",
+          "slug": "katutura-east-na0603"
+        },
+        "code": {
+          "id": "NA0603",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0604",
+        "name": {
+          "local": "Khomasdal North",
+          "en": "Khomasdal North",
+          "slug": "khomasdal-north-na0604"
+        },
+        "code": {
+          "id": "NA0604",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0610",
+        "name": {
+          "local": "Moses Garoeb",
+          "en": "Moses Garoeb",
+          "slug": "moses-garoeb-na0610"
+        },
+        "code": {
+          "id": "NA0610",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0606",
+        "name": {
+          "local": "Samora Machel (Wanaheda)",
+          "en": "Samora Machel (Wanaheda)",
+          "slug": "samora-machel-wanaheda-na0606"
+        },
+        "code": {
+          "id": "NA0606",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0601",
+        "name": {
+          "local": "Tobias Hainyeko",
+          "en": "Tobias Hainyeko",
+          "slug": "tobias-hainyeko-na0601"
+        },
+        "code": {
+          "id": "NA0601",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0607",
+        "name": {
+          "local": "Windhoek East",
+          "en": "Windhoek East",
+          "slug": "windhoek-east-na0607"
+        },
+        "code": {
+          "id": "NA0607",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0608",
+        "name": {
+          "local": "Windhoek Rural",
+          "en": "Windhoek Rural",
+          "slug": "windhoek-rural-na0608"
+        },
+        "code": {
+          "id": "NA0608",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0609",
+        "name": {
+          "local": "Windhoek West",
+          "en": "Windhoek West",
+          "slug": "windhoek-west-na0609"
+        },
+        "code": {
+          "id": "NA0609",
+          "iso": null
+        }
+      }
+    ]
+  },
+  {
+    "id": "NA07",
+    "name": {
+      "local": "Kunene",
+      "en": "Kunene",
+      "slug": "kunene-na07"
+    },
+    "code": {
+      "id": "NA07",
+      "iso": null
+    },
+    "constituency": [
+      {
+        "id": "NA0701",
+        "name": {
+          "local": "Epupa",
+          "en": "Epupa",
+          "slug": "epupa-na0701"
+        },
+        "code": {
+          "id": "NA0701",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0702",
+        "name": {
+          "local": "Kamanjab",
+          "en": "Kamanjab",
+          "slug": "kamanjab-na0702"
+        },
+        "code": {
+          "id": "NA0702",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0703",
+        "name": {
+          "local": "Khorixas",
+          "en": "Khorixas",
+          "slug": "khorixas-na0703"
+        },
+        "code": {
+          "id": "NA0703",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0704",
+        "name": {
+          "local": "Opuwo",
+          "en": "Opuwo",
+          "slug": "opuwo-na0704"
+        },
+        "code": {
+          "id": "NA0704",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0705",
+        "name": {
+          "local": "Outjo",
+          "en": "Outjo",
+          "slug": "outjo-na0705"
+        },
+        "code": {
+          "id": "NA0705",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0706",
+        "name": {
+          "local": "Sesfontein",
+          "en": "Sesfontein",
+          "slug": "sesfontein-na0706"
+        },
+        "code": {
+          "id": "NA0706",
+          "iso": null
+        }
+      }
+    ]
+  },
+  {
+    "id": "NA08",
+    "name": {
+      "local": "Ohangwena",
+      "en": "Ohangwena",
+      "slug": "ohangwena-na08"
+    },
+    "code": {
+      "id": "NA08",
+      "iso": null
+    },
+    "constituency": [
+      {
+        "id": "NA0801",
+        "name": {
+          "local": "Eenhana",
+          "en": "Eenhana",
+          "slug": "eenhana-na0801"
+        },
+        "code": {
+          "id": "NA0801",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0802",
+        "name": {
+          "local": "Endola",
+          "en": "Endola",
+          "slug": "endola-na0802"
+        },
+        "code": {
+          "id": "NA0802",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0803",
+        "name": {
+          "local": "Engela",
+          "en": "Engela",
+          "slug": "engela-na0803"
+        },
+        "code": {
+          "id": "NA0803",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0804",
+        "name": {
+          "local": "Epembe",
+          "en": "Epembe",
+          "slug": "epembe-na0804"
+        },
+        "code": {
+          "id": "NA0804",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0805",
+        "name": {
+          "local": "Ohangwena",
+          "en": "Ohangwena",
+          "slug": "ohangwena-na0805"
+        },
+        "code": {
+          "id": "NA0805",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0806",
+        "name": {
+          "local": "Okongo",
+          "en": "Okongo",
+          "slug": "okongo-na0806"
+        },
+        "code": {
+          "id": "NA0806",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0811",
+        "name": {
+          "local": "Omulonga",
+          "en": "Omulonga",
+          "slug": "omulonga-na0811"
+        },
+        "code": {
+          "id": "NA0811",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0807",
+        "name": {
+          "local": "Omundaungilo",
+          "en": "Omundaungilo",
+          "slug": "omundaungilo-na0807"
+        },
+        "code": {
+          "id": "NA0807",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0808",
+        "name": {
+          "local": "Ondobe",
+          "en": "Ondobe",
+          "slug": "ondobe-na0808"
+        },
+        "code": {
+          "id": "NA0808",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0809",
+        "name": {
+          "local": "Ongenga",
+          "en": "Ongenga",
+          "slug": "ongenga-na0809"
+        },
+        "code": {
+          "id": "NA0809",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0810",
+        "name": {
+          "local": "Oshikango",
+          "en": "Oshikango",
+          "slug": "oshikango-na0810"
+        },
+        "code": {
+          "id": "NA0810",
+          "iso": null
+        }
+      }
+    ]
+  },
+  {
+    "id": "NA09",
+    "name": {
+      "local": "Omaheke",
+      "en": "Omaheke",
+      "slug": "omaheke-na09"
+    },
+    "code": {
+      "id": "NA09",
+      "iso": null
+    },
+    "constituency": [
+      {
+        "id": "NA0901",
+        "name": {
+          "local": "Aminius",
+          "en": "Aminius",
+          "slug": "aminius-na0901"
+        },
+        "code": {
+          "id": "NA0901",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0907",
+        "name": {
+          "local": "Epukiro",
+          "en": "Epukiro",
+          "slug": "epukiro-na0907"
+        },
+        "code": {
+          "id": "NA0907",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0902",
+        "name": {
+          "local": "Gobabis",
+          "en": "Gobabis",
+          "slug": "gobabis-na0902"
+        },
+        "code": {
+          "id": "NA0902",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0903",
+        "name": {
+          "local": "Kalahari",
+          "en": "Kalahari",
+          "slug": "kalahari-na0903"
+        },
+        "code": {
+          "id": "NA0903",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0906",
+        "name": {
+          "local": "Okarukambe (Steinhausen)",
+          "en": "Okarukambe (Steinhausen)",
+          "slug": "okarukambe-steinhausen-na0906"
+        },
+        "code": {
+          "id": "NA0906",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0904",
+        "name": {
+          "local": "Otjinene",
+          "en": "Otjinene",
+          "slug": "otjinene-na0904"
+        },
+        "code": {
+          "id": "NA0904",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0905",
+        "name": {
+          "local": "Otjombinde",
+          "en": "Otjombinde",
+          "slug": "otjombinde-na0905"
+        },
+        "code": {
+          "id": "NA0905",
+          "iso": null
+        }
+      }
+    ]
+  },
+  {
+    "id": "NA10",
+    "name": {
+      "local": "Omusati",
+      "en": "Omusati",
+      "slug": "omusati-na10"
+    },
+    "code": {
+      "id": "NA10",
+      "iso": null
+    },
+    "constituency": [
+      {
+        "id": "NA1001",
+        "name": {
+          "local": "Anamulenge",
+          "en": "Anamulenge",
+          "slug": "anamulenge-na1001"
+        },
+        "code": {
+          "id": "NA1001",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA1002",
+        "name": {
+          "local": "Elim",
+          "en": "Elim",
+          "slug": "elim-na1002"
+        },
+        "code": {
+          "id": "NA1002",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA1003",
+        "name": {
+          "local": "Etayi",
+          "en": "Etayi",
+          "slug": "etayi-na1003"
+        },
+        "code": {
+          "id": "NA1003",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA1004",
+        "name": {
+          "local": "Ogongo",
+          "en": "Ogongo",
+          "slug": "ogongo-na1004"
+        },
+        "code": {
+          "id": "NA1004",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA1005",
+        "name": {
+          "local": "Okahao",
+          "en": "Okahao",
+          "slug": "okahao-na1005"
+        },
+        "code": {
+          "id": "NA1005",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA1006",
+        "name": {
+          "local": "Okalongo",
+          "en": "Okalongo",
+          "slug": "okalongo-na1006"
+        },
+        "code": {
+          "id": "NA1006",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA1007",
+        "name": {
+          "local": "Onesi",
+          "en": "Onesi",
+          "slug": "onesi-na1007"
+        },
+        "code": {
+          "id": "NA1007",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA1008",
+        "name": {
+          "local": "Oshikuku",
+          "en": "Oshikuku",
+          "slug": "oshikuku-na1008"
+        },
+        "code": {
+          "id": "NA1008",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA1012",
+        "name": {
+          "local": "Otamanzi",
+          "en": "Otamanzi",
+          "slug": "otamanzi-na1012"
+        },
+        "code": {
+          "id": "NA1012",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA1009",
+        "name": {
+          "local": "Outapi",
+          "en": "Outapi",
+          "slug": "outapi-na1009"
+        },
+        "code": {
+          "id": "NA1009",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA1010",
+        "name": {
+          "local": "Ruacana",
+          "en": "Ruacana",
+          "slug": "ruacana-na1010"
+        },
+        "code": {
+          "id": "NA1010",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA1011",
+        "name": {
+          "local": "Tsandi",
+          "en": "Tsandi",
+          "slug": "tsandi-na1011"
+        },
+        "code": {
+          "id": "NA1011",
+          "iso": null
+        }
+      }
+    ]
+  },
+  {
+    "id": "NA11",
+    "name": {
+      "local": "Oshana",
+      "en": "Oshana",
+      "slug": "oshana-na11"
+    },
+    "code": {
+      "id": "NA11",
+      "iso": null
+    },
+    "constituency": [
+      {
+        "id": "NA1101",
+        "name": {
+          "local": "Okaku",
+          "en": "Okaku",
+          "slug": "okaku-na1101"
+        },
+        "code": {
+          "id": "NA1101",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA1102",
+        "name": {
+          "local": "Okatana",
+          "en": "Okatana",
+          "slug": "okatana-na1102"
+        },
+        "code": {
+          "id": "NA1102",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA1103",
+        "name": {
+          "local": "Okatyali",
+          "en": "Okatyali",
+          "slug": "okatyali-na1103"
+        },
+        "code": {
+          "id": "NA1103",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA1104",
+        "name": {
+          "local": "Ompundja",
+          "en": "Ompundja",
+          "slug": "ompundja-na1104"
+        },
+        "code": {
+          "id": "NA1104",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA1105",
+        "name": {
+          "local": "Ondangwa",
+          "en": "Ondangwa",
+          "slug": "ondangwa-na1105"
+        },
+        "code": {
+          "id": "NA1105",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA1106",
+        "name": {
+          "local": "Ongwediva",
+          "en": "Ongwediva",
+          "slug": "ongwediva-na1106"
+        },
+        "code": {
+          "id": "NA1106",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA1107",
+        "name": {
+          "local": "Oshakati East",
+          "en": "Oshakati East",
+          "slug": "oshakati-east-na1107"
+        },
+        "code": {
+          "id": "NA1107",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA1108",
+        "name": {
+          "local": "Oshakati West",
+          "en": "Oshakati West",
+          "slug": "oshakati-west-na1108"
+        },
+        "code": {
+          "id": "NA1108",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA1109",
+        "name": {
+          "local": "Uukwiyu",
+          "en": "Uukwiyu",
+          "slug": "uukwiyu-na1109"
+        },
+        "code": {
+          "id": "NA1109",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA1110",
+        "name": {
+          "local": "Uuvudhiya",
+          "en": "Uuvudhiya",
+          "slug": "uuvudhiya-na1110"
+        },
+        "code": {
+          "id": "NA1110",
+          "iso": null
+        }
+      }
+    ]
+  },
+  {
+    "id": "NA12",
+    "name": {
+      "local": "Oshikoto",
+      "en": "Oshikoto",
+      "slug": "oshikoto-na12"
+    },
+    "code": {
+      "id": "NA12",
+      "iso": null
+    },
+    "constituency": [
+      {
+        "id": "NA1201",
+        "name": {
+          "local": "Eengodi",
+          "en": "Eengodi",
+          "slug": "eengodi-na1201"
+        },
+        "code": {
+          "id": "NA1201",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA1202",
+        "name": {
+          "local": "Guinas",
+          "en": "Guinas",
+          "slug": "guinas-na1202"
+        },
+        "code": {
+          "id": "NA1202",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA1203",
+        "name": {
+          "local": "Okankolo",
+          "en": "Okankolo",
+          "slug": "okankolo-na1203"
+        },
+        "code": {
+          "id": "NA1203",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA1204",
+        "name": {
+          "local": "Olukonda",
+          "en": "Olukonda",
+          "slug": "olukonda-na1204"
+        },
+        "code": {
+          "id": "NA1204",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA1205",
+        "name": {
+          "local": "Omuntele",
+          "en": "Omuntele",
+          "slug": "omuntele-na1205"
+        },
+        "code": {
+          "id": "NA1205",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA1206",
+        "name": {
+          "local": "Omuthiyagwiipundi",
+          "en": "Omuthiyagwiipundi",
+          "slug": "omuthiyagwiipundi-na1206"
+        },
+        "code": {
+          "id": "NA1206",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA1207",
+        "name": {
+          "local": "Onayena",
+          "en": "Onayena",
+          "slug": "onayena-na1207"
+        },
+        "code": {
+          "id": "NA1207",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA1208",
+        "name": {
+          "local": "Oniipa",
+          "en": "Oniipa",
+          "slug": "oniipa-na1208"
+        },
+        "code": {
+          "id": "NA1208",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA1209",
+        "name": {
+          "local": "Onyaanya",
+          "en": "Onyaanya",
+          "slug": "onyaanya-na1209"
+        },
+        "code": {
+          "id": "NA1209",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA1210",
+        "name": {
+          "local": "Tsumeb",
+          "en": "Tsumeb",
+          "slug": "tsumeb-na1210"
+        },
+        "code": {
+          "id": "NA1210",
+          "iso": null
+        }
+      }
+    ]
+  },
+  {
+    "id": "NA13",
+    "name": {
+      "local": "Otjozondjupa",
+      "en": "Otjozondjupa",
+      "slug": "otjozondjupa-na13"
+    },
+    "code": {
+      "id": "NA13",
+      "iso": null
+    },
+    "constituency": [
+      {
+        "id": "NA1301",
+        "name": {
+          "local": "Grootfontein",
+          "en": "Grootfontein",
+          "slug": "grootfontein-na1301"
+        },
+        "code": {
+          "id": "NA1301",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA1302",
+        "name": {
+          "local": "Okahandja",
+          "en": "Okahandja",
+          "slug": "okahandja-na1302"
+        },
+        "code": {
+          "id": "NA1302",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA1303",
+        "name": {
+          "local": "Okakarara",
+          "en": "Okakarara",
+          "slug": "okakarara-na1303"
+        },
+        "code": {
+          "id": "NA1303",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA1304",
+        "name": {
+          "local": "Omatako",
+          "en": "Omatako",
+          "slug": "omatako-na1304"
+        },
+        "code": {
+          "id": "NA1304",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA1305",
+        "name": {
+          "local": "Otavi",
+          "en": "Otavi",
+          "slug": "otavi-na1305"
+        },
+        "code": {
+          "id": "NA1305",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA1306",
+        "name": {
+          "local": "Otjiwarongo",
+          "en": "Otjiwarongo",
+          "slug": "otjiwarongo-na1306"
+        },
+        "code": {
+          "id": "NA1306",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA1307",
+        "name": {
+          "local": "Tsumkwe",
+          "en": "Tsumkwe",
+          "slug": "tsumkwe-na1307"
+        },
+        "code": {
+          "id": "NA1307",
+          "iso": null
+        }
+      }
+    ]
+  },
+  {
+    "id": "NA01",
+    "name": {
+      "local": "Zambezi",
+      "en": "Zambezi",
+      "slug": "zambezi-na01"
+    },
+    "code": {
+      "id": "NA01",
+      "iso": null
+    },
+    "constituency": [
+      {
+        "id": "NA0101",
+        "name": {
+          "local": "Kabbe",
+          "en": "Kabbe",
+          "slug": "kabbe-na0101"
+        },
+        "code": {
+          "id": "NA0101",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0102",
+        "name": {
+          "local": "Katima Mulilo Rural",
+          "en": "Katima Mulilo Rural",
+          "slug": "katima-mulilo-rural-na0102"
+        },
+        "code": {
+          "id": "NA0102",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0103",
+        "name": {
+          "local": "Katima Mulilo Urban",
+          "en": "Katima Mulilo Urban",
+          "slug": "katima-mulilo-urban-na0103"
+        },
+        "code": {
+          "id": "NA0103",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0104",
+        "name": {
+          "local": "Kongola",
+          "en": "Kongola",
+          "slug": "kongola-na0104"
+        },
+        "code": {
+          "id": "NA0104",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0105",
+        "name": {
+          "local": "Linyanti",
+          "en": "Linyanti",
+          "slug": "linyanti-na0105"
+        },
+        "code": {
+          "id": "NA0105",
+          "iso": null
+        }
+      },
+      {
+        "id": "NA0106",
+        "name": {
+          "local": "Sibbinda",
+          "en": "Sibbinda",
+          "slug": "sibbinda-na0106"
+        },
+        "code": {
+          "id": "NA0106",
+          "iso": null
+        }
+      }
+    ]
+  }
+]

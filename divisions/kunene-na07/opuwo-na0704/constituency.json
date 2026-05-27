@@ -1,0 +1,45 @@
+{
+  "id": "NA0704",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Opuwo",
+    "en": "Opuwo",
+    "slug": "opuwo-na0704"
+  },
+  "code": {
+    "id": "NA0704",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA07",
+    "level": 1,
+    "name": {
+      "local": "Kunene",
+      "en": "Kunene",
+      "slug": "kunene-na07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA07",
+      "level": 1,
+      "name": {
+        "local": "Kunene",
+        "en": "Kunene",
+        "slug": "kunene-na07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.5",
+    "lon": "13.171"
+  },
+  "metadata": {},
+  "source": {}
+}

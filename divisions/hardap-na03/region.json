@@ -1,0 +1,29 @@
+{
+  "id": "NA03",
+  "level": 1,
+  "level_name": {
+    "local": "Region",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Hardap",
+    "en": "Hardap",
+    "slug": "hardap-na03"
+  },
+  "code": {
+    "id": "NA03",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "constituency": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-24.52",
+    "lon": "17.303"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "NA0701",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Epupa",
+    "en": "Epupa",
+    "slug": "epupa-na0701"
+  },
+  "code": {
+    "id": "NA0701",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA07",
+    "level": 1,
+    "name": {
+      "local": "Kunene",
+      "en": "Kunene",
+      "slug": "kunene-na07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA07",
+      "level": 1,
+      "name": {
+        "local": "Kunene",
+        "en": "Kunene",
+        "slug": "kunene-na07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.482",
+    "lon": "12.967"
+  },
+  "metadata": {},
+  "source": {}
+}

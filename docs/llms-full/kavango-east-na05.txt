@@ -1,0 +1,39 @@
+# Kavango East — Namibia Administrative Divisions
+
+> 6 constituencys
+> Code: NA05
+> Coordinates: -18.475, 20.331
+> Last updated: 2026-05-27. License: CC-BY-4.0.
+
+## Constituencys
+
+### Mashare
+
+Code: NA0503, Coordinates: -18.515, 20.075
+
+
+### Mukwe
+
+Code: NA0505, Coordinates: -18.072, 21.75
+
+
+### Ndiyona
+
+Code: NA0506, Coordinates: -18.775, 20.708
+
+
+### Rundu Rural East
+
+Code: NA0509, Coordinates: -18.041, 19.929
+
+
+### Rundu Rural West
+
+Code: NA0507, Coordinates: -18.283, 19.778
+
+
+### Rundu Urban
+
+Code: NA0508, Coordinates: -17.9, 19.783
+
+

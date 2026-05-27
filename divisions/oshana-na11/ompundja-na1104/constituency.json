@@ -1,0 +1,45 @@
+{
+  "id": "NA1104",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Ompundja",
+    "en": "Ompundja",
+    "slug": "ompundja-na1104"
+  },
+  "code": {
+    "id": "NA1104",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA11",
+    "level": 1,
+    "name": {
+      "local": "Oshana",
+      "en": "Oshana",
+      "slug": "oshana-na11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA11",
+      "level": 1,
+      "name": {
+        "local": "Oshana",
+        "en": "Oshana",
+        "slug": "oshana-na11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.049",
+    "lon": "15.645"
+  },
+  "metadata": {},
+  "source": {}
+}

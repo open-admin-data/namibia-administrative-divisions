@@ -1,0 +1,497 @@
+[
+  {
+    "id": "NA0801",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Eenhana",
+      "en": "Eenhana",
+      "slug": "eenhana-na0801"
+    },
+    "code": {
+      "id": "NA0801",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA08",
+      "level": 1,
+      "name": {
+        "local": "Ohangwena",
+        "en": "Ohangwena",
+        "slug": "ohangwena-na08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA08",
+        "level": 1,
+        "name": {
+          "local": "Ohangwena",
+          "en": "Ohangwena",
+          "slug": "ohangwena-na08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.682",
+      "lon": "16.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0802",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Endola",
+      "en": "Endola",
+      "slug": "endola-na0802"
+    },
+    "code": {
+      "id": "NA0802",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA08",
+      "level": 1,
+      "name": {
+        "local": "Ohangwena",
+        "en": "Ohangwena",
+        "slug": "ohangwena-na08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA08",
+        "level": 1,
+        "name": {
+          "local": "Ohangwena",
+          "en": "Ohangwena",
+          "slug": "ohangwena-na08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.623",
+      "lon": "15.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0803",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Engela",
+      "en": "Engela",
+      "slug": "engela-na0803"
+    },
+    "code": {
+      "id": "NA0803",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA08",
+      "level": 1,
+      "name": {
+        "local": "Ohangwena",
+        "en": "Ohangwena",
+        "slug": "ohangwena-na08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA08",
+        "level": 1,
+        "name": {
+          "local": "Ohangwena",
+          "en": "Ohangwena",
+          "slug": "ohangwena-na08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.534",
+      "lon": "15.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0804",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Epembe",
+      "en": "Epembe",
+      "slug": "epembe-na0804"
+    },
+    "code": {
+      "id": "NA0804",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA08",
+      "level": 1,
+      "name": {
+        "local": "Ohangwena",
+        "en": "Ohangwena",
+        "slug": "ohangwena-na08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA08",
+        "level": 1,
+        "name": {
+          "local": "Ohangwena",
+          "en": "Ohangwena",
+          "slug": "ohangwena-na08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.686",
+      "lon": "16.701"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0805",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Ohangwena",
+      "en": "Ohangwena",
+      "slug": "ohangwena-na0805"
+    },
+    "code": {
+      "id": "NA0805",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA08",
+      "level": 1,
+      "name": {
+        "local": "Ohangwena",
+        "en": "Ohangwena",
+        "slug": "ohangwena-na08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA08",
+        "level": 1,
+        "name": {
+          "local": "Ohangwena",
+          "en": "Ohangwena",
+          "slug": "ohangwena-na08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.507",
+      "lon": "15.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0806",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Okongo",
+      "en": "Okongo",
+      "slug": "okongo-na0806"
+    },
+    "code": {
+      "id": "NA0806",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA08",
+      "level": 1,
+      "name": {
+        "local": "Ohangwena",
+        "en": "Ohangwena",
+        "slug": "ohangwena-na08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA08",
+        "level": 1,
+        "name": {
+          "local": "Ohangwena",
+          "en": "Ohangwena",
+          "slug": "ohangwena-na08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.578",
+      "lon": "17.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0811",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Omulonga",
+      "en": "Omulonga",
+      "slug": "omulonga-na0811"
+    },
+    "code": {
+      "id": "NA0811",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA08",
+      "level": 1,
+      "name": {
+        "local": "Ohangwena",
+        "en": "Ohangwena",
+        "slug": "ohangwena-na08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA08",
+        "level": 1,
+        "name": {
+          "local": "Ohangwena",
+          "en": "Ohangwena",
+          "slug": "ohangwena-na08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.659",
+      "lon": "16.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0807",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Omundaungilo",
+      "en": "Omundaungilo",
+      "slug": "omundaungilo-na0807"
+    },
+    "code": {
+      "id": "NA0807",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA08",
+      "level": 1,
+      "name": {
+        "local": "Ohangwena",
+        "en": "Ohangwena",
+        "slug": "ohangwena-na08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA08",
+        "level": 1,
+        "name": {
+          "local": "Ohangwena",
+          "en": "Ohangwena",
+          "slug": "ohangwena-na08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.483",
+      "lon": "16.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0808",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Ondobe",
+      "en": "Ondobe",
+      "slug": "ondobe-na0808"
+    },
+    "code": {
+      "id": "NA0808",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA08",
+      "level": 1,
+      "name": {
+        "local": "Ohangwena",
+        "en": "Ohangwena",
+        "slug": "ohangwena-na08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA08",
+        "level": 1,
+        "name": {
+          "local": "Ohangwena",
+          "en": "Ohangwena",
+          "slug": "ohangwena-na08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.492",
+      "lon": "16.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0809",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Ongenga",
+      "en": "Ongenga",
+      "slug": "ongenga-na0809"
+    },
+    "code": {
+      "id": "NA0809",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA08",
+      "level": 1,
+      "name": {
+        "local": "Ohangwena",
+        "en": "Ohangwena",
+        "slug": "ohangwena-na08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA08",
+        "level": 1,
+        "name": {
+          "local": "Ohangwena",
+          "en": "Ohangwena",
+          "slug": "ohangwena-na08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.474",
+      "lon": "15.651"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0810",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Oshikango",
+      "en": "Oshikango",
+      "slug": "oshikango-na0810"
+    },
+    "code": {
+      "id": "NA0810",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA08",
+      "level": 1,
+      "name": {
+        "local": "Ohangwena",
+        "en": "Ohangwena",
+        "slug": "ohangwena-na08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA08",
+        "level": 1,
+        "name": {
+          "local": "Ohangwena",
+          "en": "Ohangwena",
+          "slug": "ohangwena-na08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.484",
+      "lon": "15.998"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

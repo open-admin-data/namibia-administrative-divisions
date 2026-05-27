@@ -1,0 +1,45 @@
+{
+  "id": "NA0904",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Otjinene",
+    "en": "Otjinene",
+    "slug": "otjinene-na0904"
+  },
+  "code": {
+    "id": "NA0904",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA09",
+    "level": 1,
+    "name": {
+      "local": "Omaheke",
+      "en": "Omaheke",
+      "slug": "omaheke-na09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA09",
+      "level": 1,
+      "name": {
+        "local": "Omaheke",
+        "en": "Omaheke",
+        "slug": "omaheke-na09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.849",
+    "lon": "18.928"
+  },
+  "metadata": {},
+  "source": {}
+}

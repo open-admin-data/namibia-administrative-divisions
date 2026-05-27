@@ -1,0 +1,78 @@
+# Namibia Administrative Divisions
+
+> Open dataset of Namibia's administrative hierarchy:
+> 14 regions, 107 constituencys.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total regions: 14
+- Total constituencys: 107
+- Coordinates: included (all levels)
+- Last updated: 2026-05-27
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All regions (JSON)](https://raw.githubusercontent.com/open-admin-data/namibia-administrative-divisions/main/data/all-region.json)
+- [All constituencys (JSON)](https://raw.githubusercontent.com/open-admin-data/namibia-administrative-divisions/main/data/all-constituency.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/namibia-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/namibia-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/namibia-administrative-divisions/main/data/schema.json)
+
+## Browse by Region
+
+- [Erongo](https://github.com/open-admin-data/namibia-administrative-divisions/tree/main/divisions/erongo-na02/) — 7 constituencys
+- [Hardap](https://github.com/open-admin-data/namibia-administrative-divisions/tree/main/divisions/hardap-na03/) — 6 constituencys
+- [Karas](https://github.com/open-admin-data/namibia-administrative-divisions/tree/main/divisions/karas-na04/) — 6 constituencys
+- [Kavango East](https://github.com/open-admin-data/namibia-administrative-divisions/tree/main/divisions/kavango-east-na05/) — 6 constituencys
+- [Kavango West](https://github.com/open-admin-data/namibia-administrative-divisions/tree/main/divisions/kavango-west-na14/) — 3 constituencys
+- [Khomas](https://github.com/open-admin-data/namibia-administrative-divisions/tree/main/divisions/khomas-na06/) — 10 constituencys
+- [Kunene](https://github.com/open-admin-data/namibia-administrative-divisions/tree/main/divisions/kunene-na07/) — 6 constituencys
+- [Ohangwena](https://github.com/open-admin-data/namibia-administrative-divisions/tree/main/divisions/ohangwena-na08/) — 11 constituencys
+- [Omaheke](https://github.com/open-admin-data/namibia-administrative-divisions/tree/main/divisions/omaheke-na09/) — 7 constituencys
+- [Omusati](https://github.com/open-admin-data/namibia-administrative-divisions/tree/main/divisions/omusati-na10/) — 12 constituencys
+- [Oshana](https://github.com/open-admin-data/namibia-administrative-divisions/tree/main/divisions/oshana-na11/) — 10 constituencys
+- [Oshikoto](https://github.com/open-admin-data/namibia-administrative-divisions/tree/main/divisions/oshikoto-na12/) — 10 constituencys
+- [Otjozondjupa](https://github.com/open-admin-data/namibia-administrative-divisions/tree/main/divisions/otjozondjupa-na13/) — 7 constituencys
+- [Zambezi](https://github.com/open-admin-data/namibia-administrative-divisions/tree/main/divisions/zambezi-na01/) — 6 constituencys
+
+## Per-Region Full Data
+
+- [Erongo](https://raw.githubusercontent.com/open-admin-data/namibia-administrative-divisions/main/docs/llms-full/erongo-na02.txt)
+- [Hardap](https://raw.githubusercontent.com/open-admin-data/namibia-administrative-divisions/main/docs/llms-full/hardap-na03.txt)
+- [Karas](https://raw.githubusercontent.com/open-admin-data/namibia-administrative-divisions/main/docs/llms-full/karas-na04.txt)
+- [Kavango East](https://raw.githubusercontent.com/open-admin-data/namibia-administrative-divisions/main/docs/llms-full/kavango-east-na05.txt)
+- [Kavango West](https://raw.githubusercontent.com/open-admin-data/namibia-administrative-divisions/main/docs/llms-full/kavango-west-na14.txt)
+- [Khomas](https://raw.githubusercontent.com/open-admin-data/namibia-administrative-divisions/main/docs/llms-full/khomas-na06.txt)
+- [Kunene](https://raw.githubusercontent.com/open-admin-data/namibia-administrative-divisions/main/docs/llms-full/kunene-na07.txt)
+- [Ohangwena](https://raw.githubusercontent.com/open-admin-data/namibia-administrative-divisions/main/docs/llms-full/ohangwena-na08.txt)
+- [Omaheke](https://raw.githubusercontent.com/open-admin-data/namibia-administrative-divisions/main/docs/llms-full/omaheke-na09.txt)
+- [Omusati](https://raw.githubusercontent.com/open-admin-data/namibia-administrative-divisions/main/docs/llms-full/omusati-na10.txt)
+- [Oshana](https://raw.githubusercontent.com/open-admin-data/namibia-administrative-divisions/main/docs/llms-full/oshana-na11.txt)
+- [Oshikoto](https://raw.githubusercontent.com/open-admin-data/namibia-administrative-divisions/main/docs/llms-full/oshikoto-na12.txt)
+- [Otjozondjupa](https://raw.githubusercontent.com/open-admin-data/namibia-administrative-divisions/main/docs/llms-full/otjozondjupa-na13.txt)
+- [Zambezi](https://raw.githubusercontent.com/open-admin-data/namibia-administrative-divisions/main/docs/llms-full/zambezi-na01.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (region), 2 (constituency)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Namibia Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/namibia-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

@@ -1,0 +1,45 @@
+{
+  "id": "NA1011",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Tsandi",
+    "en": "Tsandi",
+    "slug": "tsandi-na1011"
+  },
+  "code": {
+    "id": "NA1011",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA10",
+    "level": 1,
+    "name": {
+      "local": "Omusati",
+      "en": "Omusati",
+      "slug": "omusati-na10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA10",
+      "level": 1,
+      "name": {
+        "local": "Omusati",
+        "en": "Omusati",
+        "slug": "omusati-na10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.934",
+    "lon": "14.777"
+  },
+  "metadata": {},
+  "source": {}
+}

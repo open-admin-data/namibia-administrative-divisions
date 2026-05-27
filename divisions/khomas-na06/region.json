@@ -1,0 +1,29 @@
+{
+  "id": "NA06",
+  "level": 1,
+  "level_name": {
+    "local": "Region",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Khomas",
+    "en": "Khomas",
+    "slug": "khomas-na06"
+  },
+  "code": {
+    "id": "NA06",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "constituency": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.91",
+    "lon": "17.093"
+  },
+  "metadata": {},
+  "source": {}
+}

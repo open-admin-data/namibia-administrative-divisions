@@ -1,0 +1,59 @@
+# Oshana — Namibia Administrative Divisions
+
+> 10 constituencys
+> Code: NA11
+> Coordinates: -18.503, 15.746
+> Last updated: 2026-05-27. License: CC-BY-4.0.
+
+## Constituencys
+
+### Okaku
+
+Code: NA1101, Coordinates: -17.78, 15.946
+
+
+### Okatana
+
+Code: NA1102, Coordinates: -17.841, 15.517
+
+
+### Okatyali
+
+Code: NA1103, Coordinates: -18.202, 15.964
+
+
+### Ompundja
+
+Code: NA1104, Coordinates: -18.049, 15.645
+
+
+### Ondangwa
+
+Code: NA1105, Coordinates: -17.879, 15.899
+
+
+### Ongwediva
+
+Code: NA1106, Coordinates: -17.762, 15.805
+
+
+### Oshakati East
+
+Code: NA1107, Coordinates: -17.841, 15.74
+
+
+### Oshakati West
+
+Code: NA1108, Coordinates: -17.841, 15.618
+
+
+### Uukwiyu
+
+Code: NA1109, Coordinates: -18.001, 15.892
+
+
+### Uuvudhiya
+
+Code: NA1110, Coordinates: -18.63, 15.79
+
+

@@ -1,0 +1,45 @@
+{
+  "id": "NA0610",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Moses Garoeb",
+    "en": "Moses Garoeb",
+    "slug": "moses-garoeb-na0610"
+  },
+  "code": {
+    "id": "NA0610",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA06",
+    "level": 1,
+    "name": {
+      "local": "Khomas",
+      "en": "Khomas",
+      "slug": "khomas-na06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA06",
+      "level": 1,
+      "name": {
+        "local": "Khomas",
+        "en": "Khomas",
+        "slug": "khomas-na06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.472",
+    "lon": "17.041"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "NA0607",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Windhoek East",
+    "en": "Windhoek East",
+    "slug": "windhoek-east-na0607"
+  },
+  "code": {
+    "id": "NA0607",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA06",
+    "level": 1,
+    "name": {
+      "local": "Khomas",
+      "en": "Khomas",
+      "slug": "khomas-na06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA06",
+      "level": 1,
+      "name": {
+        "local": "Khomas",
+        "en": "Khomas",
+        "slug": "khomas-na06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.627",
+    "lon": "17.161"
+  },
+  "metadata": {},
+  "source": {}
+}

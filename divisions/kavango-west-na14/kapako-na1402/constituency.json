@@ -1,0 +1,45 @@
+{
+  "id": "NA1402",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Kapako",
+    "en": "Kapako",
+    "slug": "kapako-na1402"
+  },
+  "code": {
+    "id": "NA1402",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA14",
+    "level": 1,
+    "name": {
+      "local": "Kavango West",
+      "en": "Kavango West",
+      "slug": "kavango-west-na14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA14",
+      "level": 1,
+      "name": {
+        "local": "Kavango West",
+        "en": "Kavango West",
+        "slug": "kavango-west-na14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.372",
+    "lon": "19.419"
+  },
+  "metadata": {},
+  "source": {}
+}

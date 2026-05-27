@@ -1,0 +1,45 @@
+{
+  "id": "NA1109",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Uukwiyu",
+    "en": "Uukwiyu",
+    "slug": "uukwiyu-na1109"
+  },
+  "code": {
+    "id": "NA1109",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA11",
+    "level": 1,
+    "name": {
+      "local": "Oshana",
+      "en": "Oshana",
+      "slug": "oshana-na11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA11",
+      "level": 1,
+      "name": {
+        "local": "Oshana",
+        "en": "Oshana",
+        "slug": "oshana-na11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.001",
+    "lon": "15.892"
+  },
+  "metadata": {},
+  "source": {}
+}

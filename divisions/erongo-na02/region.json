@@ -1,0 +1,29 @@
+{
+  "id": "NA02",
+  "level": 1,
+  "level_name": {
+    "local": "Region",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Erongo",
+    "en": "Erongo",
+    "slug": "erongo-na02"
+  },
+  "code": {
+    "id": "NA02",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "constituency": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.15",
+    "lon": "15.352"
+  },
+  "metadata": {},
+  "source": {}
+}

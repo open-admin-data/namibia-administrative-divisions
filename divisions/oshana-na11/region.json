@@ -1,0 +1,29 @@
+{
+  "id": "NA11",
+  "level": 1,
+  "level_name": {
+    "local": "Region",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Oshana",
+    "en": "Oshana",
+    "slug": "oshana-na11"
+  },
+  "code": {
+    "id": "NA11",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "constituency": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.503",
+    "lon": "15.746"
+  },
+  "metadata": {},
+  "source": {}
+}

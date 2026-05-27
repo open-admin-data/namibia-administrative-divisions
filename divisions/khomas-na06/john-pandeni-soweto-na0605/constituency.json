@@ -1,0 +1,45 @@
+{
+  "id": "NA0605",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "John Pandeni (Soweto)",
+    "en": "John Pandeni (Soweto)",
+    "slug": "john-pandeni-soweto-na0605"
+  },
+  "code": {
+    "id": "NA0605",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA06",
+    "level": 1,
+    "name": {
+      "local": "Khomas",
+      "en": "Khomas",
+      "slug": "khomas-na06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA06",
+      "level": 1,
+      "name": {
+        "local": "Khomas",
+        "en": "Khomas",
+        "slug": "khomas-na06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.521",
+    "lon": "17.043"
+  },
+  "metadata": {},
+  "source": {}
+}

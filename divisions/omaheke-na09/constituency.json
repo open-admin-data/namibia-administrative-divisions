@@ -1,0 +1,317 @@
+[
+  {
+    "id": "NA0901",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Aminius",
+      "en": "Aminius",
+      "slug": "aminius-na0901"
+    },
+    "code": {
+      "id": "NA0901",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA09",
+      "level": 1,
+      "name": {
+        "local": "Omaheke",
+        "en": "Omaheke",
+        "slug": "omaheke-na09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA09",
+        "level": 1,
+        "name": {
+          "local": "Omaheke",
+          "en": "Omaheke",
+          "slug": "omaheke-na09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.422",
+      "lon": "19.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0907",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Epukiro",
+      "en": "Epukiro",
+      "slug": "epukiro-na0907"
+    },
+    "code": {
+      "id": "NA0907",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA09",
+      "level": 1,
+      "name": {
+        "local": "Omaheke",
+        "en": "Omaheke",
+        "slug": "omaheke-na09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA09",
+        "level": 1,
+        "name": {
+          "local": "Omaheke",
+          "en": "Omaheke",
+          "slug": "omaheke-na09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.959",
+      "lon": "19.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0902",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Gobabis",
+      "en": "Gobabis",
+      "slug": "gobabis-na0902"
+    },
+    "code": {
+      "id": "NA0902",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA09",
+      "level": 1,
+      "name": {
+        "local": "Omaheke",
+        "en": "Omaheke",
+        "slug": "omaheke-na09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA09",
+        "level": 1,
+        "name": {
+          "local": "Omaheke",
+          "en": "Omaheke",
+          "slug": "omaheke-na09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.768",
+      "lon": "18.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0903",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Kalahari",
+      "en": "Kalahari",
+      "slug": "kalahari-na0903"
+    },
+    "code": {
+      "id": "NA0903",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA09",
+      "level": 1,
+      "name": {
+        "local": "Omaheke",
+        "en": "Omaheke",
+        "slug": "omaheke-na09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA09",
+        "level": 1,
+        "name": {
+          "local": "Omaheke",
+          "en": "Omaheke",
+          "slug": "omaheke-na09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.517",
+      "lon": "19.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0906",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Okarukambe (Steinhausen)",
+      "en": "Okarukambe (Steinhausen)",
+      "slug": "okarukambe-steinhausen-na0906"
+    },
+    "code": {
+      "id": "NA0906",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA09",
+      "level": 1,
+      "name": {
+        "local": "Omaheke",
+        "en": "Omaheke",
+        "slug": "omaheke-na09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA09",
+        "level": 1,
+        "name": {
+          "local": "Omaheke",
+          "en": "Omaheke",
+          "slug": "omaheke-na09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.74",
+      "lon": "19.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0904",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Otjinene",
+      "en": "Otjinene",
+      "slug": "otjinene-na0904"
+    },
+    "code": {
+      "id": "NA0904",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA09",
+      "level": 1,
+      "name": {
+        "local": "Omaheke",
+        "en": "Omaheke",
+        "slug": "omaheke-na09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA09",
+        "level": 1,
+        "name": {
+          "local": "Omaheke",
+          "en": "Omaheke",
+          "slug": "omaheke-na09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.849",
+      "lon": "18.928"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0905",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Otjombinde",
+      "en": "Otjombinde",
+      "slug": "otjombinde-na0905"
+    },
+    "code": {
+      "id": "NA0905",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA09",
+      "level": 1,
+      "name": {
+        "local": "Omaheke",
+        "en": "Omaheke",
+        "slug": "omaheke-na09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA09",
+        "level": 1,
+        "name": {
+          "local": "Omaheke",
+          "en": "Omaheke",
+          "slug": "omaheke-na09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.81",
+      "lon": "20.504"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

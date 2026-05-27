@@ -1,0 +1,45 @@
+{
+  "id": "NA1404",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Mpungu",
+    "en": "Mpungu",
+    "slug": "mpungu-na1404"
+  },
+  "code": {
+    "id": "NA1404",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA14",
+    "level": 1,
+    "name": {
+      "local": "Kavango West",
+      "en": "Kavango West",
+      "slug": "kavango-west-na14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA14",
+      "level": 1,
+      "name": {
+        "local": "Kavango West",
+        "en": "Kavango West",
+        "slug": "kavango-west-na14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.238",
+    "lon": "18.244"
+  },
+  "metadata": {},
+  "source": {}
+}

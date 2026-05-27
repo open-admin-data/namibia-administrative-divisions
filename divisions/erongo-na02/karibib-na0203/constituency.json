@@ -1,0 +1,45 @@
+{
+  "id": "NA0203",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Karibib",
+    "en": "Karibib",
+    "slug": "karibib-na0203"
+  },
+  "code": {
+    "id": "NA0203",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA02",
+    "level": 1,
+    "name": {
+      "local": "Erongo",
+      "en": "Erongo",
+      "slug": "erongo-na02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA02",
+      "level": 1,
+      "name": {
+        "local": "Erongo",
+        "en": "Erongo",
+        "slug": "erongo-na02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.418",
+    "lon": "15.773"
+  },
+  "metadata": {},
+  "source": {}
+}

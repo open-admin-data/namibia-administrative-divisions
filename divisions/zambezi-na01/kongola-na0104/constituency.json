@@ -1,0 +1,45 @@
+{
+  "id": "NA0104",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Kongola",
+    "en": "Kongola",
+    "slug": "kongola-na0104"
+  },
+  "code": {
+    "id": "NA0104",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA01",
+    "level": 1,
+    "name": {
+      "local": "Zambezi",
+      "en": "Zambezi",
+      "slug": "zambezi-na01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA01",
+      "level": 1,
+      "name": {
+        "local": "Zambezi",
+        "en": "Zambezi",
+        "slug": "zambezi-na01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.803",
+    "lon": "22.967"
+  },
+  "metadata": {},
+  "source": {}
+}

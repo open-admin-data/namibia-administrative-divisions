@@ -1,0 +1,45 @@
+{
+  "id": "NA1102",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Okatana",
+    "en": "Okatana",
+    "slug": "okatana-na1102"
+  },
+  "code": {
+    "id": "NA1102",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA11",
+    "level": 1,
+    "name": {
+      "local": "Oshana",
+      "en": "Oshana",
+      "slug": "oshana-na11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA11",
+      "level": 1,
+      "name": {
+        "local": "Oshana",
+        "en": "Oshana",
+        "slug": "oshana-na11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.841",
+    "lon": "15.517"
+  },
+  "metadata": {},
+  "source": {}
+}

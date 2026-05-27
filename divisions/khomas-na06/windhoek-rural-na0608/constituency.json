@@ -1,0 +1,45 @@
+{
+  "id": "NA0608",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Windhoek Rural",
+    "en": "Windhoek Rural",
+    "slug": "windhoek-rural-na0608"
+  },
+  "code": {
+    "id": "NA0608",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA06",
+    "level": 1,
+    "name": {
+      "local": "Khomas",
+      "en": "Khomas",
+      "slug": "khomas-na06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA06",
+      "level": 1,
+      "name": {
+        "local": "Khomas",
+        "en": "Khomas",
+        "slug": "khomas-na06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.91",
+    "lon": "17.093"
+  },
+  "metadata": {},
+  "source": {}
+}

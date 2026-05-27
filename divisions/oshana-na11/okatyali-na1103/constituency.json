@@ -1,0 +1,45 @@
+{
+  "id": "NA1103",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Okatyali",
+    "en": "Okatyali",
+    "slug": "okatyali-na1103"
+  },
+  "code": {
+    "id": "NA1103",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA11",
+    "level": 1,
+    "name": {
+      "local": "Oshana",
+      "en": "Oshana",
+      "slug": "oshana-na11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA11",
+      "level": 1,
+      "name": {
+        "local": "Oshana",
+        "en": "Oshana",
+        "slug": "oshana-na11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.202",
+    "lon": "15.964"
+  },
+  "metadata": {},
+  "source": {}
+}

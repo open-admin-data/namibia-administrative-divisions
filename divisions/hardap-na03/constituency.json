@@ -1,0 +1,272 @@
+[
+  {
+    "id": "NA0301",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Gibeon",
+      "en": "Gibeon",
+      "slug": "gibeon-na0301"
+    },
+    "code": {
+      "id": "NA0301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA03",
+      "level": 1,
+      "name": {
+        "local": "Hardap",
+        "en": "Hardap",
+        "slug": "hardap-na03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA03",
+        "level": 1,
+        "name": {
+          "local": "Hardap",
+          "en": "Hardap",
+          "slug": "hardap-na03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.707",
+      "lon": "15.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0302",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Mariental Rural",
+      "en": "Mariental Rural",
+      "slug": "mariental-rural-na0302"
+    },
+    "code": {
+      "id": "NA0302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA03",
+      "level": 1,
+      "name": {
+        "local": "Hardap",
+        "en": "Hardap",
+        "slug": "hardap-na03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA03",
+        "level": 1,
+        "name": {
+          "local": "Hardap",
+          "en": "Hardap",
+          "slug": "hardap-na03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.573",
+      "lon": "18.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0303",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Mariental Urban",
+      "en": "Mariental Urban",
+      "slug": "mariental-urban-na0303"
+    },
+    "code": {
+      "id": "NA0303",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA03",
+      "level": 1,
+      "name": {
+        "local": "Hardap",
+        "en": "Hardap",
+        "slug": "hardap-na03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA03",
+        "level": 1,
+        "name": {
+          "local": "Hardap",
+          "en": "Hardap",
+          "slug": "hardap-na03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.499",
+      "lon": "17.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0304",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Rehoboth Rural",
+      "en": "Rehoboth Rural",
+      "slug": "rehoboth-rural-na0304"
+    },
+    "code": {
+      "id": "NA0304",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA03",
+      "level": 1,
+      "name": {
+        "local": "Hardap",
+        "en": "Hardap",
+        "slug": "hardap-na03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA03",
+        "level": 1,
+        "name": {
+          "local": "Hardap",
+          "en": "Hardap",
+          "slug": "hardap-na03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.787",
+      "lon": "16.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0305",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Rehoboth Urban East",
+      "en": "Rehoboth Urban East",
+      "slug": "rehoboth-urban-east-na0305"
+    },
+    "code": {
+      "id": "NA0305",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA03",
+      "level": 1,
+      "name": {
+        "local": "Hardap",
+        "en": "Hardap",
+        "slug": "hardap-na03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA03",
+        "level": 1,
+        "name": {
+          "local": "Hardap",
+          "en": "Hardap",
+          "slug": "hardap-na03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.307",
+      "lon": "17.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0306",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Rehoboth Urban West",
+      "en": "Rehoboth Urban West",
+      "slug": "rehoboth-urban-west-na0306"
+    },
+    "code": {
+      "id": "NA0306",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA03",
+      "level": 1,
+      "name": {
+        "local": "Hardap",
+        "en": "Hardap",
+        "slug": "hardap-na03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA03",
+        "level": 1,
+        "name": {
+          "local": "Hardap",
+          "en": "Hardap",
+          "slug": "hardap-na03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.307",
+      "lon": "17.036"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

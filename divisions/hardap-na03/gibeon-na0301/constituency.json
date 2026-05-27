@@ -1,0 +1,45 @@
+{
+  "id": "NA0301",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Gibeon",
+    "en": "Gibeon",
+    "slug": "gibeon-na0301"
+  },
+  "code": {
+    "id": "NA0301",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA03",
+    "level": 1,
+    "name": {
+      "local": "Hardap",
+      "en": "Hardap",
+      "slug": "hardap-na03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA03",
+      "level": 1,
+      "name": {
+        "local": "Hardap",
+        "en": "Hardap",
+        "slug": "hardap-na03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-24.707",
+    "lon": "15.998"
+  },
+  "metadata": {},
+  "source": {}
+}

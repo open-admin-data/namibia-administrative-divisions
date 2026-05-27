@@ -1,0 +1,45 @@
+{
+  "id": "NA0102",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Katima Mulilo Rural",
+    "en": "Katima Mulilo Rural",
+    "slug": "katima-mulilo-rural-na0102"
+  },
+  "code": {
+    "id": "NA0102",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA01",
+    "level": 1,
+    "name": {
+      "local": "Zambezi",
+      "en": "Zambezi",
+      "slug": "zambezi-na01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA01",
+      "level": 1,
+      "name": {
+        "local": "Zambezi",
+        "en": "Zambezi",
+        "slug": "zambezi-na01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.768",
+    "lon": "24.46"
+  },
+  "metadata": {},
+  "source": {}
+}

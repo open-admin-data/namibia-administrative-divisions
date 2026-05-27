@@ -1,0 +1,272 @@
+[
+  {
+    "id": "NA0701",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Epupa",
+      "en": "Epupa",
+      "slug": "epupa-na0701"
+    },
+    "code": {
+      "id": "NA0701",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA07",
+      "level": 1,
+      "name": {
+        "local": "Kunene",
+        "en": "Kunene",
+        "slug": "kunene-na07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA07",
+        "level": 1,
+        "name": {
+          "local": "Kunene",
+          "en": "Kunene",
+          "slug": "kunene-na07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.482",
+      "lon": "12.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0702",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Kamanjab",
+      "en": "Kamanjab",
+      "slug": "kamanjab-na0702"
+    },
+    "code": {
+      "id": "NA0702",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA07",
+      "level": 1,
+      "name": {
+        "local": "Kunene",
+        "en": "Kunene",
+        "slug": "kunene-na07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA07",
+        "level": 1,
+        "name": {
+          "local": "Kunene",
+          "en": "Kunene",
+          "slug": "kunene-na07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.876",
+      "lon": "15.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0703",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Khorixas",
+      "en": "Khorixas",
+      "slug": "khorixas-na0703"
+    },
+    "code": {
+      "id": "NA0703",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA07",
+      "level": 1,
+      "name": {
+        "local": "Kunene",
+        "en": "Kunene",
+        "slug": "kunene-na07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA07",
+        "level": 1,
+        "name": {
+          "local": "Kunene",
+          "en": "Kunene",
+          "slug": "kunene-na07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.595",
+      "lon": "14.312"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0704",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Opuwo",
+      "en": "Opuwo",
+      "slug": "opuwo-na0704"
+    },
+    "code": {
+      "id": "NA0704",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA07",
+      "level": 1,
+      "name": {
+        "local": "Kunene",
+        "en": "Kunene",
+        "slug": "kunene-na07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA07",
+        "level": 1,
+        "name": {
+          "local": "Kunene",
+          "en": "Kunene",
+          "slug": "kunene-na07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.5",
+      "lon": "13.171"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0705",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Outjo",
+      "en": "Outjo",
+      "slug": "outjo-na0705"
+    },
+    "code": {
+      "id": "NA0705",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA07",
+      "level": 1,
+      "name": {
+        "local": "Kunene",
+        "en": "Kunene",
+        "slug": "kunene-na07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA07",
+        "level": 1,
+        "name": {
+          "local": "Kunene",
+          "en": "Kunene",
+          "slug": "kunene-na07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.881",
+      "lon": "16.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0706",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Sesfontein",
+      "en": "Sesfontein",
+      "slug": "sesfontein-na0706"
+    },
+    "code": {
+      "id": "NA0706",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA07",
+      "level": 1,
+      "name": {
+        "local": "Kunene",
+        "en": "Kunene",
+        "slug": "kunene-na07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA07",
+        "level": 1,
+        "name": {
+          "local": "Kunene",
+          "en": "Kunene",
+          "slug": "kunene-na07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.5",
+      "lon": "13.622"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

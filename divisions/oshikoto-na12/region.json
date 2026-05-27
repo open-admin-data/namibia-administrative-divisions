@@ -1,0 +1,29 @@
+{
+  "id": "NA12",
+  "level": 1,
+  "level_name": {
+    "local": "Region",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Oshikoto",
+    "en": "Oshikoto",
+    "slug": "oshikoto-na12"
+  },
+  "code": {
+    "id": "NA12",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "constituency": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.612",
+    "lon": "17.008"
+  },
+  "metadata": {},
+  "source": {}
+}

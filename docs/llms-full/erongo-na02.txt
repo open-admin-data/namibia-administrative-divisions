@@ -1,0 +1,44 @@
+# Erongo — Namibia Administrative Divisions
+
+> 7 constituencys
+> Code: NA02
+> Coordinates: -22.15, 15.352
+> Last updated: 2026-05-27. License: CC-BY-4.0.
+
+## Constituencys
+
+### Arandis
+
+Code: NA0201, Coordinates: -22.171, 14.616
+
+
+### Daures
+
+Code: NA0202, Coordinates: -21.363, 14.824
+
+
+### Karibib
+
+Code: NA0203, Coordinates: -22.418, 15.773
+
+
+### Omaruru
+
+Code: NA0204, Coordinates: -21.219, 15.98
+
+
+### Swakopmund
+
+Code: NA0205, Coordinates: -22.63, 14.618
+
+
+### Walvis Bay Rural
+
+Code: NA0206, Coordinates: -23.227, 14.899
+
+
+### Walvis Bay Urban
+
+Code: NA0207, Coordinates: -22.951, 14.517
+
+

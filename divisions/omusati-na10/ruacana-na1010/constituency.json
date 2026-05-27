@@ -1,0 +1,45 @@
+{
+  "id": "NA1010",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Ruacana",
+    "en": "Ruacana",
+    "slug": "ruacana-na1010"
+  },
+  "code": {
+    "id": "NA1010",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA10",
+    "level": 1,
+    "name": {
+      "local": "Omusati",
+      "en": "Omusati",
+      "slug": "omusati-na10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA10",
+      "level": 1,
+      "name": {
+        "local": "Omusati",
+        "en": "Omusati",
+        "slug": "omusati-na10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.197",
+    "lon": "14.427"
+  },
+  "metadata": {},
+  "source": {}
+}

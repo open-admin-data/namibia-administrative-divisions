@@ -1,0 +1,45 @@
+{
+  "id": "NA0101",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Kabbe",
+    "en": "Kabbe",
+    "slug": "kabbe-na0101"
+  },
+  "code": {
+    "id": "NA0101",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA01",
+    "level": 1,
+    "name": {
+      "local": "Zambezi",
+      "en": "Zambezi",
+      "slug": "zambezi-na01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA01",
+      "level": 1,
+      "name": {
+        "local": "Zambezi",
+        "en": "Zambezi",
+        "slug": "zambezi-na01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.676",
+    "lon": "24.825"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "NA0105",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Linyanti",
+    "en": "Linyanti",
+    "slug": "linyanti-na0105"
+  },
+  "code": {
+    "id": "NA0105",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA01",
+    "level": 1,
+    "name": {
+      "local": "Zambezi",
+      "en": "Zambezi",
+      "slug": "zambezi-na01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA01",
+      "level": 1,
+      "name": {
+        "local": "Zambezi",
+        "en": "Zambezi",
+        "slug": "zambezi-na01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.132",
+    "lon": "23.711"
+  },
+  "metadata": {},
+  "source": {}
+}

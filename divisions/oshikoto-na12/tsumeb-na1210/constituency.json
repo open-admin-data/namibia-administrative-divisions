@@ -1,0 +1,45 @@
+{
+  "id": "NA1210",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Tsumeb",
+    "en": "Tsumeb",
+    "slug": "tsumeb-na1210"
+  },
+  "code": {
+    "id": "NA1210",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA12",
+    "level": 1,
+    "name": {
+      "local": "Oshikoto",
+      "en": "Oshikoto",
+      "slug": "oshikoto-na12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA12",
+      "level": 1,
+      "name": {
+        "local": "Oshikoto",
+        "en": "Oshikoto",
+        "slug": "oshikoto-na12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.249",
+    "lon": "17.722"
+  },
+  "metadata": {},
+  "source": {}
+}

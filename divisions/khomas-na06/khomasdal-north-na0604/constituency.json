@@ -1,0 +1,45 @@
+{
+  "id": "NA0604",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Khomasdal North",
+    "en": "Khomasdal North",
+    "slug": "khomasdal-north-na0604"
+  },
+  "code": {
+    "id": "NA0604",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA06",
+    "level": 1,
+    "name": {
+      "local": "Khomas",
+      "en": "Khomas",
+      "slug": "khomas-na06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA06",
+      "level": 1,
+      "name": {
+        "local": "Khomas",
+        "en": "Khomas",
+        "slug": "khomas-na06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.543",
+    "lon": "17.018"
+  },
+  "metadata": {},
+  "source": {}
+}

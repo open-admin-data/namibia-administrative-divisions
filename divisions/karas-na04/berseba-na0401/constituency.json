@@ -1,0 +1,45 @@
+{
+  "id": "NA0401",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Berseba",
+    "en": "Berseba",
+    "slug": "berseba-na0401"
+  },
+  "code": {
+    "id": "NA0401",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA04",
+    "level": 1,
+    "name": {
+      "local": "Karas",
+      "en": "Karas",
+      "slug": "karas-na04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA04",
+      "level": 1,
+      "name": {
+        "local": "Karas",
+        "en": "Karas",
+        "slug": "karas-na04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.715",
+    "lon": "17.199"
+  },
+  "metadata": {},
+  "source": {}
+}

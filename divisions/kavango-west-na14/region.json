@@ -1,0 +1,29 @@
+{
+  "id": "NA14",
+  "level": 1,
+  "level_name": {
+    "local": "Region",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Kavango West",
+    "en": "Kavango West",
+    "slug": "kavango-west-na14"
+  },
+  "code": {
+    "id": "NA14",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "constituency": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.328",
+    "lon": "18.791"
+  },
+  "metadata": {},
+  "source": {}
+}

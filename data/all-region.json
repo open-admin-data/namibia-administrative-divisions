@@ -1,0 +1,408 @@
+[
+  {
+    "id": "NA02",
+    "level": 1,
+    "level_name": {
+      "local": "Region",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Erongo",
+      "en": "Erongo",
+      "slug": "erongo-na02"
+    },
+    "code": {
+      "id": "NA02",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "constituency": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.15",
+      "lon": "15.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA03",
+    "level": 1,
+    "level_name": {
+      "local": "Region",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Hardap",
+      "en": "Hardap",
+      "slug": "hardap-na03"
+    },
+    "code": {
+      "id": "NA03",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "constituency": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.52",
+      "lon": "17.303"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA04",
+    "level": 1,
+    "level_name": {
+      "local": "Region",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Karas",
+      "en": "Karas",
+      "slug": "karas-na04"
+    },
+    "code": {
+      "id": "NA04",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "constituency": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-26.985",
+      "lon": "17.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA05",
+    "level": 1,
+    "level_name": {
+      "local": "Region",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Kavango East",
+      "en": "Kavango East",
+      "slug": "kavango-east-na05"
+    },
+    "code": {
+      "id": "NA05",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "constituency": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.475",
+      "lon": "20.331"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA14",
+    "level": 1,
+    "level_name": {
+      "local": "Region",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Kavango West",
+      "en": "Kavango West",
+      "slug": "kavango-west-na14"
+    },
+    "code": {
+      "id": "NA14",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "constituency": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.328",
+      "lon": "18.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA06",
+    "level": 1,
+    "level_name": {
+      "local": "Region",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Khomas",
+      "en": "Khomas",
+      "slug": "khomas-na06"
+    },
+    "code": {
+      "id": "NA06",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "constituency": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.91",
+      "lon": "17.093"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA07",
+    "level": 1,
+    "level_name": {
+      "local": "Region",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Kunene",
+      "en": "Kunene",
+      "slug": "kunene-na07"
+    },
+    "code": {
+      "id": "NA07",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "constituency": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.077",
+      "lon": "13.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA08",
+    "level": 1,
+    "level_name": {
+      "local": "Region",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Ohangwena",
+      "en": "Ohangwena",
+      "slug": "ohangwena-na08"
+    },
+    "code": {
+      "id": "NA08",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "constituency": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.661",
+      "lon": "16.823"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA09",
+    "level": 1,
+    "level_name": {
+      "local": "Region",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Omaheke",
+      "en": "Omaheke",
+      "slug": "omaheke-na09"
+    },
+    "code": {
+      "id": "NA09",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "constituency": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.056",
+      "lon": "19.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA10",
+    "level": 1,
+    "level_name": {
+      "local": "Region",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Omusati",
+      "en": "Omusati",
+      "slug": "omusati-na10"
+    },
+    "code": {
+      "id": "NA10",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "constituency": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.403",
+      "lon": "14.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA11",
+    "level": 1,
+    "level_name": {
+      "local": "Region",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Oshana",
+      "en": "Oshana",
+      "slug": "oshana-na11"
+    },
+    "code": {
+      "id": "NA11",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "constituency": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.503",
+      "lon": "15.746"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA12",
+    "level": 1,
+    "level_name": {
+      "local": "Region",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Oshikoto",
+      "en": "Oshikoto",
+      "slug": "oshikoto-na12"
+    },
+    "code": {
+      "id": "NA12",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "constituency": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.612",
+      "lon": "17.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA13",
+    "level": 1,
+    "level_name": {
+      "local": "Region",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Otjozondjupa",
+      "en": "Otjozondjupa",
+      "slug": "otjozondjupa-na13"
+    },
+    "code": {
+      "id": "NA13",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "constituency": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.566",
+      "lon": "17.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA01",
+    "level": 1,
+    "level_name": {
+      "local": "Region",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Zambezi",
+      "en": "Zambezi",
+      "slug": "zambezi-na01"
+    },
+    "code": {
+      "id": "NA01",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "constituency": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.985",
+      "lon": "23.419"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

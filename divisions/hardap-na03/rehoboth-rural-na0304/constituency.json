@@ -1,0 +1,45 @@
+{
+  "id": "NA0304",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Rehoboth Rural",
+    "en": "Rehoboth Rural",
+    "slug": "rehoboth-rural-na0304"
+  },
+  "code": {
+    "id": "NA0304",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA03",
+    "level": 1,
+    "name": {
+      "local": "Hardap",
+      "en": "Hardap",
+      "slug": "hardap-na03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA03",
+      "level": 1,
+      "name": {
+        "local": "Hardap",
+        "en": "Hardap",
+        "slug": "hardap-na03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.787",
+    "lon": "16.899"
+  },
+  "metadata": {},
+  "source": {}
+}

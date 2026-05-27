@@ -1,0 +1,45 @@
+{
+  "id": "NA1110",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Uuvudhiya",
+    "en": "Uuvudhiya",
+    "slug": "uuvudhiya-na1110"
+  },
+  "code": {
+    "id": "NA1110",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA11",
+    "level": 1,
+    "name": {
+      "local": "Oshana",
+      "en": "Oshana",
+      "slug": "oshana-na11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA11",
+      "level": 1,
+      "name": {
+        "local": "Oshana",
+        "en": "Oshana",
+        "slug": "oshana-na11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.63",
+    "lon": "15.79"
+  },
+  "metadata": {},
+  "source": {}
+}

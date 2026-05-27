@@ -1,0 +1,45 @@
+{
+  "id": "NA0705",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Outjo",
+    "en": "Outjo",
+    "slug": "outjo-na0705"
+  },
+  "code": {
+    "id": "NA0705",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA07",
+    "level": 1,
+    "name": {
+      "local": "Kunene",
+      "en": "Kunene",
+      "slug": "kunene-na07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA07",
+      "level": 1,
+      "name": {
+        "local": "Kunene",
+        "en": "Kunene",
+        "slug": "kunene-na07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.881",
+    "lon": "16.337"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "NA0306",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Rehoboth Urban West",
+    "en": "Rehoboth Urban West",
+    "slug": "rehoboth-urban-west-na0306"
+  },
+  "code": {
+    "id": "NA0306",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA03",
+    "level": 1,
+    "name": {
+      "local": "Hardap",
+      "en": "Hardap",
+      "slug": "hardap-na03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA03",
+      "level": 1,
+      "name": {
+        "local": "Hardap",
+        "en": "Hardap",
+        "slug": "hardap-na03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.307",
+    "lon": "17.036"
+  },
+  "metadata": {},
+  "source": {}
+}

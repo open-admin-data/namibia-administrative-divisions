@@ -1,0 +1,272 @@
+[
+  {
+    "id": "NA0503",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Mashare",
+      "en": "Mashare",
+      "slug": "mashare-na0503"
+    },
+    "code": {
+      "id": "NA0503",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA05",
+      "level": 1,
+      "name": {
+        "local": "Kavango East",
+        "en": "Kavango East",
+        "slug": "kavango-east-na05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA05",
+        "level": 1,
+        "name": {
+          "local": "Kavango East",
+          "en": "Kavango East",
+          "slug": "kavango-east-na05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.515",
+      "lon": "20.075"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0505",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Mukwe",
+      "en": "Mukwe",
+      "slug": "mukwe-na0505"
+    },
+    "code": {
+      "id": "NA0505",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA05",
+      "level": 1,
+      "name": {
+        "local": "Kavango East",
+        "en": "Kavango East",
+        "slug": "kavango-east-na05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA05",
+        "level": 1,
+        "name": {
+          "local": "Kavango East",
+          "en": "Kavango East",
+          "slug": "kavango-east-na05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.072",
+      "lon": "21.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0506",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Ndiyona",
+      "en": "Ndiyona",
+      "slug": "ndiyona-na0506"
+    },
+    "code": {
+      "id": "NA0506",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA05",
+      "level": 1,
+      "name": {
+        "local": "Kavango East",
+        "en": "Kavango East",
+        "slug": "kavango-east-na05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA05",
+        "level": 1,
+        "name": {
+          "local": "Kavango East",
+          "en": "Kavango East",
+          "slug": "kavango-east-na05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.775",
+      "lon": "20.708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0509",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Rundu Rural East",
+      "en": "Rundu Rural East",
+      "slug": "rundu-rural-east-na0509"
+    },
+    "code": {
+      "id": "NA0509",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA05",
+      "level": 1,
+      "name": {
+        "local": "Kavango East",
+        "en": "Kavango East",
+        "slug": "kavango-east-na05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA05",
+        "level": 1,
+        "name": {
+          "local": "Kavango East",
+          "en": "Kavango East",
+          "slug": "kavango-east-na05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.041",
+      "lon": "19.929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0507",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Rundu Rural West",
+      "en": "Rundu Rural West",
+      "slug": "rundu-rural-west-na0507"
+    },
+    "code": {
+      "id": "NA0507",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA05",
+      "level": 1,
+      "name": {
+        "local": "Kavango East",
+        "en": "Kavango East",
+        "slug": "kavango-east-na05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA05",
+        "level": 1,
+        "name": {
+          "local": "Kavango East",
+          "en": "Kavango East",
+          "slug": "kavango-east-na05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.283",
+      "lon": "19.778"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0508",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Rundu Urban",
+      "en": "Rundu Urban",
+      "slug": "rundu-urban-na0508"
+    },
+    "code": {
+      "id": "NA0508",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA05",
+      "level": 1,
+      "name": {
+        "local": "Kavango East",
+        "en": "Kavango East",
+        "slug": "kavango-east-na05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA05",
+        "level": 1,
+        "name": {
+          "local": "Kavango East",
+          "en": "Kavango East",
+          "slug": "kavango-east-na05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.9",
+      "lon": "19.783"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

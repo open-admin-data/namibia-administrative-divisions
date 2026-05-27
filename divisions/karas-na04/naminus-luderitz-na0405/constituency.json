@@ -1,0 +1,45 @@
+{
+  "id": "NA0405",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Naminus (Luderitz)",
+    "en": "Naminus (Luderitz)",
+    "slug": "naminus-luderitz-na0405"
+  },
+  "code": {
+    "id": "NA0405",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA04",
+    "level": 1,
+    "name": {
+      "local": "Karas",
+      "en": "Karas",
+      "slug": "karas-na04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA04",
+      "level": 1,
+      "name": {
+        "local": "Karas",
+        "en": "Karas",
+        "slug": "karas-na04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.736",
+    "lon": "15.879"
+  },
+  "metadata": {},
+  "source": {}
+}

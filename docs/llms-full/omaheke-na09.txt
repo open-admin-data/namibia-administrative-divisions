@@ -1,0 +1,44 @@
+# Omaheke — Namibia Administrative Divisions
+
+> 7 constituencys
+> Code: NA09
+> Coordinates: -22.056, 19.023
+> Last updated: 2026-05-27. License: CC-BY-4.0.
+
+## Constituencys
+
+### Aminius
+
+Code: NA0901, Coordinates: -23.422, 19.234
+
+
+### Epukiro
+
+Code: NA0907, Coordinates: -20.959, 19.648
+
+
+### Gobabis
+
+Code: NA0902, Coordinates: -22.768, 18.624
+
+
+### Kalahari
+
+Code: NA0903, Coordinates: -22.517, 19.528
+
+
+### Okarukambe (Steinhausen)
+
+Code: NA0906, Coordinates: -21.74, 19.066
+
+
+### Otjinene
+
+Code: NA0904, Coordinates: -20.849, 18.928
+
+
+### Otjombinde
+
+Code: NA0905, Coordinates: -20.81, 20.504
+
+

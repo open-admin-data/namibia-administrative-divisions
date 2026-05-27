@@ -1,0 +1,59 @@
+# Khomas — Namibia Administrative Divisions
+
+> 10 constituencys
+> Code: NA06
+> Coordinates: -22.91, 17.093
+> Last updated: 2026-05-27. License: CC-BY-4.0.
+
+## Constituencys
+
+### John Pandeni (Soweto)
+
+Code: NA0605, Coordinates: -22.521, 17.043
+
+
+### Katutura Central
+
+Code: NA0602, Coordinates: -22.523, 17.052
+
+
+### Katutura East
+
+Code: NA0603, Coordinates: -22.522, 17.063
+
+
+### Khomasdal North
+
+Code: NA0604, Coordinates: -22.543, 17.018
+
+
+### Moses Garoeb
+
+Code: NA0610, Coordinates: -22.472, 17.041
+
+
+### Samora Machel (Wanaheda)
+
+Code: NA0606, Coordinates: -22.511, 17.007
+
+
+### Tobias Hainyeko
+
+Code: NA0601, Coordinates: -22.491, 17.064
+
+
+### Windhoek East
+
+Code: NA0607, Coordinates: -22.627, 17.161
+
+
+### Windhoek Rural
+
+Code: NA0608, Coordinates: -22.91, 17.093
+
+
+### Windhoek West
+
+Code: NA0609, Coordinates: -22.611, 16.985
+
+

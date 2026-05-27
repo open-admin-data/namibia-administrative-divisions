@@ -1,0 +1,45 @@
+{
+  "id": "NA0205",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Swakopmund",
+    "en": "Swakopmund",
+    "slug": "swakopmund-na0205"
+  },
+  "code": {
+    "id": "NA0205",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA02",
+    "level": 1,
+    "name": {
+      "local": "Erongo",
+      "en": "Erongo",
+      "slug": "erongo-na02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA02",
+      "level": 1,
+      "name": {
+        "local": "Erongo",
+        "en": "Erongo",
+        "slug": "erongo-na02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.63",
+    "lon": "14.618"
+  },
+  "metadata": {},
+  "source": {}
+}

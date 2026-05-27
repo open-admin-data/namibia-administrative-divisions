@@ -1,0 +1,317 @@
+[
+  {
+    "id": "NA1301",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Grootfontein",
+      "en": "Grootfontein",
+      "slug": "grootfontein-na1301"
+    },
+    "code": {
+      "id": "NA1301",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA13",
+      "level": 1,
+      "name": {
+        "local": "Otjozondjupa",
+        "en": "Otjozondjupa",
+        "slug": "otjozondjupa-na13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA13",
+        "level": 1,
+        "name": {
+          "local": "Otjozondjupa",
+          "en": "Otjozondjupa",
+          "slug": "otjozondjupa-na13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.385",
+      "lon": "18.454"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1302",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Okahandja",
+      "en": "Okahandja",
+      "slug": "okahandja-na1302"
+    },
+    "code": {
+      "id": "NA1302",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA13",
+      "level": 1,
+      "name": {
+        "local": "Otjozondjupa",
+        "en": "Otjozondjupa",
+        "slug": "otjozondjupa-na13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA13",
+        "level": 1,
+        "name": {
+          "local": "Otjozondjupa",
+          "en": "Otjozondjupa",
+          "slug": "otjozondjupa-na13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.77",
+      "lon": "16.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1303",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Okakarara",
+      "en": "Okakarara",
+      "slug": "okakarara-na1303"
+    },
+    "code": {
+      "id": "NA1303",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA13",
+      "level": 1,
+      "name": {
+        "local": "Otjozondjupa",
+        "en": "Otjozondjupa",
+        "slug": "otjozondjupa-na13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA13",
+        "level": 1,
+        "name": {
+          "local": "Otjozondjupa",
+          "en": "Otjozondjupa",
+          "slug": "otjozondjupa-na13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.28",
+      "lon": "18.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1304",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Omatako",
+      "en": "Omatako",
+      "slug": "omatako-na1304"
+    },
+    "code": {
+      "id": "NA1304",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA13",
+      "level": 1,
+      "name": {
+        "local": "Otjozondjupa",
+        "en": "Otjozondjupa",
+        "slug": "otjozondjupa-na13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA13",
+        "level": 1,
+        "name": {
+          "local": "Otjozondjupa",
+          "en": "Otjozondjupa",
+          "slug": "otjozondjupa-na13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.266",
+      "lon": "17.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1305",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Otavi",
+      "en": "Otavi",
+      "slug": "otavi-na1305"
+    },
+    "code": {
+      "id": "NA1305",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA13",
+      "level": 1,
+      "name": {
+        "local": "Otjozondjupa",
+        "en": "Otjozondjupa",
+        "slug": "otjozondjupa-na13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA13",
+        "level": 1,
+        "name": {
+          "local": "Otjozondjupa",
+          "en": "Otjozondjupa",
+          "slug": "otjozondjupa-na13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.848",
+      "lon": "17.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1306",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Otjiwarongo",
+      "en": "Otjiwarongo",
+      "slug": "otjiwarongo-na1306"
+    },
+    "code": {
+      "id": "NA1306",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA13",
+      "level": 1,
+      "name": {
+        "local": "Otjozondjupa",
+        "en": "Otjozondjupa",
+        "slug": "otjozondjupa-na13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA13",
+        "level": 1,
+        "name": {
+          "local": "Otjozondjupa",
+          "en": "Otjozondjupa",
+          "slug": "otjozondjupa-na13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.495",
+      "lon": "16.245"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1307",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Tsumkwe",
+      "en": "Tsumkwe",
+      "slug": "tsumkwe-na1307"
+    },
+    "code": {
+      "id": "NA1307",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA13",
+      "level": 1,
+      "name": {
+        "local": "Otjozondjupa",
+        "en": "Otjozondjupa",
+        "slug": "otjozondjupa-na13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA13",
+        "level": 1,
+        "name": {
+          "local": "Otjozondjupa",
+          "en": "Otjozondjupa",
+          "slug": "otjozondjupa-na13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.622",
+      "lon": "19.887"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

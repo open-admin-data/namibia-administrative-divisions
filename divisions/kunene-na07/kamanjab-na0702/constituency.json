@@ -1,0 +1,45 @@
+{
+  "id": "NA0702",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Kamanjab",
+    "en": "Kamanjab",
+    "slug": "kamanjab-na0702"
+  },
+  "code": {
+    "id": "NA0702",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA07",
+    "level": 1,
+    "name": {
+      "local": "Kunene",
+      "en": "Kunene",
+      "slug": "kunene-na07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA07",
+      "level": 1,
+      "name": {
+        "local": "Kunene",
+        "en": "Kunene",
+        "slug": "kunene-na07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.876",
+    "lon": "15.339"
+  },
+  "metadata": {},
+  "source": {}
+}

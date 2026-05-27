@@ -1,0 +1,272 @@
+[
+  {
+    "id": "NA0101",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Kabbe",
+      "en": "Kabbe",
+      "slug": "kabbe-na0101"
+    },
+    "code": {
+      "id": "NA0101",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA01",
+      "level": 1,
+      "name": {
+        "local": "Zambezi",
+        "en": "Zambezi",
+        "slug": "zambezi-na01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA01",
+        "level": 1,
+        "name": {
+          "local": "Zambezi",
+          "en": "Zambezi",
+          "slug": "zambezi-na01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.676",
+      "lon": "24.825"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0102",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Katima Mulilo Rural",
+      "en": "Katima Mulilo Rural",
+      "slug": "katima-mulilo-rural-na0102"
+    },
+    "code": {
+      "id": "NA0102",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA01",
+      "level": 1,
+      "name": {
+        "local": "Zambezi",
+        "en": "Zambezi",
+        "slug": "zambezi-na01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA01",
+        "level": 1,
+        "name": {
+          "local": "Zambezi",
+          "en": "Zambezi",
+          "slug": "zambezi-na01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.768",
+      "lon": "24.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0103",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Katima Mulilo Urban",
+      "en": "Katima Mulilo Urban",
+      "slug": "katima-mulilo-urban-na0103"
+    },
+    "code": {
+      "id": "NA0103",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA01",
+      "level": 1,
+      "name": {
+        "local": "Zambezi",
+        "en": "Zambezi",
+        "slug": "zambezi-na01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA01",
+        "level": 1,
+        "name": {
+          "local": "Zambezi",
+          "en": "Zambezi",
+          "slug": "zambezi-na01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.512",
+      "lon": "24.273"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0104",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Kongola",
+      "en": "Kongola",
+      "slug": "kongola-na0104"
+    },
+    "code": {
+      "id": "NA0104",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA01",
+      "level": 1,
+      "name": {
+        "local": "Zambezi",
+        "en": "Zambezi",
+        "slug": "zambezi-na01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA01",
+        "level": 1,
+        "name": {
+          "local": "Zambezi",
+          "en": "Zambezi",
+          "slug": "zambezi-na01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.803",
+      "lon": "22.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0105",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Linyanti",
+      "en": "Linyanti",
+      "slug": "linyanti-na0105"
+    },
+    "code": {
+      "id": "NA0105",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA01",
+      "level": 1,
+      "name": {
+        "local": "Zambezi",
+        "en": "Zambezi",
+        "slug": "zambezi-na01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA01",
+        "level": 1,
+        "name": {
+          "local": "Zambezi",
+          "en": "Zambezi",
+          "slug": "zambezi-na01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.132",
+      "lon": "23.711"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0106",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Sibbinda",
+      "en": "Sibbinda",
+      "slug": "sibbinda-na0106"
+    },
+    "code": {
+      "id": "NA0106",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA01",
+      "level": 1,
+      "name": {
+        "local": "Zambezi",
+        "en": "Zambezi",
+        "slug": "zambezi-na01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA01",
+        "level": 1,
+        "name": {
+          "local": "Zambezi",
+          "en": "Zambezi",
+          "slug": "zambezi-na01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.855",
+      "lon": "24.096"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

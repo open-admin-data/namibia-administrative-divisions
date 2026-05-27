@@ -1,0 +1,45 @@
+{
+  "id": "NA1204",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Olukonda",
+    "en": "Olukonda",
+    "slug": "olukonda-na1204"
+  },
+  "code": {
+    "id": "NA1204",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA12",
+    "level": 1,
+    "name": {
+      "local": "Oshikoto",
+      "en": "Oshikoto",
+      "slug": "oshikoto-na12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA12",
+      "level": 1,
+      "name": {
+        "local": "Oshikoto",
+        "en": "Oshikoto",
+        "slug": "oshikoto-na12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.045",
+    "lon": "16.078"
+  },
+  "metadata": {},
+  "source": {}
+}

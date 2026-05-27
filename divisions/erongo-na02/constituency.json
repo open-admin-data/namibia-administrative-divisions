@@ -1,0 +1,317 @@
+[
+  {
+    "id": "NA0201",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Arandis",
+      "en": "Arandis",
+      "slug": "arandis-na0201"
+    },
+    "code": {
+      "id": "NA0201",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA02",
+      "level": 1,
+      "name": {
+        "local": "Erongo",
+        "en": "Erongo",
+        "slug": "erongo-na02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA02",
+        "level": 1,
+        "name": {
+          "local": "Erongo",
+          "en": "Erongo",
+          "slug": "erongo-na02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.171",
+      "lon": "14.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0202",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Daures",
+      "en": "Daures",
+      "slug": "daures-na0202"
+    },
+    "code": {
+      "id": "NA0202",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA02",
+      "level": 1,
+      "name": {
+        "local": "Erongo",
+        "en": "Erongo",
+        "slug": "erongo-na02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA02",
+        "level": 1,
+        "name": {
+          "local": "Erongo",
+          "en": "Erongo",
+          "slug": "erongo-na02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.363",
+      "lon": "14.824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0203",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Karibib",
+      "en": "Karibib",
+      "slug": "karibib-na0203"
+    },
+    "code": {
+      "id": "NA0203",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA02",
+      "level": 1,
+      "name": {
+        "local": "Erongo",
+        "en": "Erongo",
+        "slug": "erongo-na02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA02",
+        "level": 1,
+        "name": {
+          "local": "Erongo",
+          "en": "Erongo",
+          "slug": "erongo-na02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.418",
+      "lon": "15.773"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0204",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Omaruru",
+      "en": "Omaruru",
+      "slug": "omaruru-na0204"
+    },
+    "code": {
+      "id": "NA0204",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA02",
+      "level": 1,
+      "name": {
+        "local": "Erongo",
+        "en": "Erongo",
+        "slug": "erongo-na02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA02",
+        "level": 1,
+        "name": {
+          "local": "Erongo",
+          "en": "Erongo",
+          "slug": "erongo-na02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.219",
+      "lon": "15.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0205",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Swakopmund",
+      "en": "Swakopmund",
+      "slug": "swakopmund-na0205"
+    },
+    "code": {
+      "id": "NA0205",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA02",
+      "level": 1,
+      "name": {
+        "local": "Erongo",
+        "en": "Erongo",
+        "slug": "erongo-na02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA02",
+        "level": 1,
+        "name": {
+          "local": "Erongo",
+          "en": "Erongo",
+          "slug": "erongo-na02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.63",
+      "lon": "14.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0206",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Walvis Bay Rural",
+      "en": "Walvis Bay Rural",
+      "slug": "walvis-bay-rural-na0206"
+    },
+    "code": {
+      "id": "NA0206",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA02",
+      "level": 1,
+      "name": {
+        "local": "Erongo",
+        "en": "Erongo",
+        "slug": "erongo-na02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA02",
+        "level": 1,
+        "name": {
+          "local": "Erongo",
+          "en": "Erongo",
+          "slug": "erongo-na02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.227",
+      "lon": "14.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0207",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Walvis Bay Urban",
+      "en": "Walvis Bay Urban",
+      "slug": "walvis-bay-urban-na0207"
+    },
+    "code": {
+      "id": "NA0207",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA02",
+      "level": 1,
+      "name": {
+        "local": "Erongo",
+        "en": "Erongo",
+        "slug": "erongo-na02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA02",
+        "level": 1,
+        "name": {
+          "local": "Erongo",
+          "en": "Erongo",
+          "slug": "erongo-na02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.951",
+      "lon": "14.517"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

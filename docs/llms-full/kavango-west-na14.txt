@@ -1,0 +1,24 @@
+# Kavango West — Namibia Administrative Divisions
+
+> 3 constituencys
+> Code: NA14
+> Coordinates: -18.328, 18.791
+> Last updated: 2026-05-27. License: CC-BY-4.0.
+
+## Constituencys
+
+### Kahenge
+
+Code: NA1401, Coordinates: -18.382, 18.856
+
+
+### Kapako
+
+Code: NA1402, Coordinates: -18.372, 19.419
+
+
+### Mpungu
+
+Code: NA1404, Coordinates: -18.238, 18.244
+
+

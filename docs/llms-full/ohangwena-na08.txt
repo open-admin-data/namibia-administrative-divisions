@@ -1,0 +1,64 @@
+# Ohangwena — Namibia Administrative Divisions
+
+> 11 constituencys
+> Code: NA08
+> Coordinates: -17.661, 16.823
+> Last updated: 2026-05-27. License: CC-BY-4.0.
+
+## Constituencys
+
+### Eenhana
+
+Code: NA0801, Coordinates: -17.682, 16.339
+
+
+### Endola
+
+Code: NA0802, Coordinates: -17.623, 15.816
+
+
+### Engela
+
+Code: NA0803, Coordinates: -17.534, 15.715
+
+
+### Epembe
+
+Code: NA0804, Coordinates: -17.686, 16.701
+
+
+### Ohangwena
+
+Code: NA0805, Coordinates: -17.507, 15.885
+
+
+### Okongo
+
+Code: NA0806, Coordinates: -17.578, 17.468
+
+
+### Omulonga
+
+Code: NA0811, Coordinates: -17.659, 16.083
+
+
+### Omundaungilo
+
+Code: NA0807, Coordinates: -17.483, 16.505
+
+
+### Ondobe
+
+Code: NA0808, Coordinates: -17.492, 16.185
+
+
+### Ongenga
+
+Code: NA0809, Coordinates: -17.474, 15.651
+
+
+### Oshikango
+
+Code: NA0810, Coordinates: -17.484, 15.998
+
+

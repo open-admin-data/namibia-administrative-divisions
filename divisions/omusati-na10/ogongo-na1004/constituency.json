@@ -1,0 +1,45 @@
+{
+  "id": "NA1004",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Ogongo",
+    "en": "Ogongo",
+    "slug": "ogongo-na1004"
+  },
+  "code": {
+    "id": "NA1004",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA10",
+    "level": 1,
+    "name": {
+      "local": "Omusati",
+      "en": "Omusati",
+      "slug": "omusati-na10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA10",
+      "level": 1,
+      "name": {
+        "local": "Omusati",
+        "en": "Omusati",
+        "slug": "omusati-na10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.709",
+    "lon": "15.188"
+  },
+  "metadata": {},
+  "source": {}
+}

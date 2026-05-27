@@ -1,0 +1,45 @@
+{
+  "id": "NA1203",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Okankolo",
+    "en": "Okankolo",
+    "slug": "okankolo-na1203"
+  },
+  "code": {
+    "id": "NA1203",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA12",
+    "level": 1,
+    "name": {
+      "local": "Oshikoto",
+      "en": "Oshikoto",
+      "slug": "oshikoto-na12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA12",
+      "level": 1,
+      "name": {
+        "local": "Oshikoto",
+        "en": "Oshikoto",
+        "slug": "oshikoto-na12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.946",
+    "lon": "16.732"
+  },
+  "metadata": {},
+  "source": {}
+}

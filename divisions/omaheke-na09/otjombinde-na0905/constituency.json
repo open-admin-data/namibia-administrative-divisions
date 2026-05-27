@@ -1,0 +1,45 @@
+{
+  "id": "NA0905",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Otjombinde",
+    "en": "Otjombinde",
+    "slug": "otjombinde-na0905"
+  },
+  "code": {
+    "id": "NA0905",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA09",
+    "level": 1,
+    "name": {
+      "local": "Omaheke",
+      "en": "Omaheke",
+      "slug": "omaheke-na09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA09",
+      "level": 1,
+      "name": {
+        "local": "Omaheke",
+        "en": "Omaheke",
+        "slug": "omaheke-na09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.81",
+    "lon": "20.504"
+  },
+  "metadata": {},
+  "source": {}
+}

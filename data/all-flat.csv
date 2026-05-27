@@ -1,0 +1,15 @@
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.region,children_count.constituency,zip_codes,geo.lat,geo.lon
+NA01,1,Region,Region,Zambezi,Zambezi,zambezi-na01,NA01,,,,,,6,,-17.985,23.419
+NA02,1,Region,Region,Erongo,Erongo,erongo-na02,NA02,,,,,,7,,-22.15,15.352
+NA03,1,Region,Region,Hardap,Hardap,hardap-na03,NA03,,,,,,6,,-24.52,17.303
+NA04,1,Region,Region,Karas,Karas,karas-na04,NA04,,,,,,6,,-26.985,17.618
+NA05,1,Region,Region,Kavango East,Kavango East,kavango-east-na05,NA05,,,,,,6,,-18.475,20.331
+NA06,1,Region,Region,Khomas,Khomas,khomas-na06,NA06,,,,,,10,,-22.91,17.093
+NA07,1,Region,Region,Kunene,Kunene,kunene-na07,NA07,,,,,,6,,-19.077,13.459
+NA08,1,Region,Region,Ohangwena,Ohangwena,ohangwena-na08,NA08,,,,,,11,,-17.661,16.823
+NA09,1,Region,Region,Omaheke,Omaheke,omaheke-na09,NA09,,,,,,7,,-22.056,19.023
+NA10,1,Region,Region,Omusati,Omusati,omusati-na10,NA10,,,,,,12,,-18.403,14.921
+NA11,1,Region,Region,Oshana,Oshana,oshana-na11,NA11,,,,,,10,,-18.503,15.746
+NA12,1,Region,Region,Oshikoto,Oshikoto,oshikoto-na12,NA12,,,,,,10,,-18.612,17.008
+NA13,1,Region,Region,Otjozondjupa,Otjozondjupa,otjozondjupa-na13,NA13,,,,,,7,,-20.566,17.177
+NA14,1,Region,Region,Kavango West,Kavango West,kavango-west-na14,NA14,,,,,,3,,-18.328,18.791

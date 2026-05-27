@@ -1,0 +1,45 @@
+{
+  "id": "NA0403",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Keetmanshoop Rural",
+    "en": "Keetmanshoop Rural",
+    "slug": "keetmanshoop-rural-na0403"
+  },
+  "code": {
+    "id": "NA0403",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA04",
+    "level": 1,
+    "name": {
+      "local": "Karas",
+      "en": "Karas",
+      "slug": "karas-na04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA04",
+      "level": 1,
+      "name": {
+        "local": "Karas",
+        "en": "Karas",
+        "slug": "karas-na04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-26.567",
+    "lon": "19.106"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,39 @@
+# Karas — Namibia Administrative Divisions
+
+> 6 constituencys
+> Code: NA04
+> Coordinates: -26.985, 17.618
+> Last updated: 2026-05-27. License: CC-BY-4.0.
+
+## Constituencys
+
+### Berseba
+
+Code: NA0401, Coordinates: -26.715, 17.199
+
+
+### Karasburg
+
+Code: NA0402, Coordinates: -28.053, 18.698
+
+
+### Keetmanshoop Rural
+
+Code: NA0403, Coordinates: -26.567, 19.106
+
+
+### Keetmanshoop Urban
+
+Code: NA0404, Coordinates: -26.508, 18.092
+
+
+### Naminus (Luderitz)
+
+Code: NA0405, Coordinates: -26.736, 15.879
+
+
+### Oranjemund
+
+Code: NA0406, Coordinates: -28.09, 16.738
+
+

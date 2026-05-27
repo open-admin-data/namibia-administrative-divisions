@@ -1,0 +1,45 @@
+{
+  "id": "NA0204",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Omaruru",
+    "en": "Omaruru",
+    "slug": "omaruru-na0204"
+  },
+  "code": {
+    "id": "NA0204",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA02",
+    "level": 1,
+    "name": {
+      "local": "Erongo",
+      "en": "Erongo",
+      "slug": "erongo-na02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA02",
+      "level": 1,
+      "name": {
+        "local": "Erongo",
+        "en": "Erongo",
+        "slug": "erongo-na02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.219",
+    "lon": "15.98"
+  },
+  "metadata": {},
+  "source": {}
+}

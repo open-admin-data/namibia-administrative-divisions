@@ -1,0 +1,452 @@
+[
+  {
+    "id": "NA0605",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "John Pandeni (Soweto)",
+      "en": "John Pandeni (Soweto)",
+      "slug": "john-pandeni-soweto-na0605"
+    },
+    "code": {
+      "id": "NA0605",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA06",
+      "level": 1,
+      "name": {
+        "local": "Khomas",
+        "en": "Khomas",
+        "slug": "khomas-na06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA06",
+        "level": 1,
+        "name": {
+          "local": "Khomas",
+          "en": "Khomas",
+          "slug": "khomas-na06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.521",
+      "lon": "17.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0602",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Katutura Central",
+      "en": "Katutura Central",
+      "slug": "katutura-central-na0602"
+    },
+    "code": {
+      "id": "NA0602",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA06",
+      "level": 1,
+      "name": {
+        "local": "Khomas",
+        "en": "Khomas",
+        "slug": "khomas-na06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA06",
+        "level": 1,
+        "name": {
+          "local": "Khomas",
+          "en": "Khomas",
+          "slug": "khomas-na06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.523",
+      "lon": "17.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0603",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Katutura East",
+      "en": "Katutura East",
+      "slug": "katutura-east-na0603"
+    },
+    "code": {
+      "id": "NA0603",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA06",
+      "level": 1,
+      "name": {
+        "local": "Khomas",
+        "en": "Khomas",
+        "slug": "khomas-na06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA06",
+        "level": 1,
+        "name": {
+          "local": "Khomas",
+          "en": "Khomas",
+          "slug": "khomas-na06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.522",
+      "lon": "17.063"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0604",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Khomasdal North",
+      "en": "Khomasdal North",
+      "slug": "khomasdal-north-na0604"
+    },
+    "code": {
+      "id": "NA0604",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA06",
+      "level": 1,
+      "name": {
+        "local": "Khomas",
+        "en": "Khomas",
+        "slug": "khomas-na06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA06",
+        "level": 1,
+        "name": {
+          "local": "Khomas",
+          "en": "Khomas",
+          "slug": "khomas-na06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.543",
+      "lon": "17.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0610",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Moses Garoeb",
+      "en": "Moses Garoeb",
+      "slug": "moses-garoeb-na0610"
+    },
+    "code": {
+      "id": "NA0610",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA06",
+      "level": 1,
+      "name": {
+        "local": "Khomas",
+        "en": "Khomas",
+        "slug": "khomas-na06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA06",
+        "level": 1,
+        "name": {
+          "local": "Khomas",
+          "en": "Khomas",
+          "slug": "khomas-na06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.472",
+      "lon": "17.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0606",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Samora Machel (Wanaheda)",
+      "en": "Samora Machel (Wanaheda)",
+      "slug": "samora-machel-wanaheda-na0606"
+    },
+    "code": {
+      "id": "NA0606",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA06",
+      "level": 1,
+      "name": {
+        "local": "Khomas",
+        "en": "Khomas",
+        "slug": "khomas-na06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA06",
+        "level": 1,
+        "name": {
+          "local": "Khomas",
+          "en": "Khomas",
+          "slug": "khomas-na06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.511",
+      "lon": "17.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0601",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Tobias Hainyeko",
+      "en": "Tobias Hainyeko",
+      "slug": "tobias-hainyeko-na0601"
+    },
+    "code": {
+      "id": "NA0601",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA06",
+      "level": 1,
+      "name": {
+        "local": "Khomas",
+        "en": "Khomas",
+        "slug": "khomas-na06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA06",
+        "level": 1,
+        "name": {
+          "local": "Khomas",
+          "en": "Khomas",
+          "slug": "khomas-na06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.491",
+      "lon": "17.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0607",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Windhoek East",
+      "en": "Windhoek East",
+      "slug": "windhoek-east-na0607"
+    },
+    "code": {
+      "id": "NA0607",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA06",
+      "level": 1,
+      "name": {
+        "local": "Khomas",
+        "en": "Khomas",
+        "slug": "khomas-na06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA06",
+        "level": 1,
+        "name": {
+          "local": "Khomas",
+          "en": "Khomas",
+          "slug": "khomas-na06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.627",
+      "lon": "17.161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0608",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Windhoek Rural",
+      "en": "Windhoek Rural",
+      "slug": "windhoek-rural-na0608"
+    },
+    "code": {
+      "id": "NA0608",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA06",
+      "level": 1,
+      "name": {
+        "local": "Khomas",
+        "en": "Khomas",
+        "slug": "khomas-na06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA06",
+        "level": 1,
+        "name": {
+          "local": "Khomas",
+          "en": "Khomas",
+          "slug": "khomas-na06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.91",
+      "lon": "17.093"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA0609",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Windhoek West",
+      "en": "Windhoek West",
+      "slug": "windhoek-west-na0609"
+    },
+    "code": {
+      "id": "NA0609",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA06",
+      "level": 1,
+      "name": {
+        "local": "Khomas",
+        "en": "Khomas",
+        "slug": "khomas-na06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA06",
+        "level": 1,
+        "name": {
+          "local": "Khomas",
+          "en": "Khomas",
+          "slug": "khomas-na06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.611",
+      "lon": "16.985"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

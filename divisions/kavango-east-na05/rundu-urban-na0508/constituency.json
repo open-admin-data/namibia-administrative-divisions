@@ -1,0 +1,45 @@
+{
+  "id": "NA0508",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Rundu Urban",
+    "en": "Rundu Urban",
+    "slug": "rundu-urban-na0508"
+  },
+  "code": {
+    "id": "NA0508",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA05",
+    "level": 1,
+    "name": {
+      "local": "Kavango East",
+      "en": "Kavango East",
+      "slug": "kavango-east-na05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA05",
+      "level": 1,
+      "name": {
+        "local": "Kavango East",
+        "en": "Kavango East",
+        "slug": "kavango-east-na05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.9",
+    "lon": "19.783"
+  },
+  "metadata": {},
+  "source": {}
+}

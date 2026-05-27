@@ -1,0 +1,45 @@
+{
+  "id": "NA0906",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Okarukambe (Steinhausen)",
+    "en": "Okarukambe (Steinhausen)",
+    "slug": "okarukambe-steinhausen-na0906"
+  },
+  "code": {
+    "id": "NA0906",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA09",
+    "level": 1,
+    "name": {
+      "local": "Omaheke",
+      "en": "Omaheke",
+      "slug": "omaheke-na09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA09",
+      "level": 1,
+      "name": {
+        "local": "Omaheke",
+        "en": "Omaheke",
+        "slug": "omaheke-na09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.74",
+    "lon": "19.066"
+  },
+  "metadata": {},
+  "source": {}
+}

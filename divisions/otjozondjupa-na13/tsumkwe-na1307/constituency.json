@@ -1,0 +1,45 @@
+{
+  "id": "NA1307",
+  "level": 2,
+  "level_name": {
+    "local": "Constituency",
+    "en": "Constituency"
+  },
+  "name": {
+    "local": "Tsumkwe",
+    "en": "Tsumkwe",
+    "slug": "tsumkwe-na1307"
+  },
+  "code": {
+    "id": "NA1307",
+    "iso": null
+  },
+  "parent": {
+    "id": "NA13",
+    "level": 1,
+    "name": {
+      "local": "Otjozondjupa",
+      "en": "Otjozondjupa",
+      "slug": "otjozondjupa-na13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "NA13",
+      "level": 1,
+      "name": {
+        "local": "Otjozondjupa",
+        "en": "Otjozondjupa",
+        "slug": "otjozondjupa-na13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.622",
+    "lon": "19.887"
+  },
+  "metadata": {},
+  "source": {}
+}

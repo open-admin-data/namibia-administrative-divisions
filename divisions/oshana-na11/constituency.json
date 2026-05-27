@@ -1,0 +1,452 @@
+[
+  {
+    "id": "NA1101",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Okaku",
+      "en": "Okaku",
+      "slug": "okaku-na1101"
+    },
+    "code": {
+      "id": "NA1101",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA11",
+      "level": 1,
+      "name": {
+        "local": "Oshana",
+        "en": "Oshana",
+        "slug": "oshana-na11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA11",
+        "level": 1,
+        "name": {
+          "local": "Oshana",
+          "en": "Oshana",
+          "slug": "oshana-na11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.78",
+      "lon": "15.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1102",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Okatana",
+      "en": "Okatana",
+      "slug": "okatana-na1102"
+    },
+    "code": {
+      "id": "NA1102",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA11",
+      "level": 1,
+      "name": {
+        "local": "Oshana",
+        "en": "Oshana",
+        "slug": "oshana-na11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA11",
+        "level": 1,
+        "name": {
+          "local": "Oshana",
+          "en": "Oshana",
+          "slug": "oshana-na11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.841",
+      "lon": "15.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1103",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Okatyali",
+      "en": "Okatyali",
+      "slug": "okatyali-na1103"
+    },
+    "code": {
+      "id": "NA1103",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA11",
+      "level": 1,
+      "name": {
+        "local": "Oshana",
+        "en": "Oshana",
+        "slug": "oshana-na11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA11",
+        "level": 1,
+        "name": {
+          "local": "Oshana",
+          "en": "Oshana",
+          "slug": "oshana-na11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.202",
+      "lon": "15.964"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1104",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Ompundja",
+      "en": "Ompundja",
+      "slug": "ompundja-na1104"
+    },
+    "code": {
+      "id": "NA1104",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA11",
+      "level": 1,
+      "name": {
+        "local": "Oshana",
+        "en": "Oshana",
+        "slug": "oshana-na11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA11",
+        "level": 1,
+        "name": {
+          "local": "Oshana",
+          "en": "Oshana",
+          "slug": "oshana-na11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.049",
+      "lon": "15.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1105",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Ondangwa",
+      "en": "Ondangwa",
+      "slug": "ondangwa-na1105"
+    },
+    "code": {
+      "id": "NA1105",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA11",
+      "level": 1,
+      "name": {
+        "local": "Oshana",
+        "en": "Oshana",
+        "slug": "oshana-na11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA11",
+        "level": 1,
+        "name": {
+          "local": "Oshana",
+          "en": "Oshana",
+          "slug": "oshana-na11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.879",
+      "lon": "15.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1106",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Ongwediva",
+      "en": "Ongwediva",
+      "slug": "ongwediva-na1106"
+    },
+    "code": {
+      "id": "NA1106",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA11",
+      "level": 1,
+      "name": {
+        "local": "Oshana",
+        "en": "Oshana",
+        "slug": "oshana-na11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA11",
+        "level": 1,
+        "name": {
+          "local": "Oshana",
+          "en": "Oshana",
+          "slug": "oshana-na11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.762",
+      "lon": "15.805"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1107",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Oshakati East",
+      "en": "Oshakati East",
+      "slug": "oshakati-east-na1107"
+    },
+    "code": {
+      "id": "NA1107",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA11",
+      "level": 1,
+      "name": {
+        "local": "Oshana",
+        "en": "Oshana",
+        "slug": "oshana-na11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA11",
+        "level": 1,
+        "name": {
+          "local": "Oshana",
+          "en": "Oshana",
+          "slug": "oshana-na11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.841",
+      "lon": "15.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1108",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Oshakati West",
+      "en": "Oshakati West",
+      "slug": "oshakati-west-na1108"
+    },
+    "code": {
+      "id": "NA1108",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA11",
+      "level": 1,
+      "name": {
+        "local": "Oshana",
+        "en": "Oshana",
+        "slug": "oshana-na11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA11",
+        "level": 1,
+        "name": {
+          "local": "Oshana",
+          "en": "Oshana",
+          "slug": "oshana-na11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.841",
+      "lon": "15.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1109",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Uukwiyu",
+      "en": "Uukwiyu",
+      "slug": "uukwiyu-na1109"
+    },
+    "code": {
+      "id": "NA1109",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA11",
+      "level": 1,
+      "name": {
+        "local": "Oshana",
+        "en": "Oshana",
+        "slug": "oshana-na11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA11",
+        "level": 1,
+        "name": {
+          "local": "Oshana",
+          "en": "Oshana",
+          "slug": "oshana-na11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.001",
+      "lon": "15.892"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NA1110",
+    "level": 2,
+    "level_name": {
+      "local": "Constituency",
+      "en": "Constituency"
+    },
+    "name": {
+      "local": "Uuvudhiya",
+      "en": "Uuvudhiya",
+      "slug": "uuvudhiya-na1110"
+    },
+    "code": {
+      "id": "NA1110",
+      "iso": null
+    },
+    "parent": {
+      "id": "NA11",
+      "level": 1,
+      "name": {
+        "local": "Oshana",
+        "en": "Oshana",
+        "slug": "oshana-na11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NA11",
+        "level": 1,
+        "name": {
+          "local": "Oshana",
+          "en": "Oshana",
+          "slug": "oshana-na11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.63",
+      "lon": "15.79"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]
